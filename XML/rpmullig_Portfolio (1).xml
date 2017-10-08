@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clients> 
+	<customers Name="John Smith" Number="227">
+		<portfolio>
+			<fund Brokerage="Schwab">
+				<stock Percent="75%" >
+					<symbol>MSFT</symbol>
+					<hi>44.15</hi>
+					<lo>43.39</lo>
+					<price>43.93</price>
+				</stock>
+				<stock Percent="25%" >
+					<symbol>GE</symbol>
+					<hi>25.17</hi>
+					<lo>24.78</lo>
+					<price>25.15</price>
+				</stock>
+			</fund>
+		</portfolio>
+	
+	
+	</customers>
+
+
+</clients>

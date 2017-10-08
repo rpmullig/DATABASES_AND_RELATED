@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classInformation>
+	<student>
+		<first>E</first>
+		<last>Smith</last>
+		<userID>5</userID>
+		<class>Jr</class>
+		<hometown>Bloomington</hometown>
+		<favorites>
+			<book>Twilight</book>
+			<movie>She's the Man</movie>
+			<color>Lime Green</color>
+			<TVshow>Prison Break</TVshow>
+		</favorites>
+		<hero>My dad</hero>
+		<hobby>Shopping </hobby>
+		<interestingFact>I love kickboxing</interestingFact>
+	</student>
+	<student>
+		<first>F</first>
+		<last>Smith</last>
+		<userID>6</userID>
+		<class>Sr</class>
+		<favorites>
+			<book>Mindless Eating</book>
+			<color>Blue</color>
+			<TVshow>American Idol</TVshow>
+		</favorites>
+		<hero>Superman</hero>
+		<hobby>Play the guitar</hobby>
+		<interestingFact>I'm kind of old because my age is 28 years old. Even though I'm</interestingFact>
+	</student>
+	<student>
+		<first>G</first>
+		<last>Smith</last>
+		<userID>7</userID>
+		<class>Junior</class>
+		<hometown>Bloomington</hometown>
+		<favorites>
+			<book>"Lord of the Rings"</book>
+			<movie>"It's a Wonderful Life"</movie>
+			<color>yellow</color>
+			<TVshow>"The Office"</TVshow>
+		</favorites>
+		<hero>my dad</hero>
+		<hobby>playing the violin</hobby>
+		<interestingFact>I've flown a plane</interestingFact>
+	</student>
+	<student>
+		<first>H</first>
+		<last>Smith</last>
+		<userID>8</userID>
+		<class>Senior</class>
+		<favorites>
+			<book>The Cat in the Hat</book>
+			<movie>Saving Private Ryan</movie>
+			<color>Blue</color>
+			<TVshow>ESPN Sports Center</TVshow>
+		</favorites>
+		<hero>Captain Underwear!</hero>
+		<hobby>Computer</hobby>
+		<interestingFact>I have crooked pinkies</interestingFact>
+	</student>
+	<student>
+		<first>I</first>
+		<last>Smith</last>
+		<userID>9</userID>
+		<class>Sophomoore</class>
+		<hometown>Bloomington</hometown>
+		<favorites>
+			<book>Bible</book>
+			<movie>7Pounds</movie>
+			<TVshow>Sportscenter</TVshow>
+		</favorites>
+		<hero>Jesus</hero>
+		<hobby>Exersice</hobby>
+		<interestingFact>I have lived in 4 different states</interestingFact>
+	</student>
+	<student>
+		<first>J</first>
+		<last>Smith</last>
+		<userID>10</userID>
+		<class>Junior</class>
+		<hometown>Bloomington</hometown>
+		<favorites>
+			<book>Da Vinci code, The</book>
+			<movie>Remember the Titans</movie>
+			<color>Navy</color>
+			<TVshow>How I Met Your Mother</TVshow>
+		</favorites>
+		<hero>Mom</hero>
+		<hobby>Golf</hobby>
+		<interestingFact>I'm fortunate enough to have two hole-in-ones.</interestingFact>
+	</student>
+	<student>
+		<first>A</first>
+		<last>Smith</last>
+		<userID>1</userID>
+		<class>Jr</class>
+		<hometown>Bloomington</hometown>
+		<favorites>
+			<book>Lord of the Rings</book>
+			<movie>It's a wonderful Life</movie>
+			<color>yellow </color>
+			<TVshow>The Office</TVshow>
+		</favorites>
+		<hero>my dad</hero>
+		<hobby>playing the violin</hobby>
+		<interestingFact>I've flown a plane</interestingFact>
+	</student>
+	<student>
+		<first>B</first>
+		<last>Smith</last>
+		<userID>2</userID>
+		<class>Sr</class>
+		<hometown>Bloomington</hometown>
+		<favorites>
+			<book>The tipping point</book>
+			<movie>American Gangster</movie>
+			<color>white</color>
+			<TVshow>Man vs Wild</TVshow>
+		</favorites>
+		<hero>Mark Zuckerberg</hero>
+		<hobby>Listening to music</hobby>
+		<interestingFact>I didn't speak any English 8yrs ago</interestingFact>
+	</student>
+	<student>
+		<first>C</first>
+		<last>Smith</last>
+		<userID>3</userID>
+		<class>SO</class>
+		<hometown>Bloomington</hometown>
+		<favorites>
+			<book>Great Expectations</book>
+			<movie>Heavyweights</movie>
+			<color>Blue</color>
+			<TVshow>Sienfeld</TVshow>
+		</favorites>
+		<hero>Bugs Bunny</hero>
+		<hobby>Movies</hobby>
+		<interestingFact>I can juggle very well</interestingFact>
+	</student>
+	<student>
+		<first>D</first>
+		<last>Smith</last>
+		<userID>4</userID>
+		<class>Jr</class>
+		<hometown>Bloomington</hometown>
+		<favorites>
+			<book>Case of the Drowning Duck</book>
+			<movie>The Ring</movie>
+			<color>Black</color>
+			<TVshow>"V"</TVshow>
+		</favorites>
+		<hero>James Bond</hero>
+		<hobby>Driving</hobby>
+		<interestingFact> </interestingFact>
+	</student>
+</classInformation>

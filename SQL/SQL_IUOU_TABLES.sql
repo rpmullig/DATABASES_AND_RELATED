@@ -1,0 +1,255 @@
+/*select 'drop table ' ||TABLE_NAME|| ' cascade constraints;' from user_tables;*/
+
+drop table EMPLOYEE_T cascade constraints;
+drop table STUDENTS_T cascade constraints;
+drop table POS_T cascade constraints;
+drop table HOURLOG_T cascade constraints;
+drop table COURSES_T cascade constraints;
+drop table TRANSPORTATION_T cascade constraints;
+drop table PERMITS_T cascade constraints;
+drop table FACILITIES_T cascade constraints;
+drop table VENDOR_T cascade constraints;
+drop table PRODUCTS_T cascade constraints;
+drop table RENTALS_T cascade constraints;
+drop table MERCHANDISE_T cascade constraints;
+drop table VACATION_T cascade constraints;
+drop table CERTIFICATIONS_T cascade constraints;
+drop table EQUIPMENT_T cascade constraints;
+drop table EMPLOYEE_TRAINING_T cascade constraints;
+drop table CUSTOMERS_T cascade constraints;
+drop table ENROLLMENT_T cascade constraints;
+drop table TRIPS_T cascade constraints;
+drop table SECTIONS_T cascade constraints;
+drop table INSTRUCTOR_T cascade constraints;
+drop table CARD_T cascade constraints;
+drop table TRANSACTIONS_T cascade constraints;
+drop table TRANSPORTATION_LOG_T cascade constraints;
+drop table EQUIPMENT_LOG_T cascade constraints;
+drop table PERMITS_LOG_T CASCADE CONSTRAINTS;
+DROP TABLE FACILITIES_LOG_T CASCADE CONSTRAINTS;
+
+CREATE TABLE CUSTOMERS_T
+(Customer_ID    	NUMBER(10)    	NOT NULL,
+CustomerName    VARCHAR2(20)    	NOT NULL,
+PhoneNumber    	varchar2(20),   	 
+Address        	VARCHAR2(200),   	 
+Email           	VARCHAR2(100),   	 
+CustomerSince    	DATE, 
+CONSTRAINT CUSTOMERS_PK PRIMARY KEY (Customer_ID)
+);
+
+CREATE TABLE CARD_T
+(CardNumber    	NUMBER(20)    	NOT NULL,
+Customer_ID    	NUMBER(10)    	NOT NULL,
+CardType  varchar(20) not null,
+Exp_Date        	DATE        	NOT NULL,
+CONSTRAINT Card_PK PRIMARY KEY (CardNumber),
+CONSTRAINT CARD_FK FOREIGN KEY (Customer_ID) REFERENCES Customers_T(Customer_ID)
+);
+
+CREATE TABLE EMPLOYEE_T
+(Employee_ID 	NUMBER(11,0) 	NOT NULL,
+EmployeeName 	VARCHAR(20) 	NOT NULL,
+Birthdate    	DATE         	NOT NULL,
+Full_time    	varchar(1),
+WageRate     	NUMBER(6,2)  	NOT NULL,
+CONSTRAINT EMPLOYEE_PK PRIMARY KEY (Employee_ID)
+);
+
+CREATE TABLE STUDENTS_T
+(Student_ID    	NUMBER(10)    	NOT NULL,
+StudentName    	VARCHAR(20)    	NOT NULL,
+Birthdate    	DATE    		NOT NULL,
+Major        	VARCHAR(20)    	NOT NULL,
+Address        	VARCHAR(100)    	NOT NULL,
+CONSTRAINT STUDENTS_PK PRIMARY KEY (Student_ID));
+
+CREATE TABLE POS_T
+(StationID      	NUMBER(10)    	NOT NULL,
+Station_Location	varchar(40)   	NOT NULL,
+Address Varchar(50) not null,
+PhoneNumber     	NUMBER(15)     	NOT NULL,
+CONSTRAINT POS_T PRIMARY KEY (StationID)
+);
+
+CREATE TABLE HOURLOG_T
+(Employee_ID    	NUMBER(10)    	NOT NULL,
+WorkDate        	DATE        	NOT NULL,
+PayType        	VARCHAR(6)    	NOT NULL,
+HoursWorked    	NUMBER(2)    	NOT NULL,
+StationID    	NUMBER(10)    	NOT NULL,
+CONSTRAINT HOURLOG_FK FOREIGN KEY (Employee_ID) REFERENCES EMPLOYEE_T(Employee_ID),
+CONSTRAINT HOURLOG_FK1 FOREIGN KEY (StationID) REFERENCES POS_T(StationID)
+);
+
+CREATE TABLE COURSES_T
+(CourseID         		VARCHAR(10)    	NOT NULL,
+COURSENAME    		VARCHAR(20)    	NOT NULL,   	 
+UNITS   	VARCHAR(20)    	NOT NULL,
+PRICE VARCHAR(20) NOT NULL,
+CONSTRAINT COURSE_PK PRIMARY KEY (CourseID)
+);
+
+CREATE TABLE TRANSPORTATION_T
+(Car_ID        	NUMBER(10)    	NOT NULL,
+CarType        	VARCHAR(20)    	NOT NULL,
+Make        	VARCHAR(20)    	NOT NULL,
+Car_Model        	VARCHAR(20)    	NOT NULL,
+Car_year        	NUMBER(4)    	NOT NULL,
+Color        	VARCHAR(10),   	 
+LicenseNumber    VARCHAR(10)    	NOT NULL,
+CONSTRAINT TRANSPORTATION_PK PRIMARY KEY (Car_ID)
+);
+
+CREATE TABLE PERMITS_T    
+(Permit_ID    	NUMBER(10)    	NOT NULL,
+ParkName    	VARCHAR(50)    	NOT NULL,
+PermitCost    	NUMBER(20)    	NOT NULL,
+PermitDuration    	DATE        	NOT NULL,
+CONSTRAINT PERMITS_PK PRIMARY KEY (Permit_ID)
+);
+
+CREATE TABLE FACILITIES_T
+(Facility_ID    	NUMBER(10)    	NOT NULL,
+FacilityName    	VARCHAR(50)    	NOT NULL,
+FacilityLocation    VARCHAR(20)    	NOT NULL,
+CONSTRAINT FACILITIES_PK PRIMARY KEY (Facility_ID));
+
+CREATE TABLE VENDOR_T
+(VendorID          		NUMBER(10)    	NOT NULL,
+VendorName          	VARCHAR(25)    	NOT NULL,
+Vendor_Category    	VARCHAR(25)    	NOT NULL,
+CategoryDescription	VARCHAR(150),   	 
+CONSTRAINT VENDOR_PK PRIMARY KEY (VendorID)
+);
+
+CREATE TABLE PRODUCTS_T
+(Product_ID       	NUMBER(10)  	NOT NULL,
+VendorID         	NUMBER(10)   	NOT NULL,
+WholesaleCost    	NUMBER(8)    	NOT NULL,
+CatalogPrice     	NUMBER(8)    	NOT NULL,
+Description      	VARCHAR(100)  NOT NULL, 	
+ProductType      	VARCHAR(50)    	NOT NULL,
+CONSTRAINT PRODUCTS_PK PRIMARY KEY (Product_ID),
+CONSTRAINT PRODUCTS_FK FOREIGN KEY (VendorID) REFERENCES VENDOR_T(VendorID)
+);
+
+CREATE TABLE RENTALS_T
+(Rental_ID    	NUMBER(10)   	NOT NULL,
+RentalName    	VARCHAR(20)  	NOT NULL,
+RentalDate    	DATE      	NOT NULL,
+DateReturned  	DATE,
+Returned VARCHAR(1) not null,
+CONSTRAINT RENTALS_PK FOREIGN KEY (Rental_ID) REFERENCES PRODUCTS_T(PRODUCT_ID)
+);
+
+CREATE TABLE MERCHANDISE_T
+(MerchandiseID    	NUMBER(10)  	NOT NULL,
+MerchandiseName 	varchar(50)        	NOT NULL,
+CONSTRAINT MERCHANDISE_FK FOREIGN KEY (MerchandiseID) REFERENCES PRODUCTS_T(Product_ID)
+);
+
+CREATE TABLE VACATION_T
+(Vacation_ID    	NUMBER(10)    	NOT NULL,
+TripDate        	DATE          	NOT NULL,
+TripLocation    	varchar(40)   	NOT NULL,
+CONSTRAINT VACATION_FK FOREIGN KEY (Vacation_ID) REFERENCES PRODUCTS_T(Product_ID)
+);
+
+CREATE TABLE CERTIFICATIONS_T
+(Training_ID     	NUMBER(10)     	NOT NULL,
+Certification_Name VARCHAR(20),  
+Requirements       VARCHAR(20),
+CONSTRAINT CERTIFICATIONS_PK Primary KEY (Training_ID)
+);
+
+CREATE TABLE EQUIPMENT_T
+(EquipmentID    		NUMBER(10)    	NOT NULL,
+EquipmentName    	varchar(50)    	NOT NULL,
+Color varchar(20),
+Brand varchar(20),
+CONSTRAINT EQUIPMENT_PK PRIMARY KEY (EquipmentID)
+);
+
+CREATE TABLE EMPLOYEE_TRAINING_T
+(Employee_ID    		NUMBER(10)       NOT NULL,
+Training_ID      		NUMBER(10)     	NOT NULL,
+DateCompleted    	DATE,
+CONSTRAINT EMPLOYEE_TRAINING_FK1 FOREIGN KEY (Employee_ID) REFERENCES EMPLOYEE_T(Employee_ID),
+CONSTRAINT EMPLOYEE_TRAINING_FK2 FOREIGN KEY (Training_ID) REFERENCES CERTIFICATIONS_T(Training_ID));
+
+CREATE TABLE TRANSACTIONS_T
+(TransactionID    		NUMBER(10)    	NOT NULL,
+TransactionDate    	DATE  NOT NULL,
+Customer_ID    	NUMBER(10)    	NOT NULL,
+StationID    		NUMBER(10)    	NOT NULL,
+Product_ID    		NUMBER(10)    	NOT NULL,
+CONSTRAINT TRANSACTIONS_PK PRIMARY KEY (TransactionID),
+CONSTRAINT TRANSACTIONS_FK1 FOREIGN KEY (StationID) REFERENCES pos_T(StationID),
+CONSTRAINT TRANSACTIONS_FK2 FOREIGN KEY (Product_ID) REFERENCES PRODUCTS_T(PRODUCT_ID),
+CONSTRAINT TRANSACTIONS_FK3 FOREIGN KEY (customer_ID) REFERENCES Customers_T(customer_ID)
+);
+
+CREATE TABLE ENROLLMENT_T
+(Student_ID    	NUMBER(10)    	NOT NULL,
+CourseID    	VARCHAR(25)    	NOT NULL,
+Grade        	VARCHAR(2),
+Attendance    	VARCHAR(20),
+Semester  Varchar(20),
+CONSTRAINT ENROLLMENT_FK1 FOREIGN KEY (Student_ID) REFERENCES STUDENTS_T(Student_ID),
+CONSTRAINT ENROLLMENT_FK2 FOREIGN KEY (CourseID) REFERENCES COURSES_T(CourseID)
+);
+
+CREATE TABLE TRIPS_T
+(TripID    	VARCHAR(10)        	NOT NULL,
+TripDate  DATE  NOT NULL,
+Destination    	VARCHAR(40)    	NOT NULL,
+CONSTRAINT TRIPS_PK PRIMARY KEY (TripID)
+);
+
+CREATE TABLE SECTIONS_T
+(Section_ID    	NUMBER(10)    	NOT NULL,
+CourseID    	VARCHAR(20)    	NOT NULL,
+Room_Number  VARCHAR(20),
+TripID  Varchar(20) not null,
+CONSTRAINT SECTIONS_PK PRIMARY KEY (Section_ID),
+CONSTRAINT SECTIONS_FK1 FOREIGN KEY (CourseID) REFERENCES COURSES_T(CourseID),
+CONSTRAINT SECTIONS_FK2 FOREIGN KEY (TripID) REFERENCES TRIPS_T(TripID)
+);
+
+CREATE TABLE INSTRUCTOR_T
+(Section_ID    	VARCHAR(20)    	NOT NULL,
+Employee_ID    	NUMBER(20)    	NOT NULL,
+InstructorName    	VARCHAR(25)    	NOT NULL,
+CONSTRAINT INSTRUCTOR_PK PRIMARY KEY (Section_ID),
+CONSTRAINT INSTRUCTOR_FK FOREIGN KEY (Employee_ID) REFERENCES EMPLOYEE_T(Employee_ID)
+);
+
+CREATE TABLE TRANSPORTATION_LOG_T
+(TripID  Varchar(20) not null,
+Car_ID        	NUMBER(10)    	NOT NULL,
+CONSTRAINT TRANSPORTATION_LOG_FK1 FOREIGN KEY (TRIPID) REFERENCES TRIPS_T(TRIPID),
+CONSTRAINT TRANSPORTATION_LOG_FK2 FOREIGN KEY (CAR_ID) REFERENCES TRANSPORTATION_T(CAR_ID)
+);
+
+CREATE TABLE EQUIPMENT_LOG_T
+(TripID  Varchar(20) not null,
+EquipmentID    		NUMBER(10)    	NOT NULL,
+CONSTRAINT EQUIPMENT_LOG_FK1 FOREIGN KEY (TRIPID) REFERENCES TRIPS_T(TRIPID),
+CONSTRAINT EQUIPMENT_LOG_FK2 FOREIGN KEY (EQUIPMENTID) REFERENCES EQUIPMENT_T(EQUIPMENTID)
+);
+
+CREATE TABLE PERMITS_LOG_T
+(TripID  Varchar(20) not null,
+Permit_ID    	NUMBER(10)    	NOT NULL,
+CONSTRAINT PERMITS_LOG_FK1 FOREIGN KEY (TRIPID) REFERENCES TRIPS_T(TRIPID),
+CONSTRAINT PERMITS_LOG_FK2 FOREIGN KEY (PERMIT_ID) REFERENCES PERMITS_T(PERMIT_ID)
+);
+
+CREATE TABLE FACILITIES_LOG_T
+(TripID  Varchar(20) not null,
+Facility_ID    	NUMBER(10)    	NOT NULL,
+CONSTRAINT FACILITIES_LOG_FK1 FOREIGN KEY (TRIPID) REFERENCES TRIPS_T(TRIPID),
+CONSTRAINT FACILITIES_LOG_FK2 FOREIGN KEY (FACILITY_ID) REFERENCES FACILITIES_T(FACILITY_ID)
+);
+

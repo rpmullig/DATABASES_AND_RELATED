@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myInformation>
+    <firstName>Robert</firstName>
+    <lastName>Mulligan</lastName>
+    <userID>rpmullig</userID>
+    <class>Senior</class>
+    <hometown>Indianapolis</hometown>
+    <favorites>
+        <book>Sherlock Holmes</book>
+        <movie>Forest Gump</movie>
+        <color>Blue</color>
+        <hero>Grandfather</hero>
+        <hobby>Rock Climbing</hobby>
+    </favorites>
+    <interestingFact>I have been too and still aid an orphanage in Haiti</interestingFact>
+    
+</myInformation>
