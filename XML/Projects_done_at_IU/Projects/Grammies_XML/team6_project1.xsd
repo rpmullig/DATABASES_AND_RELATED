@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="MUSIC">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="ARTIST">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ARTISTNAME" type="xs:string"/> 
+              <xs:element name="ARTISTTYPE" type="xs:string"/> 
+              <xs:element name="ARTISTCOUNTRY" type="xs:string"/>
+              <xs:element name="GROUPNAMES" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+              <xs:element name="CAREERSTART" minOccurs="0" >
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:pattern value="([0-9]{4})(s)?"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CAREEREND" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:pattern value="([0-9]{4})(s)?"/>
+                    <xs:pattern value="Present"/>
+                    <xs:pattern value=""/>
+                    <xs:pattern value="N/A"></xs:pattern>
+                  </xs:restriction>  
+                </xs:simpleType>
+              </xs:element>               
+              <xs:element name="GENRE" type="xs:string" />
+              <xs:element name="ALBUM" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="TEAMRANKING" minOccurs="0">
+                      <xs:simpleType>
+                        <xs:restriction base="xs:positiveInteger">
+                          <xs:minInclusive value="1"></xs:minInclusive>
+                          <xs:maxInclusive value="15"></xs:maxInclusive>
+                        </xs:restriction>
+                      </xs:simpleType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="RATING" >
+                      <xs:simpleType>
+                        <xs:restriction base="xs:integer">
+                          <xs:maxInclusive value="10"/>
+                          <xs:minInclusive value="1" />
+                        </xs:restriction>
+                      </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="COMMENT">
+                      <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                          <xs:minLength value="10" />
+                          <xs:maxLength value="250" />
+                        </xs:restriction>
+                      </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="ALBUMNAME"  >
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="albumCategory" use="required">
+                              <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                  <xs:enumeration value="Grammy_Winner"/>
+                                  <xs:enumeration value="Grammy_Nominee"/>
+                                  <xs:enumeration value="Personal_Favorite"/>
+                                </xs:restriction>
+                              </xs:simpleType>
+                            </xs:attribute>
+                            <xs:attribute name="type" type="productType" use="required" >
+                            </xs:attribute>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="ALBUMCOVER">
+                        <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                             <xs:pattern value=".+[.](jpeg|png|jpg)"/>
+                          
+                        </xs:restriction>
+                        </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="IMAGESOURCE" type="xs:string" />
+                    <xs:element name="PRODUCERS" minOccurs="0" maxOccurs="unbounded" type="xs:string" />
+                    <xs:element name="MIXERS" minOccurs="0"  maxOccurs="unbounded" type="xs:string" />
+                    <xs:element name="MASTERENGINEERS" minOccurs="0"  maxOccurs="unbounded" type="xs:string" />
+                    <xs:element name="LABEL" minOccurs="0" type="xs:string" />
+                    <xs:element name="RELEASEINFORMATION">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element maxOccurs="unbounded" name="RELEASEDATA">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="RELEASEDATE" minOccurs="0">
+                                  <xs:simpleType>
+                                    <xs:restriction base="xs:string" >
+                                      <xs:pattern value="([0-9])*([/]|[-])?([0-9]*)([/]|[-])?([0-9]*)"/>
+                                      <!-- One XML file had the date data wrong so we made it accepting to all data in the file -->
+                                    </xs:restriction>
+                                  </xs:simpleType>
+                                </xs:element>
+                                <xs:element minOccurs="0" name="RECORDLABEL" type="xs:string" />
+                                <xs:element minOccurs="0" name="RECORDLABELCATALOGNUMBER" type="xs:string" />
+                                <xs:element minOccurs="0" name="BARCODENUMBER" type="xs:string" />
+                                <xs:element minOccurs="0" name="COUNTRY" type="xs:string" />
+                                <xs:element minOccurs="0" name="FORMAT" type="xs:string" />
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="TRACKLIST">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element maxOccurs="unbounded" name="SONG">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="SONGNAME" type="xs:string"/>
+                                <xs:element name="SONGLENGTH"      >
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:string">
+                                    <xs:pattern value="([0-9]*)(:)[0-9]{2}" />
+                                  </xs:restriction>
+                                </xs:simpleType>
+                                </xs:element>
+                                <xs:element name="COMPOSERS" type="xs:string" />
+                                <xs:element name="SONGNUMBER" type="xs:integer"/>
+                              </xs:sequence>
+                              <xs:attribute name="sku" use="required" >
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:ID">
+                                    <xs:pattern value=".+[-](K315FL15)[A-Z]([0-9]{3})" />
+                                    <xs:pattern value=".+[-](K315FL)[A-Z]([0-9]{3})" />
+                                    <!-- One XML file was missing the 15 in the data so we added it to the pattern value accepted-->
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
+                              <xs:attribute name="albumref" use="required">
+                                <xs:simpleType>
+                                  <xs:restriction base="xs:IDREF">
+                                    <xs:pattern value=".+[-](K315FL15)([A-Z])"></xs:pattern>
+                                  </xs:restriction>
+                                </xs:simpleType>
+                              </xs:attribute>
+                              <xs:attribute name="type" type="xs:string" use="required" />
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="sku" use="required" >
+                    <xs:simpleType>
+                    <xs:restriction base="xs:ID">
+                      <xs:pattern value=".+[-](K315FL15)([A-Z])" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                 </xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+
+
+
+  <xs:simpleType name="productType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="song"/>
+      <xs:enumeration value="album"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+
+</xs:schema>

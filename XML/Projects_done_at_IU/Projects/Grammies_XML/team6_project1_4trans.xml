@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MUSIC>
+   <ARTIST>
+      <ARTISTNAME>Beck</ARTISTNAME>
+      <ARTISTTYPE>Individual</ARTISTTYPE>
+      <ARTISTCOUNTRY>USA</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1994</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>Pop Rock</GENRE>
+      <ALBUM sku="jhbae-K315FL15A">
+         <RATING>1</RATING>
+         <COMMENT>No comment. I do not listen to Beck.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Winner" type="album">Morning Phase</ALBUMNAME>
+         <ALBUMCOVER>"Beck.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS>Beck Hansen</PRODUCERS>
+         <MIXERS> Tom Elmhirst, David Greenbaum, Cole Marsden Greif-Neill, Florian Lagatta, Robbie Nelson, Darrell Thorp, Cassidy Turbin, Joe Visciano</MIXERS>
+         <MASTERENGINEERS> Bob Ludwig</MASTERENGINEERS>
+         <LABEL>Capitol Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-21</RELEASEDATE>
+               <RECORDLABEL>Fonograf Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Fonograf Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3764975</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983802</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>602537649754</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983901</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649747</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983802</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLA001" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Cycle</SONGNAME>
+               <SONGLENGTH>0:40</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA002" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Morning</SONGNAME>
+               <SONGLENGTH>5:19</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA003" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Heart Is a Drum</SONGNAME>
+               <SONGLENGTH>4:31</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA004" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Say Goodbye</SONGNAME>
+               <SONGLENGTH>3:29</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA005" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Blue Moon</SONGNAME>
+               <SONGLENGTH>4:02</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA006" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Unforgiven</SONGNAME>
+               <SONGLENGTH>4:34</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA007" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Wave</SONGNAME>
+               <SONGLENGTH>3:40</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA008" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Don't Let It Go</SONGNAME>
+               <SONGLENGTH>3:09</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA009" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Blackbird Chain</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA010" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Phase</SONGNAME>
+               <SONGLENGTH>1:03</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA011" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Turn Away</SONGNAME>
+               <SONGLENGTH>3:05</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA012" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Country Down</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLA013" albumref="jhbae-K315FL15A" type="song">
+               <SONGNAME>Waking Light</SONGNAME>
+               <SONGLENGTH>5:02</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Beyoncé</ARTISTNAME>
+      <ARTISTTYPE>Individual</ARTISTTYPE>
+      <ARTISTCOUNTRY>USA</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2001</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>R&amp;B</GENRE>
+      <ALBUM sku="jhbae-K315FL15B">
+         <RATING>9</RATING>
+         <COMMENT>This is a musical master piece. Beyonce even integrated her 1 year old child into this album. It is fabulous.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">Beyoncé</ALBUMNAME>
+         <ALBUMCOVER>"Beyonce.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS> Ammo, Boots, James Fauntleroy, Noel "Detail" Fisher, Jerome Harmon, Hit-Boy, Beyoncé Knowles, Terius "The Dream" Nash, Caroline Polachek, Rey Reel, Noah "40" Shebib, Ryan Tedder, Timbaland, Justin Timberlake, Key Wane, Pharrell Williams, Patrick Wimberly</PRODUCERS>
+         <MIXERS> Boots, Noel Cadastre, Noel "Gadget" Campbell, Rob Cohen, Andrew Coleman, Chris Godbey, Justin Hergett, James Krausse, Mike Larson, Jonathan Lee, Tony Maserati, Ann Mincieli, Caroline Polachek, Andrew Scheps, Bart Schoudel, Noah "40" Shebib, Ryan Tedder, Stuart White , Jordan "DJ Swivel" Young</MIXERS>
+         <MASTERENGINEERS> Tom Coyne, James Krausse, Aya Merrill</MASTERENGINEERS>
+         <LABEL>Columbia Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2013-12-13</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2013-12-20</RELEASEDATE>
+               <RECORDLABEL>Columbia, Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843032512</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430325128</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2013-12-20</RELEASEDATE>
+               <RECORDLABEL>Columbia, Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843032512</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430325128</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-12</RELEASEDATE>
+               <RECORDLABEL>Sony Records International</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-4090, SICP-4091</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366213270</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-04-01</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX02354B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366215236</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-11-24</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03191B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366231373</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-11-24</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-11-24</RELEASEDATE>
+               <RECORDLABEL>Columbia, Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-11-24</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886444955379</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-01-21</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03238B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366232189</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-01-21</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03239B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366232196</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843045342</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430453425</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT/>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLB001" albumref="jhbae-" type="song">
+               <SONGNAME>Pretty Hurts</SONGNAME>
+               <SONGLENGTH>4:17</SONGLENGTH>
+               <COMPOSERS>Joshua Coleman , Sia Furler , Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB002" albumref="jhbae-" type="song">
+               <SONGNAME>Ghost/Haunted</SONGNAME>
+               <SONGLENGTH>6:09</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB003" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Drunk in Love</SONGNAME>
+               <SONGLENGTH>5:23</SONGLENGTH>
+               <COMPOSERS>Shawn Carter , Rasool Diaz , Noel "Detail" Fisher , Jerome Harmon , Beyoncé Knowles , Andre Proctor , Brian Soko</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB004" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Blow</SONGNAME>
+               <SONGLENGTH>5:09</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy , Jerome Harmon , Beyoncé Knowles , Terius "The-Dream" Nash , Justin Timberlake , Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB005" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>No Angel</SONGNAME>
+               <SONGLENGTH>3:48</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy , Beyoncé Knowles , Caroline Polachek</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB006" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Yoncé,Partition</SONGNAME>
+               <SONGLENGTH>5:19</SONGLENGTH>
+               <COMPOSERS>Jerome Harmon , Beyoncé Knowles , Terius "The-Dream" Nash , Justin Timberlake , Dwane Weir</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB007" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Jealous</SONGNAME>
+               <SONGLENGTH>3:04</SONGLENGTH>
+               <COMPOSERS>Lyrica Anderson , Rasool Diaz , Noel "Detail" Fisher , Beyoncé Knowles , Andre Proctor , Brian Soko</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB008" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Rocket</SONGNAME>
+               <SONGLENGTH>6:31</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy , Jerome Harmon , Beyoncé Knowles , Miguel Jontel Pimentel , Justin Timberlake</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB009" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Mine</SONGNAME>
+               <SONGLENGTH>6:18</SONGLENGTH>
+               <COMPOSERS>Sidney "Omen" Brown , Aubrey "Drake" Graham , Beyoncé Knowles , Noah Shebib , Jordan Kenneth Cooke Ullman , Dwane Weir</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB010" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>XO</SONGNAME>
+               <SONGLENGTH>3:35</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles , Terius "The-Dream" Nash , Ryan Tedder</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB011" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>***Flawless</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Chauncey Hollis , Beyoncé Knowles , Rashad Muhammad , Terius "The-Dream" Nash , Rey Reel</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB012" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Superpower</SONGNAME>
+               <SONGLENGTH>4:36</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles , Frank Ocean , Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB013" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Heaven</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLB014" albumref="jhbae-K315FL15B" type="song">
+               <SONGNAME>Blue/Grown Woman</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Jerome Harmon , Beyoncé Knowles , Garland Mosley , Terius "The-Dream" Nash , D. Pearson , Kelly Sheehan</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Ed Sheeran</ARTISTNAME>
+      <ARTISTTYPE>Individual</ARTISTTYPE>
+      <ARTISTCOUNTRY>England</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1991</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>Pop Rock</GENRE>
+      <ALBUM sku="jhbae-K315FL15C">
+         <RATING>6</RATING>
+         <COMMENT>This album is amazing. I especially like the song One.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">X</ALBUMNAME>
+         <ALBUMCOVER>"Ed Sheeran.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS>Jeff Bhasker, Benny Blanco, Jake Gosling, Johnny McDaid, Rick Rubin, Pharrell Williams</PRODUCERS>
+         <MIXERS> Andrew Coleman, Jake Gosling, Matty Green, William Hicks, Tyler Sam Johnson, Jason Lader, Johnny McDaid, Chris Sclafani, Mark Stent, Geoff Swan</MIXERS>
+         <MASTERENGINEERS> Stuart Hawkes</MASTERENGINEERS>
+         <LABEL>Atlantic</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-23</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Asylum Records, Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Atlantic Records UK</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285037</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Warner Music UK Ltd.</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285891</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Atlantic Records UK</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285891</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-23</RELEASEDATE>
+               <RECORDLABEL>Warner Music UK Ltd.</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>825646285907</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285907</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-23</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>825646285860</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285860</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-23</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>543295-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285907</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2-564628</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285860</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLC001" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>One</SONGNAME>
+               <SONGLENGTH>4:12</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC002" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>I'm a Mess</SONGNAME>
+               <SONGLENGTH>4:04</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC003" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Sing</SONGNAME>
+               <SONGLENGTH>3:55</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran , Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC004" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Don't</SONGNAME>
+               <SONGLENGTH>3:39</SONGLENGTH>
+               <COMPOSERS>Benjamin Levin , Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC005" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Nina</SONGNAME>
+               <SONGLENGTH>3:45</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid , Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC006" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Photograph</SONGNAME>
+               <SONGLENGTH>4:18</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid , Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC007" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Bloodstream</SONGNAME>
+               <SONGLENGTH>5:00</SONGLENGTH>
+               <COMPOSERS>Gary Lightbody , Johnny McDaid , Rudimental , Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC008" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Tenerife Sea</SONGNAME>
+               <SONGLENGTH>4:01</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid , Ed Sheeran , Foy Vance</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC009" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Runaway</SONGNAME>
+               <SONGLENGTH>3:25</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran , Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC010" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>The Man</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC011" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Thinking Out Loud</SONGNAME>
+               <SONGLENGTH>4:41</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran , Amy Wadge</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLC012" albumref="jhbae-K315FL15C" type="song">
+               <SONGNAME>Afire Love</SONGNAME>
+               <SONGLENGTH>5:16</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid , Ed Sheeran , Foy Vance</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Sam Smith</ARTISTNAME>
+      <ARTISTTYPE>Individual</ARTISTTYPE>
+      <ARTISTCOUNTRY>England</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2012</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>Pop Rock</GENRE>
+      <ALBUM sku="jhbae-K315FL15D">
+         <RATING>7</RATING>
+         <COMMENT>Sam Smith's voice was a blessing from angels. I love the jazzy twist he integrates in each song.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">In The Lonely Hour</ALBUMNAME>
+         <ALBUMCOVER>"Sam Smith.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS>Steve Fitzmaurice, Komi, Howard Lawrence, Zane Lowe, Mojam, Jimmy Napes, Naughty Boy, Fraser T. Smith, Two Inch Punch, Eg Whits</PRODUCERS>
+         <MIXERS> Michael Angelo, Graham Archer, Steve Fitzmaurice, Simon Hale, Darren Heelis, James Murray, Jimmy Napes, Mustafa Omer, Dan Parry, Steve Price, Eg White</MIXERS>
+         <MASTERENGINEERS> Tom Coyne, Stuart Hawkes</MASTERENGINEERS>
+         <LABEL>Capitol Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-05-23</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-05-26</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3769173</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537691739</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-17</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-17</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B002057502</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537799251</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-17</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B002061102</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537802371</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-01-21</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICC-10015</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005867308</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-01</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLD001" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>Money On My Mind</SONGNAME>
+               <SONGLENGTH>3:13</SONGLENGTH>
+               <COMPOSERS>Ben Ash , Sam Smith</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD002" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>Good Thing</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Sam Smith , Eg White</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD003" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>Stay With Me</SONGNAME>
+               <SONGLENGTH>2:52</SONGLENGTH>
+               <COMPOSERS>James Napier , William Phillips , Sam Smith</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD004" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>Leave Your Lover</SONGNAME>
+               <SONGLENGTH>3:08</SONGLENGTH>
+               <COMPOSERS>Simon Aldred , Sam Smith</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD005" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>I'm Not The Only One</SONGNAME>
+               <SONGLENGTH>3:59</SONGLENGTH>
+               <COMPOSERS>James Napier , Sam Smith</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD006" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>I've Told You Now</SONGNAME>
+               <SONGLENGTH>3:30</SONGLENGTH>
+               <COMPOSERS>Sam Smith , Eg White</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD007" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>Like I Can</SONGNAME>
+               <SONGLENGTH>2:47</SONGLENGTH>
+               <COMPOSERS>Matt Prime , Sam Smith</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD008" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>Life Support</SONGNAME>
+               <SONGLENGTH>2:53</SONGLENGTH>
+               <COMPOSERS>Ben Ash , Sam Smith</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD009" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>Not In That Way</SONGNAME>
+               <SONGLENGTH>2:52</SONGLENGTH>
+               <COMPOSERS>Fraser T. Smith , Sam Smith</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLD010" albumref="jhbae-K315FL15D" type="song">
+               <SONGNAME>Lay Me Down</SONGNAME>
+               <SONGLENGTH>4:15</SONGLENGTH>
+               <COMPOSERS>James Napier , Elvin Smith , Sam Smith</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Pharrell Williams</ARTISTNAME>
+      <ARTISTTYPE>Individual</ARTISTTYPE>
+      <ARTISTCOUNTRY>USA</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1992</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>R&amp;B</GENRE>
+      <ALBUM sku="jhbae-K315FL15E">
+         <RATING>2</RATING>
+         <COMMENT>Pharrell Williams looks like he hasn't aged in twenty years, and this album is catchy.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">Girl</ALBUMNAME>
+         <ALBUMCOVER>"Pharrell.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS> Pharrell Williams</PRODUCERS>
+         <MIXERS> Leslie Brathwaite, Adrian Breakspear, Andrew Coleman, Jimmy Douglas, Hart Gunther, Mick Guzauski, Florian Lagatta, Mike Larson, Stephanie McNally, Alan Meyerson, Ann Mincieli, Kenta Yonesaka</MIXERS>
+         <MASTERENGINEERS> Bob Ludwig</MASTERENGINEERS>
+         <LABEL>Columbia Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-03-03</RELEASEDATE>
+               <RECORDLABEL>Columbia </RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-03-03</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-03-03</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-03-03</RELEASEDATE>
+               <RECORDLABEL>Back Lot Music</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886444495165</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-04-30</RELEASEDATE>
+               <RECORDLABEL>Sony Records International</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-4129</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366216660</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-04-18</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>PHARRELLGIRL001</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT/>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLE002" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Marilyn Monroe</SONGNAME>
+               <SONGLENGTH>5:51</SONGLENGTH>
+               <COMPOSERS>Ann Marie Calhoun / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE003" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Brand New</SONGNAME>
+               <SONGLENGTH>4:31</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE004" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Hunter</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE005" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Gush</SONGNAME>
+               <SONGLENGTH>3:54</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE006" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Happy [From Despicable Me 2]</SONGNAME>
+               <SONGLENGTH>3:52</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE007" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Come Get It Bae</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE008" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Gust of Wind</SONGNAME>
+               <SONGLENGTH>4:45</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE009" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Lost Queen</SONGNAME>
+               <SONGLENGTH>7:56</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE010" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>Who You Are</SONGNAME>
+               <SONGLENGTH>3:56</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLE011" albumref="jhbae-K315FL15E" type="song">
+               <SONGNAME>It Girl</SONGNAME>
+               <SONGLENGTH>4:49</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Coldplay</ARTISTNAME>
+      <ARTISTTYPE>Band</ARTISTTYPE>
+      <ARTISTCOUNTRY>England</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2000</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>Pop Rock</GENRE>
+      <ALBUM sku="jhbae-K315FL15F">
+         <RATING>10</RATING>
+         <COMMENT>This album is genius. I went to this concert in high school, and it is still my favorite concert to this day.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Mylo Xyloto</ALBUMNAME>
+         <ALBUMCOVER>"Coldplay.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-19</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-19</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>TOCP-71200</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988006889408</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-21</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>087 5532</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099908755322</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-24</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-21</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>5099967983858</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-24</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-24</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-24</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-24</RELEASEDATE>
+               <RECORDLABEL>Parlophone</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>087 5531</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099908755315</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-24</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>509990 87553 2 2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099908755315</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-10-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>509990 87553 1 5</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099908755315</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT/>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLF001" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Mylo Xyloto</SONGNAME>
+               <SONGLENGTH>0:43</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF002" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Hurts Like Heaven</SONGNAME>
+               <SONGLENGTH>4:02</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF003" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Paradise</SONGNAME>
+               <SONGLENGTH>4:37</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF004" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Charlie Brown</SONGNAME>
+               <SONGLENGTH>4:45</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF005" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Us Against the World</SONGNAME>
+               <SONGLENGTH>3:59</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF006" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>M.M.I.X.</SONGNAME>
+               <SONGLENGTH>0:48</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF007" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Every Teardrop Is a Waterfall</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF008" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Major Minus</SONGNAME>
+               <SONGLENGTH>3:30</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF009" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>U.F.O.</SONGNAME>
+               <SONGLENGTH>2:17</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF010" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Princess of China</SONGNAME>
+               <SONGLENGTH>3:59</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF011" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Up in Flames</SONGNAME>
+               <SONGLENGTH>3:13</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF012" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>A Hopeful Transmission</SONGNAME>
+               <SONGLENGTH>0:33</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF013" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Don't Let It Break Your Heart</SONGNAME>
+               <SONGLENGTH>3:53</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLF014" albumref="jhbae-K315FL15F" type="song">
+               <SONGNAME>Up with the Birds</SONGNAME>
+               <SONGLENGTH>3:47</SONGLENGTH>
+               <COMPOSERS>Guy Berryman , Jonny Buckland</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Odesza</ARTISTNAME>
+      <ARTISTTYPE>Band</ARTISTTYPE>
+      <ARTISTCOUNTRY>USA</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2012</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>Pop Rock</GENRE>
+      <ALBUM sku="jhbae-K315FL15G">
+         <RATING>4</RATING>
+         <COMMENT>Odesza is an up and coming group that truly shows their talent in this album.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="">In Return</ALBUMNAME>
+         <ALBUMCOVER>"Odesza.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-09-08</RELEASEDATE>
+               <RECORDLABEL>Counter Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>COUNTDNL052</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5021392959191</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-09-09</RELEASEDATE>
+               <RECORDLABEL>Counter Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-09-09</RELEASEDATE>
+               <RECORDLABEL>Counter Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>COUNTCD052</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLG001" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Always This Late</SONGNAME>
+               <SONGLENGTH>2:40</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG002" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Say My Name</SONGNAME>
+               <SONGLENGTH>4:22</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills , Zyra</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG003" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Bloom</SONGNAME>
+               <SONGLENGTH>3:15</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG004" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>All We Need</SONGNAME>
+               <SONGLENGTH>3:31</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills , Dan Vidmar</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG005" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Sundara</SONGNAME>
+               <SONGLENGTH>2:15</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG006" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>White Lies</SONGNAME>
+               <SONGLENGTH>4:37</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills , Jenni Potts</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG007" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Kusanagi</SONGNAME>
+               <SONGLENGTH>3:27</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG008" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Echoes</SONGNAME>
+               <SONGLENGTH>4:23</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills , Py</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG009" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>It's Only</SONGNAME>
+               <SONGLENGTH>4:27</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills , Zyra</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG010" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Koto</SONGNAME>
+               <SONGLENGTH>3:14</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG011" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Memories That You Call</SONGNAME>
+               <SONGLENGTH>4:07</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Harrison Mills , Monsoonsiren</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG012" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>Sun Models</SONGNAME>
+               <SONGLENGTH>2:39</SONGLENGTH>
+               <COMPOSERS>Madelyn Grant , Clayton Knight , Harrison Mills</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLG013" albumref="jhbae-K315FL15G" type="song">
+               <SONGNAME>For Us</SONGNAME>
+               <SONGLENGTH>5:51</SONGLENGTH>
+               <COMPOSERS>Clayton Knight , Briana Marela , Harrison Mills</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Dillon Francis</ARTISTNAME>
+      <ARTISTTYPE>Individual</ARTISTTYPE>
+      <ARTISTCOUNTRY>USA</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2010</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>Electronic</GENRE>
+      <ALBUM sku="jhbae-K315FL15H">
+         <RATING>3</RATING>
+         <COMMENT>Dillon Franis is a great artist in that he can integrate other DJs into his tracks.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Money Sucks Friends Rule</ALBUMNAME>
+         <ALBUMCOVER>"Dillon Francis.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-10-28</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLH001" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>All That</SONGNAME>
+               <SONGLENGTH>3:09</SONGLENGTH>
+               <COMPOSERS>Petros Anastos-Prastacos , Warren Ben Baker , Leroy Barnes , Jovan Clayton , Dillon Francis , Niles Hollowell-Dhar , Carl Terrell Mitchell</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH002" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>Get Low</SONGNAME>
+               <SONGLENGTH>3:32</SONGLENGTH>
+               <COMPOSERS>Dillon Francis , William Grigahcine</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH003" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>When We Were Young</SONGNAME>
+               <SONGLENGTH>3:19</SONGLENGTH>
+               <COMPOSERS>Dillon Francis , Kamtin Mohager , Ossama Al Sarraf , Ned Shepard</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH004" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>Set Me Free</SONGNAME>
+               <SONGLENGTH>4:07</SONGLENGTH>
+               <COMPOSERS>Dillon Francis , Martijn Garritsen</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH005" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>Drunk All the Time</SONGNAME>
+               <SONGLENGTH>3:47</SONGLENGTH>
+               <COMPOSERS>Dillon Francis , Oliver Goldstein , Simon Lord</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH006" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>Love in the Middle of a Firefight</SONGNAME>
+               <SONGLENGTH>3:19</SONGLENGTH>
+               <COMPOSERS>Joshua Coleman , Dillon Francis , Mathieu Jomphe , Brendon Urie</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH007" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>Not Butter</SONGNAME>
+               <SONGLENGTH>4:01</SONGLENGTH>
+               <COMPOSERS>Dillon Francis</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH008" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>I Can't Take It</SONGNAME>
+               <SONGLENGTH>4:22</SONGLENGTH>
+               <COMPOSERS>Dillon Francis</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH009" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>We Are Impossible</SONGNAME>
+               <SONGLENGTH>3:35</SONGLENGTH>
+               <COMPOSERS>Dillon Francis , Oliver Goldstein , Julian Hamilton</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH010" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>We Make It Bounce</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Dillon Francis , Jason Andre McDermott , Thomas Wesley Pentz</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH011" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>What's That Spell?</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Dillon Francis , Thomas Joseph Rozdilsky</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLH012" albumref="jhbae-K315FL15H" type="song">
+               <SONGNAME>Hurricane</SONGNAME>
+               <SONGLENGTH>3:35</SONGLENGTH>
+               <COMPOSERS>Dillon Francis , Oliver Goldstein , Leah Hayes , Daniel Nigro</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>The Weeknd</ARTISTNAME>
+      <ARTISTTYPE>Individual</ARTISTTYPE>
+      <ARTISTCOUNTRY>USA</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2011</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>R&amp;B</GENRE>
+      <ALBUM sku="jhbae-K315FL15I">
+         <RATING>8</RATING>
+         <COMMENT>The Hills is the best song on this album without a doubt.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Beauty Behind the Madness</ALBUMNAME>
+         <ALBUMCOVER>"The Weeknd.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-08-28</RELEASEDATE>
+               <RECORDLABEL>Republic Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>602547490759</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-08-28</RELEASEDATE>
+               <RECORDLABEL>Republic Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLI001" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Real Life</SONGNAME>
+               <SONGLENGTH>3:43</SONGLENGTH>
+               <COMPOSERS>Stephan Moccio , Jason Quenneville , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI001" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Losers</SONGNAME>
+               <SONGLENGTH>4:41</SONGLENGTH>
+               <COMPOSERS>Timothy McKenzie , Carlo Montagnese , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI003" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Tell Your Friends</SONGNAME>
+               <SONGLENGTH>5:34</SONGLENGTH>
+               <COMPOSERS>Robert Holmes , Carl Marshall , Carlo Montagnese , Christopher Pope , Abel Tesfaye , Kanye West</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI004" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Often</SONGNAME>
+               <SONGLENGTH>4:09</SONGLENGTH>
+               <COMPOSERS>Sabahattin Ali , Ahmad Balshe , Ben Diehl , Osman Ismen , Ali Kocatepe , Jason Quenneville , Danny Schofield , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI005" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>The Hills</SONGNAME>
+               <SONGLENGTH>4:02</SONGLENGTH>
+               <COMPOSERS>Ahmad Balshe , Carlo Montagnese , Emmanuel Nickerson , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI006" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Acquainted</SONGNAME>
+               <SONGLENGTH>5:48</SONGLENGTH>
+               <COMPOSERS>Benjamin Diehl , Carlo Montagnese , Jason Quenneville , Danny Schofield , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI007" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Can’t Feel My Face</SONGNAME>
+               <SONGLENGTH>3:33</SONGLENGTH>
+               <COMPOSERS>Savan Kotecha , Max Martin , Ali Payami , Peter Svensson , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI008" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Shameless</SONGNAME>
+               <SONGLENGTH>4:13</SONGLENGTH>
+               <COMPOSERS>Ahmad Balshe , Savan Kotecha , Ali Payami , Peter Svensson , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI009" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Earned It (Fifty Shades of Grey)</SONGNAME>
+               <SONGLENGTH>4:37</SONGLENGTH>
+               <COMPOSERS>Ahmad Balshe , Stephan Moccio , Jason Quenneville , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI010" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>In the Night</SONGNAME>
+               <SONGLENGTH>3:55</SONGLENGTH>
+               <COMPOSERS>Ahmad Balshe , Savan Kotecha , Max Martin , Ali Payami , Peter Svensson , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI011" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>As You Are</SONGNAME>
+               <SONGLENGTH>5:40</SONGLENGTH>
+               <COMPOSERS>Ahmad Balshe , Carlo Montagnese , Jason Quenneville , Danny Schofield , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI012" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Dark Times</SONGNAME>
+               <SONGLENGTH>4:20</SONGLENGTH>
+               <COMPOSERS>Jason Quenneville , Ed Sheeran , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI013" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Prisoner</SONGNAME>
+               <SONGLENGTH>4:34</SONGLENGTH>
+               <COMPOSERS>Carlo Montagnese , Lana Del Rey , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLI014" albumref="jhbae-K315FL15I" type="song">
+               <SONGNAME>Angel</SONGNAME>
+               <SONGLENGTH>6:17</SONGLENGTH>
+               <COMPOSERS>Ben Diehl , Stephan Moccio , Danny Schofield , Abel Tesfaye</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Years and Years</ARTISTNAME>
+      <ARTISTTYPE>Band</ARTISTTYPE>
+      <ARTISTCOUNTRY>England</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2010</CAREERSTART>
+      <CAREEREND>N/A</CAREEREND>
+      <GENRE>Pop Rock</GENRE>
+      <ALBUM sku="jhbae-K315FL15J">
+         <RATING>5</RATING>
+         <COMMENT>The techno-feel Years and Years brings into their music truly sets them apart. In this album, King is my favorite.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Communion</ALBUMNAME>
+         <ALBUMCOVER>"Years.jpg"</ALBUMCOVER>
+         <IMAGESOURCE>Amazon</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-06-22</RELEASEDATE>
+               <RECORDLABEL>Polydor Ltd.</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>4728041</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602547280411</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-06-22</RELEASEDATE>
+               <RECORDLABEL>Polydor Ltd.</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-07-05</RELEASEDATE>
+               <RECORDLABEL>Interscope Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-07-10</RELEASEDATE>
+               <RECORDLABEL>Polydor Ltd.</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>4728042</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602547280428</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="jhbae-K315FLJ001" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Foundation</SONGNAME>
+               <SONGLENGTH>2:57</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ002" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Real</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ003" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Shine</SONGNAME>
+               <SONGLENGTH>4:15</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ004" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Take Shelter</SONGNAME>
+               <SONGLENGTH>4:07</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Tom Hull , DJ Andy Smith , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ005" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Worship</SONGNAME>
+               <SONGLENGTH>3:41</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Tom Hull , TMS , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ006" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Eyes Shut</SONGNAME>
+               <SONGLENGTH>3:18</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ007" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Ties</SONGNAME>
+               <SONGLENGTH>3:46</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Mark Ralph , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ008" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>King</SONGNAME>
+               <SONGLENGTH>3:35</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Mark Ralph , DJ Andy Smith , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ009" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Desire</SONGNAME>
+               <SONGLENGTH>3:26</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Tom Hull , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ010" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Gold</SONGNAME>
+               <SONGLENGTH>3:59</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Tom Hull , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ011" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Without</SONGNAME>
+               <SONGLENGTH>3:30</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Mark Ralph , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ012" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Border</SONGNAME>
+               <SONGLENGTH>4:22</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="jhbae-K315FLJ013" albumref="jhbae-K315FL15J" type="song">
+               <SONGNAME>Memo</SONGNAME>
+               <SONGLENGTH>3:23</SONGLENGTH>
+               <COMPOSERS>Olly Alexander , Michael Goldsworthy , Emre Turkmen</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+</MUSIC>

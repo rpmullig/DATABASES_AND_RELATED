@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<music>
+	<artist name="Beck" band_style="Individual" country="USA" career_beg="1994" career_end="N/A">
+		<album a_title="Morning Phase" g_producer="Beck Hansen" g_record_label="Capitol Records"
+			g_engineer_mixer=" Tom Elmhirst, David Greenbaum, Cole Marsden Greif-Neill, Florian Lagatta, Robbie Nelson, Darrell Thorp, Cassidy Turbin, Joe Visciano"
+			g_master_engineer=" Bob Ludwig" album_category="Grammy_Winner" SKU="K315FL15A" type="album">
+			<album_release date="2014-02-21" record_label="Fonograf Records" format="Digital Media"/>
+			<album_release date="2014-02-25" record_label="Fonograf Records" catalog_num="3764975" barcode="602537649754" a_country="AU " format="CD"/>
+			<album_release date="2014-02-25" record_label="Capitol Records" catalog_num="B001983802" barcode="602537649754" a_country="CA " format="CD"/>
+			<album_release date="2014-02-25" record_label="Capitol Records" catalog_num="602537649754" barcode="602537649754" a_country="XE " format="CD"/>
+			<album_release date="2014-02-25" record_label="Capitol Records" catalog_num="B001983901" barcode="602537649747" a_country="US "/>
+			<album_release date="2014-02-25" record_label="Capitol Records" catalog_num="B001983802" barcode="602537649754" a_country="US " format="CD"/>
+			<album_release date="2014" record_label="Capitol Records" a_country="US " format="Digital Media"/>
+			<song s_title="Cycle" track_num="1" duration="0:40" composer="Beck Hansen" SKU="K315FLA001" albumref="K315FL15A" type="song"/>
+			<song s_title="Morning" track_num="2" duration="5:19" composer="Beck Hansen" SKU="K315FLA002" albumref="K315FL15A" type="song"/>
+			<song s_title="Heart Is a Drum" track_num="3" duration="4:31" composer="Beck Hansen" SKU="K315FLA003" albumref="K315FL15A" type="song"/>
+			<song s_title="Say Goodbye" track_num="4" duration="3:29" composer="Beck Hansen" SKU="K315FLA004" albumref="K315FL15A" type="song"/>
+			<song s_title="Blue Moon" track_num="5" duration="4:02" composer="Beck Hansen" SKU="K315FLA005" albumref="K315FL15A" type="song"/>
+			<song s_title="Unforgiven" track_num="6" duration="4:34" composer="Beck Hansen" SKU="K315FLA006" albumref="K315FL15A" type="song"/>
+			<song s_title="Wave" track_num="7" duration="3:40" composer="Beck Hansen" SKU="K315FLA007" albumref="K315FL15A" type="song"/>
+			<song s_title="Don't Let It Go" track_num="8" duration="3:09" composer="Beck Hansen" SKU="K315FLA008" albumref="K315FL15A" type="song"/>
+			<song s_title="Blackbird Chain" track_num="9" duration="4:26" composer="Beck Hansen" SKU="K315FLA009" albumref="K315FL15A" type="song"/>
+			<song s_title="Phase" track_num="10" duration="1:03" composer="Beck Hansen" SKU="K315FLA010" albumref="K315FL15A" type="song"/>
+			<song s_title="Turn Away" track_num="11" duration="3:05" composer="Beck Hansen" SKU="K315FLA011" albumref="K315FL15A" type="song"/>
+			<song s_title="Country Down" track_num="12" duration="4:00" composer="Beck Hansen" SKU="K315FLA012" albumref="K315FL15A" type="song"/>
+			<song s_title="Waking Light" track_num="13" duration="5:02" composer="Beck Hansen" SKU="K315FLA013" albumref="K315FL15A" type="song"/>
+			<comment>No comment. I do not listen to Beck.</comment>
+			<rating>1</rating>
+			<genre>Pop Rock</genre>
+			<image citation="Amazon">"Beck.jpg"</image>
+		</album>	
+	</artist>
+	
+	<artist name="Beyoncé" band_style="Individual" country="USA" career_beg="2001" career_end="N/A">
+		<album a_title="Beyoncé"
+			g_producer=" Ammo, Boots, James Fauntleroy, Noel &quot;Detail&quot; Fisher, Jerome Harmon, Hit-Boy, Beyoncé Knowles, Terius &quot;The Dream&quot; Nash, Caroline Polachek, Rey Reel, Noah &quot;40&quot; Shebib, Ryan Tedder, Timbaland, Justin Timberlake, Key Wane, Pharrell Williams, Patrick Wimberly"
+			g_record_label="Columbia Records"
+			g_engineer_mixer=" Boots, Noel Cadastre, Noel &quot;Gadget&quot; Campbell, Rob Cohen, Andrew Coleman, Chris Godbey, Justin Hergett, James Krausse, Mike Larson, Jonathan Lee, Tony Maserati, Ann Mincieli, Caroline Polachek, Andrew Scheps, Bart Schoudel, Noah &quot;40&quot; Shebib, Ryan Tedder, Stuart White , Jordan &quot;DJ Swivel&quot; Young"
+			g_master_engineer=" Tom Coyne, James Krausse, Aya Merrill"
+			album_category="Grammy_Nominee"
+			SKU="K315FL15B" type="album">
+			<album_release date="2013-12-13" record_label="Columbia" a_country="XW " format="Digital Media"/>
+			<album_release date="2013-12-20" record_label="Columbia, Parkwood Entertainment" catalog_num="88843032512" barcode="888430325128" a_country="XE " format="CD + DVD-Video"/>
+			<album_release date="2013-12-20" record_label="Columbia, Parkwood Entertainment" catalog_num="88843032512" barcode="888430325128" a_country="US " format="CD + DVD-Video"/>
+			<album_release date="2014-02-12" record_label="Sony Records International" catalog_num="SICP-4090, SICP-4091" barcode="4547366213270" a_country="JP " format="CD + DVD-Video"/>
+			<album_release date="2014-04-01" catalog_num="SIXX02354B00Z" barcode="4547366215236" a_country="JP " format="Digital Media"/>
+			<album_release date="2014-11-24" catalog_num="SIXX03191B00Z" barcode="4547366231373" a_country="JP " format="Digital Media"/>
+			<album_release date="2014-11-24" a_country="US"/>
+			<album_release date="2014-11-24" record_label="Columbia, Parkwood Entertainment" a_country="US "/>
+			<album_release date="2014-11-24" record_label="Columbia" barcode="886444955379" a_country="XW " format="Digital Media"/>
+			<album_release date="2015-01-21" catalog_num="SIXX03238B00Z" barcode="4547366232189" a_country="JP " format="Digital Media"/>
+			<album_release date="2015-01-21" catalog_num="SIXX03239B00Z" barcode="4547366232196" a_country="JP " format="Digital Media"/>
+			<album_release record_label="Columbia" catalog_num="88843045342" barcode="888430453425" a_country="US "/>	
+			<song s_title="Pretty Hurts" track_num="1" duration="4:17" composer="Joshua Coleman , Sia Furler , Beyoncé Knowles" SKU="K315FLB001" type="song"/>
+			<song s_title="Ghost/Haunted" track_num="2" duration="6:09" composer="Beyoncé Knowles" SKU="K315FLB002" type="song"/>
+			<song s_title="Drunk in Love" track_num="3" duration="5:23" composer="Shawn Carter , Rasool Diaz , Noel &quot;Detail&quot; Fisher , Jerome Harmon , Beyoncé Knowles , Andre Proctor , Brian Soko" SKU="K315FLB003" albumref="K315FL15B" type="song"/>
+			<song s_title="Blow" track_num="4" duration="5:09" composer="James Fauntleroy , Jerome Harmon , Beyoncé Knowles , Terius &quot;The-Dream&quot; Nash , Justin Timberlake , Pharrell Williams" SKU="K315FLB004" albumref="K315FL15B" type="song"/>
+			<song s_title="No Angel" track_num="5" duration="3:48" composer="James Fauntleroy , Beyoncé Knowles , Caroline Polachek" SKU="K315FLB005" albumref="K315FL15B" type="song"/>
+			<song s_title="Yoncé,Partition" track_num="6" duration="5:19" composer="Jerome Harmon , Beyoncé Knowles , Terius &quot;The-Dream&quot; Nash , Justin Timberlake , Dwane Weir" SKU="K315FLB006" albumref="K315FL15B" type="song"/>
+			<song s_title="Jealous" track_num="7" duration="3:04" composer="Lyrica Anderson , Rasool Diaz , Noel &quot;Detail&quot; Fisher , Beyoncé Knowles , Andre Proctor , Brian Soko" SKU="K315FLB007" albumref="K315FL15B" type="song"/>
+			<song s_title="Rocket" track_num="8" duration="6:31" composer="James Fauntleroy , Jerome Harmon , Beyoncé Knowles , Miguel Jontel Pimentel , Justin Timberlake" SKU="K315FLB008" albumref="K315FL15B" type="song"/>
+			<song s_title="Mine" track_num="9" duration="6:18" composer="Sidney &quot;Omen&quot; Brown , Aubrey &quot;Drake&quot; Graham , Beyoncé Knowles , Noah Shebib , Jordan Kenneth Cooke Ullman , Dwane Weir" SKU="K315FLB009" albumref="K315FL15B" type="song"/>
+			<song s_title="XO" track_num="10" duration="3:35" composer="Beyoncé Knowles , Terius &quot;The-Dream&quot; Nash , Ryan Tedder" SKU="K315FLB010" albumref="K315FL15B" type="song"/>
+			<song s_title="***Flawless" track_num="11" duration="4:10" composer="Chauncey Hollis , Beyoncé Knowles , Rashad Muhammad , Terius &quot;The-Dream&quot; Nash , Rey Reel" SKU="K315FLB011" albumref="K315FL15B" type="song"/>
+			<song s_title="Superpower" track_num="12" duration="4:36" composer="Beyoncé Knowles , Frank Ocean , Pharrell Williams" SKU="K315FLB012" albumref="K315FL15B" type="song"/>
+			<song s_title="Heaven" track_num="13" duration="3:50" composer="Beyoncé Knowles" SKU="K315FLB013" albumref="K315FL15B" type="song"/>
+			<song s_title="Blue/Grown Woman" track_num="14" duration="4:26" composer="Jerome Harmon , Beyoncé Knowles , Garland Mosley , Terius &quot;The-Dream&quot; Nash , D. Pearson , Kelly Sheehan" SKU="K315FLB014" albumref="K315FL15B" type="song"/>
+			<comment>This is a musical master piece. Beyonce even integrated her 1 year old child into this album. It is fabulous.</comment>
+			<rating>9</rating>
+			<genre>R&amp;B</genre>
+			<image citation="Amazon">"Beyonce.jpg"</image>		
+		</album>
+	</artist>
+	
+	<artist name="Ed Sheeran" band_style="Individual" country="England" career_beg="1991"
+		career_end="N/A">
+		<album a_title="X"
+			g_producer="Jeff Bhasker, Benny Blanco, Jake Gosling, Johnny McDaid, Rick Rubin, Pharrell Williams"
+			g_record_label="Atlantic"
+			g_engineer_mixer=" Andrew Coleman, Jake Gosling, Matty Green, William Hicks, Tyler Sam Johnson, Jason Lader, Johnny McDaid, Chris Sclafani, Mark Stent, Geoff Swan"
+			g_master_engineer=" Stuart Hawkes" album_category="Grammy_Nominee" SKU="K315FL15C" type="album">
+			<album_release date="2014-06-20" a_country="AU " format="CD"/>
+			<album_release date="2014-06-20" a_country="DE " format="CD"/>
+			<album_release date="2014-06-20" a_country="NZ " format="CD"/>
+			<album_release date="2014-06-23" a_country="XW " format="CD"/>
+			<album_release date="2014-06-20" record_label="Asylum Records, Atlantic" a_country="AU " format="Digital Media"/>
+			<album_release date="2014-06-20" record_label="Atlantic Records UK" barcode="825646285037" a_country="AT " format="Digital Media"/>
+			<album_release date="2014-06-20" a_country="DE " format="Digital Media"/>
+			<album_release date="2014-06-20" a_country="CH " format="Digital Media"/>
+			<album_release date="2014-06-20" record_label="Warner Music UK Ltd." barcode="825646285891" a_country="IT " format="Digital Media"/>
+			<album_release date="2014-06-20" record_label="Atlantic Records UK" barcode="825646285891" a_country="US " format="Digital Media"/>
+			<album_release date="2014-06-20" record_label="Asylum Records" a_country="US " format="Digital Media"/>
+			<album_release date="2014-06-20" record_label="Asylum Records" a_country="US " format="CD"/>
+			<album_release date="2014-06-23" record_label="Warner Music UK Ltd." catalog_num="825646285907" barcode="825646285907" a_country="XE " format="CD"/>
+			<album_release date="2014-06-23" record_label="Asylum Records" catalog_num="825646285860" barcode="825646285860" a_country="GB " format="CD"/>
+			<album_release date="2014-06-23" record_label="Atlantic" catalog_num="543295-2" barcode="825646285907" a_country="US " format="CD"/>
+			<album_release date="2014" record_label="Asylum Records" catalog_num="2-564628" barcode="825646285860" a_country="CA " format="CD"/>
+			<song s_title="One" track_num="1" duration="4:12" composer="Ed Sheeran" SKU="K315FLC001" albumref="K315FL15C" type="song"/>
+			<song s_title="I'm a Mess" track_num="2" duration="4:04" composer="Ed Sheeran" SKU="K315FLC002" albumref="K315FL15C" type="song"/>
+			<song s_title="Sing" track_num="3" duration="3:55" composer="Ed Sheeran , Pharrell Williams" SKU="K315FLC003" albumref="K315FL15C" type="song"/>
+			<song s_title="Don't" track_num="4" duration="3:39" composer="Benjamin Levin , Ed Sheeran" SKU="K315FLC004" albumref="K315FL15C" type="song"/>
+			<song s_title="Nina" track_num="5" duration="3:45" composer="Johnny McDaid , Ed Sheeran" SKU="K315FLC005" albumref="K315FL15C" type="song"/>
+			<song s_title="Photograph" track_num="6" duration="4:18" composer="Johnny McDaid , Ed Sheeran" SKU="K315FLC006" albumref="K315FL15C" type="song"/>
+			<song s_title="Bloodstream" track_num="7" duration="5:00" composer="Gary Lightbody , Johnny McDaid , Rudimental , Ed Sheeran" SKU="K315FLC007" albumref="K315FL15C" type="song"/>
+			<song s_title="Tenerife Sea" track_num="8" duration="4:01" composer="Johnny McDaid , Ed Sheeran , Foy Vance" SKU="K315FLC008" albumref="K315FL15C" type="song"/>
+			<song s_title="Runaway" track_num="9" duration="3:25" composer="Ed Sheeran , Pharrell Williams" SKU="K315FLC009" albumref="K315FL15C" type="song"/>
+			<song s_title="The Man" track_num="10" duration="4:10" composer="Ed Sheeran" SKU="K315FLC010" albumref="K315FL15C" type="song"/>
+			<song s_title="Thinking Out Loud" track_num="11" duration="4:41" composer="Ed Sheeran , Amy Wadge" SKU="K315FLC011" albumref="K315FL15C" type="song"/>
+			<song s_title="Afire Love" track_num="12" duration="5:16" composer="Johnny McDaid , Ed Sheeran , Foy Vance" SKU="K315FLC012" albumref="K315FL15C" type="song"/>
+			<comment>This album is amazing. I especially like the song One.</comment>
+			<rating>6</rating>
+			<genre>Pop Rock</genre>
+			<image citation="Amazon">"Ed Sheeran.jpg"</image>
+		</album>
+	</artist>
+	
+	<artist name="Sam Smith" band_style="Individual" country="England" career_beg="2012"
+		career_end="N/A">
+		<album a_title="In The Lonely Hour"
+			g_producer="Steve Fitzmaurice, Komi, Howard Lawrence, Zane Lowe, Mojam, Jimmy Napes, Naughty Boy, Fraser T. Smith, Two Inch Punch, Eg Whits"
+			g_record_label="Capitol Records"
+			g_engineer_mixer=" Michael Angelo, Graham Archer, Steve Fitzmaurice, Simon Hale, Darren Heelis, James Murray, Jimmy Napes, Mustafa Omer, Dan Parry, Steve Price, Eg White"
+			g_master_engineer=" Tom Coyne, Stuart Hawkes" album_category="Grammy_Nominee" SKU="K315FL15D" type="album">
+			<album_release date="2014-05-23" record_label="Capitol Records" a_country="NZ " format="Digital Media"/>
+			<album_release date="2014-05-26" record_label="Capitol Records" catalog_num="3769173" barcode="602537691739" a_country="GB " format="CD"/>
+			<album_release date="2014-06-17" record_label="Capitol Records" a_country="US " format="CD"/>
+			<album_release date="2014-06-17" record_label="Capitol Records" catalog_num="B002057502" barcode="602537799251" a_country="US " format="CD"/>
+			<album_release date="2014-06-17" record_label="Capitol Records" a_country="XW " format="Digital Media"/>
+			<album_release date="2014" record_label="Capitol Records" catalog_num="B002061102" barcode="602537802371" a_country="US " format="CD"/>
+			<album_release date="2015-01-21" record_label="Capitol Records" catalog_num="UICC-10015" barcode="4988005867308" a_country="JP " format="CD"/>
+			<album_release date="2015-01" record_label="Capitol Records" a_country="JP " format="Digital Media"/>
+			<song s_title="Money On My Mind" track_num="1" duration="3:13" composer="Ben Ash , Sam Smith" SKU="K315FLD001" albumref="K315FL15D" type="song"/>
+			<song s_title="Good Thing" track_num="2" duration="3:21" composer="Sam Smith , Eg White" SKU="K315FLD002" albumref="K315FL15D" type="song"/>
+			<song s_title="Stay With Me" track_num="3" duration="2:52" composer="James Napier , William Phillips , Sam Smith" SKU="K315FLD003" albumref="K315FL15D" type="song"/>
+			<song s_title="Leave Your Lover" track_num="4" duration="3:08" composer="Simon Aldred , Sam Smith" SKU="K315FLD004" albumref="K315FL15D" type="song"/>
+			<song s_title="I'm Not The Only One" track_num="5" duration="3:59" composer="James Napier , Sam Smith" SKU="K315FLD005" albumref="K315FL15D" type="song"/>
+			<song s_title="I've Told You Now" track_num="6" duration="3:30" composer="Sam Smith , Eg White" SKU="K315FLD006" albumref="K315FL15D" type="song"/>
+			<song s_title="Like I Can" track_num="7" duration="2:47" composer="Matt Prime , Sam Smith" SKU="K315FLD007" albumref="K315FL15D" type="song"/>
+			<song s_title="Life Support" track_num="8" duration="2:53" composer="Ben Ash , Sam Smith" SKU="K315FLD008" albumref="K315FL15D" type="song"/>
+			<song s_title="Not In That Way" track_num="9" duration="2:52" composer="Fraser T. Smith , Sam Smith" SKU="K315FLD009" albumref="K315FL15D" type="song"/>
+			<song s_title="Lay Me Down" track_num="10" duration="4:15" composer="James Napier , Elvin Smith , Sam Smith" SKU="K315FLD010" albumref="K315FL15D" type="song"/>
+			<comment>Sam Smith's voice was a blessing from angels. I love the jazzy twist he integrates in each song.</comment>
+			<rating>7</rating>
+			<genre>Pop Rock</genre>
+			<image citation="Amazon">"Sam Smith.jpg"</image>
+		</album>
+	</artist>
+	
+	<artist name="Pharrell Williams" band_style="Individual" country="USA" career_beg="1992"
+		career_end="N/A">
+		<album a_title="Girl" g_producer=" Pharrell Williams" g_record_label="Columbia Records"
+			g_engineer_mixer=" Leslie Brathwaite, Adrian Breakspear, Andrew Coleman, Jimmy Douglas, Hart Gunther, Mick Guzauski, Florian Lagatta, Mike Larson, Stephanie McNally, Alan Meyerson, Ann Mincieli, Kenta Yonesaka"
+			g_master_engineer=" Bob Ludwig" album_category="Grammy_Nominee" SKU="K315FL15E" type="album">
+			<album_release date="2014-03-03" record_label="Columbia " catalog_num="88843055072" barcode="888430550728" a_country="XE " format="CD"/>
+			<album_release date="2014-03-03" record_label="Columbia" catalog_num="88843055072" barcode="888430550728" a_country="MX " format="CD"/>
+			<album_release date="2014-03-03" record_label="Columbia" catalog_num="88843055072" barcode="888430550728" a_country="US " format="CD"/>
+			<album_release date="2014-03-03" record_label="Back Lot Music" barcode="886444495165" a_country="XW " format="Digital Media"/>
+			<album_release date="2014-04-30" record_label="Sony Records International" catalog_num="SICP-4129" barcode="4547366216660" a_country="JP " format="CD"/>
+			<album_release date="2014-04-18" catalog_num="PHARRELLGIRL001" a_country="DE " SKU="K315FLE001"/>
+			<song s_title="Marilyn Monroe" track_num="1" duration="5:51" composer="Ann Marie Calhoun / Pharrell Williams" SKU="K315FLE002" albumref="K315FL15E" type="song"/>
+			<song s_title="Brand New" track_num="2" duration="4:31" composer="Pharrell Williams" SKU="K315FLE003" albumref="K315FL15E" type="song"/>
+			<song s_title="Hunter" track_num="3" duration="4:00" composer="Pharrell Williams" SKU="K315FLE004" albumref="K315FL15E" type="song"/>
+			<song s_title="Gush" track_num="4" duration="3:54" composer="Pharrell Williams" SKU="K315FLE005" albumref="K315FL15E" type="song"/>
+			<song s_title="Happy [From Despicable Me 2]" track_num="5" duration="3:52" composer="Pharrell Williams" SKU="K315FLE006" albumref="K315FL15E" type="song"/>
+			<song s_title="Come Get It Bae" track_num="6" duration="3:21" composer="Pharrell Williams" SKU="K315FLE007" albumref="K315FL15E" type="song"/>
+			<song s_title="Gust of Wind" track_num="7" duration="4:45" composer="Pharrell Williams" SKU="K315FLE008" albumref="K315FL15E" type="song"/>
+			<song s_title="Lost Queen" track_num="8" duration="7:56" composer="Pharrell Williams" SKU="K315FLE009" albumref="K315FL15E" type="song"/>
+			<song s_title="Who You Are" track_num="9" duration="3:56" composer="Pharrell Williams" SKU="K315FLE010" albumref="K315FL15E" type="song"/>
+			<song s_title="It Girl" track_num="10" duration="4:49" composer="Pharrell Williams" SKU="K315FLE011" albumref="K315FL15E" type="song"/>
+			<comment>Pharrell Williams looks like he hasn't aged in twenty years, and this album is catchy.</comment>
+			<rating>2</rating>
+			<genre>R&amp;B</genre>
+			<image citation="Amazon">"Pharrell.jpg"</image>
+		</album>
+	</artist>
+	
+	<artist name="Coldplay" band_style="Band" country="England" career_beg="2000" career_end="N/A">
+		<album a_title="Mylo Xyloto" album_category="Personal_Favorite" SKU="K315FL15F" type="album">
+			<album_release date="2011-10-19" record_label="Parlophone" a_country="JP " format="Digital Media"/>
+			<album_release date="2011-10-19" record_label="Parlophone" catalog_num="TOCP-71200" barcode="4988006889408" a_country="JP " format="CD"/>
+			<album_release date="2011-10-21" record_label="Parlophone" catalog_num="087 5532" barcode="5099908755322" a_country="DE " format="CD"/>
+			<album_release date="2011-10-24" record_label="Parlophone" a_country="GB " format="CD"/>
+			<album_release date="2011-10-21" record_label="Parlophone" barcode="5099967983858" a_country="NL " format="Digital Media"/>
+			<album_release date="2011-10-24" record_label="Parlophone" a_country="AU " format="Digital Media"/>
+			<album_release date="2011-10-24" record_label="Parlophone" a_country="GB " format="Digital Media"/>
+			<album_release date="2011-10-24" record_label="Parlophone" a_country="US " format="Digital Media"/>
+			<album_release date="2011-10-24" record_label="Parlophone" catalog_num="087 5531" barcode="5099908755315" a_country="GB"/>
+			<album_release date="2011-10-24" record_label="Capitol Records" catalog_num="509990 87553 2 2" barcode="5099908755315" a_country="US " format="CD"/>
+			<album_release date="2011-10-25" record_label="Capitol Records" catalog_num="509990 87553 1 5" barcode="5099908755315" a_country="US "/>
+			<song s_title="Mylo Xyloto" track_num="1" duration="0:43" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF001" albumref="K315FL15F" type="song"/>
+			<song s_title="Hurts Like Heaven" track_num="2" duration="4:02" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF002" albumref="K315FL15F" type="song"/>
+			<song s_title="Paradise" track_num="3" duration="4:37" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF003" albumref="K315FL15F" type="song"/>
+			<song s_title="Charlie Brown" track_num="4" duration="4:45" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF004" albumref="K315FL15F" type="song"/>
+			<song s_title="Us Against the World" track_num="5" duration="3:59" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF005" albumref="K315FL15F" type="song"/>
+			<song s_title="M.M.I.X." track_num="6" duration="0:48" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF006" albumref="K315FL15F" type="song"/>
+			<song s_title="Every Teardrop Is a Waterfall" track_num="7" duration="4:00" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF007" albumref="K315FL15F" type="song"/>
+			<song s_title="Major Minus" track_num="8" duration="3:30" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF008" albumref="K315FL15F" type="song"/>
+			<song s_title="U.F.O." track_num="9" duration="2:17" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF009" albumref="K315FL15F" type="song"/>
+			<song s_title="Princess of China" track_num="10" duration="3:59" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF010" albumref="K315FL15F" type="song"/>
+			<song s_title="Up in Flames" track_num="11" duration="3:13" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF011" albumref="K315FL15F" type="song"/>
+			<song s_title="A Hopeful Transmission" track_num="12" duration="0:33" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF012" albumref="K315FL15F" type="song"/>
+			<song s_title="Don't Let It Break Your Heart" track_num="13" duration="3:53" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF013" albumref="K315FL15F" type="song"/>
+			<song s_title="Up with the Birds" track_num="14" duration="3:47" composer="Guy Berryman , Jonny Buckland" SKU="K315FLF014" albumref="K315FL15F" type="song"/>
+			<comment>This album is genius. I went to this concert in high school, and it is still my favorite concert to this day.</comment>
+			<rating>10</rating>
+			<genre>Pop Rock</genre>
+			<image citation="Amazon">"Coldplay.jpg"</image>
+		</album>
+	</artist>
+	
+	<artist name="Odesza" band_style="Band" country="USA" career_beg="2012" career_end="N/A">
+		<album a_title="In Return" album_category="Personal_Favorite" SKU="K315FL15G">
+			<album_release date="2014-09-08" record_label="Counter Records" catalog_num="COUNTDNL052" barcode="5021392959191" a_country="GB " format="Digital Media" type="album"/>
+			<album_release date="2014-09-09" record_label="Counter Records" a_country="US " format="Digital Media"/>
+			<album_release date="2014-09-09" record_label="Counter Records" catalog_num="COUNTCD052" a_country="US " format="CD"/>
+			<song s_title="Always This Late" track_num="1" duration="2:40" composer="Clayton Knight , Harrison Mills" SKU="K315FLG001" albumref="K315FL15G" type="song"/>
+			<song s_title="Say My Name" track_num="2" duration="4:22" composer="Clayton Knight , Harrison Mills , Zyra" SKU="K315FLG002" albumref="K315FL15G" type="song"/>
+			<song s_title="Bloom" track_num="3" duration="3:15" composer="Clayton Knight , Harrison Mills" SKU="K315FLG003" albumref="K315FL15G" type="song"/>
+			<song s_title="All We Need" track_num="4" duration="3:31" composer="Clayton Knight , Harrison Mills , Dan Vidmar" SKU="K315FLG004" albumref="K315FL15G" type="song"/>
+			<song s_title="Sundara" track_num="5" duration="2:15" composer="Clayton Knight , Harrison Mills" SKU="K315FLG005" albumref="K315FL15G" type="song"/>
+			<song s_title="White Lies" track_num="6" duration="4:37" composer="Clayton Knight , Harrison Mills , Jenni Potts" SKU="K315FLG006" albumref="K315FL15G" type="song"/>
+			<song s_title="Kusanagi" track_num="7" duration="3:27" composer="Clayton Knight , Harrison Mills" SKU="K315FLG007" albumref="K315FL15G" type="song"/>
+			<song s_title="Echoes" track_num="8" duration="4:23" composer="Clayton Knight , Harrison Mills , Py" SKU="K315FLG008" albumref="K315FL15G" type="song"/>
+			<song s_title="It's Only" track_num="9" duration="4:27" composer="Clayton Knight , Harrison Mills , Zyra" SKU="K315FLG009" albumref="K315FL15G" type="song"/>
+			<song s_title="Koto" track_num="10" duration="3:14" composer="Clayton Knight , Harrison Mills" SKU="K315FLG010" albumref="K315FL15G" type="song"/>
+			<song s_title="Memories That You Call" track_num="11" duration="4:07" composer="Clayton Knight , Harrison Mills , Monsoonsiren" SKU="K315FLG011" albumref="K315FL15G" type="song"/>
+			<song s_title="Sun Models" track_num="12" duration="2:39" composer="Madelyn Grant , Clayton Knight , Harrison Mills" SKU="K315FLG012" albumref="K315FL15G" type="song"/>
+			<song s_title="For Us" track_num="13" duration="5:51" composer="Clayton Knight , Briana Marela , Harrison Mills" SKU="K315FLG013" albumref="K315FL15G" type="song"/>
+			<comment>Odesza is an up and coming group that truly shows their talent in this album.</comment>
+			<rating>4</rating>
+			<genre>Pop Rock</genre>
+			<image citation="Amazon">"Odesza.jpg"</image>
+		</album>
+	</artist>
+	
+	<artist name="Dillon Francis" band_style="Individual" country="USA" career_beg="2010"
+		career_end="N/A">
+		<album a_title="Money Sucks Friends Rule" album_category="Personal_Favorite" SKU="K315FL15H" type="album">
+			<album_release date="2014-10-28" record_label="Columbia" a_country="US" format="Digital Media"/>
+			<song s_title="All That" track_num="1" duration="3:09" composer="Petros Anastos-Prastacos , Warren Ben Baker , Leroy Barnes , Jovan Clayton , Dillon Francis , Niles Hollowell-Dhar , Carl Terrell Mitchell" SKU="K315FLH001" albumref="K315FL15H" type="song"/>
+			<song s_title="Get Low" track_num="2" duration="3:32" composer="Dillon Francis , William Grigahcine" SKU="K315FLH002" albumref="K315FL15H" type="song"/>
+			<song s_title="When We Were Young" track_num="3" duration="3:19" composer="Dillon Francis , Kamtin Mohager , Ossama Al Sarraf , Ned Shepard" SKU="K315FLH003" albumref="K315FL15H" type="song"/>
+			<song s_title="Set Me Free" track_num="4" duration="4:07" composer="Dillon Francis , Martijn Garritsen" SKU="K315FLH004" albumref="K315FL15H" type="song"/>
+			<song s_title="Drunk All the Time" track_num="5" duration="3:47" composer="Dillon Francis , Oliver Goldstein , Simon Lord" SKU="K315FLH005" albumref="K315FL15H" type="song"/>
+			<song s_title="Love in the Middle of a Firefight" track_num="6" duration="3:19" composer="Joshua Coleman , Dillon Francis , Mathieu Jomphe , Brendon Urie" SKU="K315FLH006" albumref="K315FL15H" type="song"/>
+			<song s_title="Not Butter" track_num="7" duration="4:01" composer="Dillon Francis" SKU="K315FLH007" albumref="K315FL15H" type="song"/>
+			<song s_title="I Can't Take It" track_num="8" duration="4:22" composer="Dillon Francis" SKU="K315FLH008" albumref="K315FL15H" type="song"/>
+			<song s_title="We Are Impossible" track_num="9" duration="3:35" composer="Dillon Francis , Oliver Goldstein , Julian Hamilton" SKU="K315FLH009" albumref="K315FL15H" type="song"/>
+			<song s_title="We Make It Bounce" track_num="10" duration="4:10" composer="Dillon Francis , Jason Andre McDermott , Thomas Wesley Pentz" SKU="K315FLH010" albumref="K315FL15H" type="song"/>
+			<song s_title="What's That Spell?" track_num="11" duration="4:26" composer="Dillon Francis , Thomas Joseph Rozdilsky" SKU="K315FLH011" albumref="K315FL15H" type="song"/>
+			<song s_title="Hurricane" track_num="12" duration="3:35" composer="Dillon Francis , Oliver Goldstein , Leah Hayes , Daniel Nigro" SKU="K315FLH012" albumref="K315FL15H" type="song"/>
+			<comment>Dillon Franis is a great artist in that he can integrate other DJs into his tracks.</comment>
+			<rating>3</rating>
+			<genre>Electronic</genre>
+			<image citation="Amazon">"Dillon Francis.jpg"</image>
+		</album>
+	</artist>
+	
+	<artist name="The Weeknd" band_style="Individual" country="USA" career_beg="2011"
+		career_end="N/A">
+		<album a_title="Beauty Behind the Madness" album_category="Personal_Favorite" SKU="K315FL15I" type="album">
+			<album_release date="2015-08-28" record_label="Republic Records" barcode="602547490759" a_country="US" format="Digital Media"/>
+			<album_release date="2015-08-28" record_label="Republic Records" a_country="US" format="CD"/>
+			<song s_title="Real Life" track_num="1" duration="3:43" composer="Stephan Moccio , Jason Quenneville , Abel Tesfaye" SKU="K315FLI001" albumref="K315FL15I" type="song"/>
+			<song s_title="Losers" track_num="2" duration="4:41" composer="Timothy McKenzie , Carlo Montagnese , Abel Tesfaye" SKU="K315FLI001" albumref="K315FL15I" type="song"/>
+			<song s_title="Tell Your Friends" track_num="3" duration="5:34" composer="Robert Holmes , Carl Marshall , Carlo Montagnese , Christopher Pope , Abel Tesfaye , Kanye West" SKU="K315FLI003" albumref="K315FL15I" type="song"/>
+			<song s_title="Often" track_num="4" duration="4:09" composer="Sabahattin Ali , Ahmad Balshe , Ben Diehl , Osman Ismen , Ali Kocatepe , Jason Quenneville , Danny Schofield , Abel Tesfaye" SKU="K315FLI004" albumref="K315FL15I" type="song"/>
+			<song s_title="The Hills" track_num="5" duration="4:02" composer="Ahmad Balshe , Carlo Montagnese , Emmanuel Nickerson , Abel Tesfaye" SKU="K315FLI005" albumref="K315FL15I" type="song"/>
+			<song s_title="Acquainted" track_num="6" duration="5:48" composer="Benjamin Diehl , Carlo Montagnese , Jason Quenneville , Danny Schofield , Abel Tesfaye" SKU="K315FLI006" albumref="K315FL15I" type="song"/>
+			<song s_title="Can’t Feel My Face" track_num="7" duration="3:33" composer="Savan Kotecha , Max Martin , Ali Payami , Peter Svensson , Abel Tesfaye" SKU="K315FLI007" albumref="K315FL15I" type="song"/>
+			<song s_title="Shameless" track_num="8" duration="4:13" composer="Ahmad Balshe , Savan Kotecha , Ali Payami , Peter Svensson , Abel Tesfaye" SKU="K315FLI008" albumref="K315FL15I" type="song"/>
+			<song s_title="Earned It (Fifty Shades of Grey)" track_num="9" duration="4:37" composer="Ahmad Balshe , Stephan Moccio , Jason Quenneville , Abel Tesfaye" SKU="K315FLI009" albumref="K315FL15I" type="song"/>
+			<song s_title="In the Night" track_num="10" duration="3:55" composer="Ahmad Balshe , Savan Kotecha , Max Martin , Ali Payami , Peter Svensson , Abel Tesfaye" SKU="K315FLI010" albumref="K315FL15I" type="song"/>
+			<song s_title="As You Are" track_num="11" duration="5:40" composer="Ahmad Balshe , Carlo Montagnese , Jason Quenneville , Danny Schofield , Abel Tesfaye" SKU="K315FLI011" albumref="K315FL15I" type="song"/>
+			<song s_title="Dark Times" track_num="12" duration="4:20" composer="Jason Quenneville , Ed Sheeran , Abel Tesfaye" SKU="K315FLI012" albumref="K315FL15I" type="song"/>
+			<song s_title="Prisoner" track_num="13" duration="4:34" composer="Carlo Montagnese , Lana Del Rey , Abel Tesfaye" SKU="K315FLI013" albumref="K315FL15I" type="song"/>
+			<song s_title="Angel" track_num="14" duration="6:17" composer="Ben Diehl , Stephan Moccio , Danny Schofield , Abel Tesfaye" SKU="K315FLI014" albumref="K315FL15I" type="song"/>
+			<comment>The Hills is the best song on this album without a doubt.</comment>
+			<rating>8</rating>
+			<genre>R&amp;B</genre>
+			<image citation="Amazon">"The Weeknd.jpg"</image>
+		</album>
+	</artist>
+	
+	<artist name="Years and Years" band_style="Band" country="England" career_beg="2010"
+		career_end="N/A">
+		<album a_title="Communion" album_category="Personal_Favorite" SKU="K315FL15J" type="album">
+			<album_release date="2015-06-22" record_label="Polydor Ltd." catalog_num="4728041" barcode="602547280411" a_country="GB " format="CD"/>
+			<album_release date="2015-06-22" record_label="Polydor Ltd." a_country="GB " format="CD"/>
+			<album_release date="2015-07-05" record_label="Interscope Records" a_country="US " format="Digital Media"/>
+			<album_release date="2015-07-10" record_label="Polydor Ltd." catalog_num="4728042" barcode="602547280428" a_country="GB " format="CD"/>
+			<song s_title="Foundation" track_num="1" duration="2:57" composer="Olly Alexander , Michael Goldsworthy , Emre Turkmen" SKU="K315FLJ001" albumref="K315FL15J" type="song"/>
+			<song s_title="Real" track_num="2" duration="4:10" composer="Olly Alexander , Michael Goldsworthy , Emre Turkmen" SKU="K315FLJ002" albumref="K315FL15J" type="song"/>
+			<song s_title="Shine" track_num="3" duration="4:15" composer="Olly Alexander , Michael Goldsworthy , Emre Turkmen" SKU="K315FLJ003" albumref="K315FL15J" type="song"/>
+			<song s_title="Take Shelter" track_num="4" duration="4:07" composer="Olly Alexander , Michael Goldsworthy , Tom Hull , DJ Andy Smith , Emre Turkmen" SKU="K315FLJ004" albumref="K315FL15J" type="song"/>
+			<song s_title="Worship" track_num="5" duration="3:41" composer="Olly Alexander , Michael Goldsworthy , Tom Hull , TMS , Emre Turkmen" SKU="K315FLJ005" albumref="K315FL15J" type="song"/>
+			<song s_title="Eyes Shut" track_num="6" duration="3:18" composer="Olly Alexander , Michael Goldsworthy , Emre Turkmen" SKU="K315FLJ006" albumref="K315FL15J" type="song"/>
+			<song s_title="Ties" track_num="7" duration="3:46" composer="Olly Alexander , Michael Goldsworthy , Mark Ralph , Emre Turkmen" SKU="K315FLJ007" albumref="K315FL15J" type="song"/>
+			<song s_title="King" track_num="8" duration="3:35" composer="Olly Alexander , Michael Goldsworthy , Mark Ralph , DJ Andy Smith , Emre Turkmen" SKU="K315FLJ008" albumref="K315FL15J" type="song"/>
+			<song s_title="Desire" track_num="9" duration="3:26" composer="Olly Alexander , Michael Goldsworthy , Tom Hull , Emre Turkmen" SKU="K315FLJ009" albumref="K315FL15J" type="song"/>
+			<song s_title="Gold" track_num="10" duration="3:59" composer="Olly Alexander , Michael Goldsworthy , Tom Hull , Emre Turkmen" SKU="K315FLJ010" albumref="K315FL15J" type="song"/>
+			<song s_title="Without" track_num="11" duration="3:30" composer="Olly Alexander , Michael Goldsworthy , Mark Ralph , Emre Turkmen" SKU="K315FLJ011" albumref="K315FL15J" type="song"/>
+			<song s_title="Border" track_num="12" duration="4:22" composer="Olly Alexander , Michael Goldsworthy , Emre Turkmen" SKU="K315FLJ012" albumref="K315FL15J" type="song"/>
+			<song s_title="Memo" track_num="13" duration="3:23" composer="Olly Alexander , Michael Goldsworthy , Emre Turkmen" SKU="K315FLJ013" albumref="K315FL15J" type="song"/>
+			<comment>The techno-feel Years and Years brings into their music truly sets them apart. In this album, King is my favorite.</comment>
+			<rating>5</rating>
+			<genre>Pop Rock</genre>
+			<image citation="Amazon">"Years.jpg"</image>
+		</album>
+	</artist>
+</music>

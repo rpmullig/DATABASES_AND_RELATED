@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<INVENTORY>
+	<BOOK Instock= "yes">
+		<TITLE>Huckleberry Finn</TITLE>
+		<AUTHOR>Mark Twain</AUTHOR>
+		<FORMAT>eBook</FORMAT>
+		<YEAR>1901</YEAR>
+		<PRICE>5.98</PRICE>
+	</BOOK>
+	<BOOK Instock= "yes">
+		<TITLE>The Stand</TITLE>
+		<AUTHOR>Stephen King</AUTHOR>
+		<FORMAT>Softcover</FORMAT>
+		<YEAR>1981</YEAR>
+		<PRICE>8.99</PRICE>
+	</BOOK>
+	<BOOK Instock= "yes">
+		<TITLE>First to Die</TITLE>
+		<AUTHOR>James Patterson</AUTHOR>
+		<FORMAT>Softcover</FORMAT>
+		<YEAR>1994</YEAR>
+		<PRICE>6.99</PRICE>
+	</BOOK>
+	<BOOK Instock= "no">
+		<TITLE>Christine</TITLE>
+		<AUTHOR>Stephen King</AUTHOR>
+		<FORMAT>Hardcover</FORMAT>
+		<YEAR>1982</YEAR>
+		<PRICE>5.99</PRICE>
+	</BOOK>
+	<BOOK Instock= "yes">
+		<TITLE>Talisman</TITLE>
+		<AUTHOR>Stephen King</AUTHOR>
+		<AUTHOR>Peter Straub</AUTHOR>
+		<FORMAT>Hardcover</FORMAT>
+		<YEAR>1982</YEAR>
+		<PRICE>5.99</PRICE>
+	</BOOK>
+</INVENTORY>

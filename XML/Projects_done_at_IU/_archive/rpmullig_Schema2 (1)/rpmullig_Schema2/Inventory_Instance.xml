@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+
+<!-- File Name: Inventory Instance.xml -->
+
+<INVENTORY>
+   <BOOK InStock="true">
+      <TITLE>The Adventures of Huckleberry Finn</TITLE>
+      <AUTHOR Born="1835">
+         <FIRSTNAME>Mark</FIRSTNAME>
+         <LASTNAME>Twain</LASTNAME>
+      </AUTHOR>
+      <BINDING>mass market paperback</BINDING>
+      <PAGES FrontMatter="8">298</PAGES>
+      <PRICE>5.49</PRICE>
+      <PUBLISH_DATE>2000-03</PUBLISH_DATE>
+      <ISBN>9-9999-9999-9</ISBN>
+   </BOOK>
+   <BOOK InStock="false">
+      <TITLE>Leaves of Grass</TITLE>
+      <AUTHOR Born="1819">
+         <FIRSTNAME>Walt</FIRSTNAME>
+         <LASTNAME>Whitman</LASTNAME>
+      </AUTHOR>
+      <BINDING>hardcover</BINDING>
+      <PAGES>462</PAGES>
+      <PRICE>7.75</PRICE>
+      <PUBLISH_DATE>1985-12</PUBLISH_DATE>
+      <ISBN>9-9999-9999-9</ISBN>
+   </BOOK>
+   <BOOK InStock="true">
+      <TITLE>The Legend of Sleepy Hollow</TITLE>
+      <AUTHOR>
+         <FIRSTNAME>Washington</FIRSTNAME>
+         <LASTNAME>Irving</LASTNAME>
+      </AUTHOR>
+      <BINDING>mass market paperback</BINDING>
+      <PAGES FrontMatter="6">98</PAGES>
+      <PRICE>2.95</PRICE>
+      <PUBLISH_DATE>1973-06</PUBLISH_DATE>
+      <ISBN>9-9999-9999-9</ISBN>
+   </BOOK>
+   <BOOK InStock="true">
+      <TITLE>The Marble Faun</TITLE>
+      <AUTHOR Born="1804">
+         <FIRSTNAME>Nathaniel</FIRSTNAME>
+         <LASTNAME>Hawthorne</LASTNAME>
+      </AUTHOR>
+      <BINDING>trade paperback</BINDING>
+      <PAGES>473</PAGES>
+      <PRICE>10.95</PRICE>
+      <ISBN>9-9999-9999-9</ISBN>
+   </BOOK>
+   <BOOK InStock="false">
+      <TITLE>Moby-Dick <SUBTITLE>Or, the Whale</SUBTITLE></TITLE>
+      <AUTHOR Born="1819">
+         <FIRSTNAME>Herman</FIRSTNAME>
+         <LASTNAME>Melville</LASTNAME>
+      </AUTHOR>
+      <BINDING>hardcover</BINDING>
+      <PAGES FrontMatter="20">724</PAGES>
+      <PRICE>9.95</PRICE>
+      <PUBLISH_DATE>2001-06</PUBLISH_DATE>
+      <ISBN>9-9999-9999-9</ISBN>
+   </BOOK>
+   <BOOK InStock="true">
+      <TITLE>The Portrait of a Lady</TITLE>
+      <AUTHOR>
+         <FIRSTNAME>Henry</FIRSTNAME>
+         <LASTNAME>James</LASTNAME>
+      </AUTHOR>
+      <BINDING>mass market paperback</BINDING>
+      <PAGES FrontMatter="8">256</PAGES>
+      <PRICE>4.95</PRICE>
+      <ISBN>9-9999-9999-9</ISBN>
+   </BOOK>
+   <BOOK InStock="true">
+      <TITLE>The Scarlet Letter</TITLE>
+      <AUTHOR>
+         <FIRSTNAME>Nathaniel</FIRSTNAME>
+         <LASTNAME>Hawthorne</LASTNAME>
+      </AUTHOR>
+      <BINDING>trade paperback</BINDING>
+      <PAGES>253</PAGES>
+      <PRICE>4.25</PRICE>
+      <PUBLISH_DATE>1987-01</PUBLISH_DATE>
+      <ISBN>9-9999-9999-9</ISBN>
+   </BOOK>
+   <BOOK InStock="false">
+      <TITLE>The Turn of the Screw</TITLE>
+      <AUTHOR>
+         <FIRSTNAME>Henry</FIRSTNAME>
+         <LASTNAME>James</LASTNAME>
+      </AUTHOR>
+      <BINDING>trade paperback</BINDING>
+      <PAGES FrontMatter="10">384</PAGES>
+      <PRICE>3.35</PRICE>
+      <PUBLISH_DATE>1974-07</PUBLISH_DATE>
+      <ISBN>9-9999-9999-9</ISBN>
+   </BOOK>
+</INVENTORY>

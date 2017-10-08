@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!-- all images taken from google play -->
+
+	<!ELEMENT inventory (artist+)>
+	<!ELEMENT artist (artistName, artistCountry, groupNames?, careerStart, careerEnd?, album)>
+		<!ELEMENT artistName (#PCDATA)>
+		<!ATTLIST artistName artistType (solo | group) #REQUIRED>
+		<!ELEMENT artistCountry (#PCDATA)>
+		<!ELEMENT groupNames (#PCDATA)>
+		<!ELEMENT careerStart (#PCDATA)>
+		<!ELEMENT careerEnd (#PCDATA)>
+		<!ELEMENT album (albumName, albumCover, producers?, mixers?, masterEngineers?, label, releaseInformation, trackList)>
+			     <!ATTLIST album sku CDATA #REQUIRED>
+			<!ELEMENT albumName (#PCDATA)>
+			     <!ATTLIST albumName albumCategory (Grammy_Nominee|Grammy_Winner|Personal_Favorite) #REQUIRED>
+			     <!ATTLIST albumName type (album|song) #REQUIRED>
+			<!ELEMENT albumCover (#PCDATA)>
+			<!ELEMENT producers (#PCDATA)>
+			<!ELEMENT mixers (#PCDATA)>
+			<!ELEMENT masterEngineers (#PCDATA)>
+			<!ELEMENT label (#PCDATA)>
+			<!ELEMENT releaseInformation (releaseData*)>
+				<!ELEMENT releaseData (releaseDate?, recordLabel?, recordLabelCatalogNumber?, barCodeNumber?, country?, format?)>
+					<!ELEMENT releaseDate (#PCDATA)>
+					<!ELEMENT recordLabel (#PCDATA)>
+					<!ELEMENT recordLabelCatalogNumber (#PCDATA)>
+					<!ELEMENT barCodeNumber (#PCDATA)>
+					<!ELEMENT country (#PCDATA)>
+					<!ELEMENT format (#PCDATA)>
+			<!ELEMENT trackList (song*)>
+				<!ELEMENT song (songName, songLength, composers, songNumber)>
+				        <!ATTLIST song sku CDATA #REQUIRED>
+				        <!ATTLIST song albumref CDATA #REQUIRED>
+				        <!ATTLIST song type (album|song) #REQUIRED>
+					<!ELEMENT songName (#PCDATA)>
+					<!ELEMENT songLength (#PCDATA)>
+					<!ELEMENT composers (#PCDATA)>
+					<!ELEMENT songNumber (#PCDATA)>

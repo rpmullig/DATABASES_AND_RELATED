@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<inventory>
+	<detail>A selection of book abstracts about dragons from the Children's Picture Book Database at Miami University.  The Children's Picture Book Database at Miami University (CPBD@MU) is a bibliography for designing literature-based thematic units for all disciplines, including health education. The database contains abstracts of more than 5000 picture books for children.</detail>
+
+     <book>
+	 	  <author>dePaola, Tomie</author>
+          <year>1980</year>
+		  <title>The knight and the dragon</title>
+		  <publishedCity>New York</publishedCity>
+		  <publisher>G.P. Putnam's Sons</publisher>
+		  <abstract>A not-so-mean dragon and an inexperienced knight both learn how to fight one another and, then, decide to battle it out. Who will be defeated?Be ready for a surprise ending. 
+</abstract>
+		  <abstractProvider>Bea Elliott</abstractProvider>
+		  <abstractYear>1995</abstractYear>
+		  <abstractFor>Children's Picture Book Database</abstractFor>
+		  <abstractAt>Miami University</abstractAt>
+     </book>
+	 
+	 
+     <book>
+	 	  <author>Fleming, Denise</author>
+          <year>2001</year>
+		  <title>Pumpkin eye</title>
+		  <publishedCity>New York</publishedCity>
+		  <publisher>Henry Holt and Company</publisher>
+		  <abstract>A dark night of Halloween fright brings you colors, sounds, and sensory sights. </abstract>
+		  <abstractProvider>Valerie Ubbes</abstractProvider>
+		  <abstractYear>2002</abstractYear>
+		  <abstractFor>Children's Picture Book Database</abstractFor>
+		  <abstractAt>Miami University</abstractAt>
+     </book>
+	 
+	 <book>
+	 	  <author>Mayer, Mercer</author>
+          <year>1986</year>
+		  <title>Whinnie the lovesick dragon</title>
+		  <publishedCity>New York</publishedCity>
+		  <publisher>Macmillan</publisher>
+		  <abstract>Whinnie, a dragon, falls in love with a knight, but a knight and a dragon are supposed to be enemies. 
+</abstract>
+		  <abstractProvider>Jocelyn Weeda</abstractProvider>
+		  <abstractYear>1994</abstractYear>
+		  <abstractFor>Children's Picture Book Database</abstractFor>
+		  <abstractAt>Miami University</abstractAt>
+     </book>
+	 
+	 <book>
+	 	  <author>Reddix, Valerie</author>
+          <year>1991</year>
+		  <title>Dragon kite of the autumn moon</title>
+		  <publishedCity>New York</publishedCity>
+		  <publisher>Lothrop, Lee & Shepard Books</publisher>
+		  <abstract>Every year, Tad-Tin and his grandfather make a special kite to fly on Kite's Day. This year Grandfather is sick, so it is up to Tin to sacrifice his special Dragon kite in order to carry all their misfortune away. 
+</abstract>
+		  <abstractProvider>Michelle Prosise</abstractProvider>
+		  <abstractYear>1996</abstractYear>
+		  <abstractFor>Children's Picture Book Database</abstractFor>
+		  <abstractAt>Miami University</abstractAt>
+     </book>
+	 
+     <book>
+	 	  <author>Sis, Peter</author>
+          <year>1993</year>
+		  <title> Komodo!</title>
+		  <publishedCity>New York</publishedCity>
+		  <publisher>Greenwillow Books</publisher>
+		  <abstract>A young boy who loves dragons, goes with his parents to the Indonesian Island of Komodo in hopes of finding a dragon.</abstract>
+		  <abstractProvider>Alicia Replogle</abstractProvider>
+		  <abstractYear>1994</abstractYear>
+		  <abstractFor>Children's Picture Book Database</abstractFor>
+		  <abstractAt>Miami University</abstractAt>
+     </book>
+	 
+	 
+</inventory>

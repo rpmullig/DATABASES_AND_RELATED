@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+
+<!-- File Name: Inventory Schema.xsd -->
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+   <xsd:element name="INVENTORY">
+      <xsd:complexType>
+         <xsd:sequence>
+            <xsd:element name="BOOK" minOccurs="0" maxOccurs="unbounded">
+               <xsd:complexType>
+                  <xsd:sequence>
+                     <xsd:element name="TITLE">
+                        <xsd:complexType mixed="true">
+                           <xsd:sequence>
+                              <xsd:element name="SUBTITLE" type="xsd:string" minOccurs="0"/>
+                           </xsd:sequence>
+                        </xsd:complexType>
+                     </xsd:element>
+                     <xsd:element name="AUTHOR">
+                        <xsd:complexType>
+                           <xsd:sequence>
+                              <xsd:element name="FIRSTNAME" type="xsd:string"/>
+                              <xsd:element name="LASTNAME" type="xsd:string"/>
+                           </xsd:sequence>
+                           <xsd:attribute name="Born" type="xsd:gYear"/>
+                        </xsd:complexType>
+                     </xsd:element>
+                     <xsd:element name="BINDING">
+                        <xsd:simpleType>
+                           <xsd:restriction base="xsd:string">
+                              <xsd:enumeration value="hardcover"/>
+                              <xsd:enumeration value="mass market paperback"/>
+                              <xsd:enumeration value="trade paperback"/>
+                           </xsd:restriction>
+                        </xsd:simpleType>
+                     </xsd:element>
+                     <xsd:element name="PAGES">
+                        <xsd:complexType>
+                           <xsd:simpleContent>
+                              <xsd:extension base="xsd:positiveInteger">
+                                 <xsd:attribute name="FrontMatter" type="xsd:positiveInteger"/>
+                              </xsd:extension>
+                           </xsd:simpleContent>
+                        </xsd:complexType>
+                     </xsd:element>
+                     <xsd:element name="PRICE">
+                        <xsd:simpleType>
+                           <xsd:restriction base="xsd:decimal">
+                              <xsd:minExclusive value="0"/>
+                              <xsd:maxExclusive value="100"/>
+                           </xsd:restriction>
+                        </xsd:simpleType>
+                     </xsd:element>
+                     <xsd:element name="PUBLISH_DATE" type="xsd:gYearMonth" minOccurs="0"/>
+                     <xsd:element name="ISBN">
+                        <xsd:simpleType>
+                           <xsd:restriction base="xsd:string">
+                              <xsd:pattern value="\d{1}-\d{4}-\d{4}-\d{1}"/>
+                           </xsd:restriction>
+                        </xsd:simpleType>
+                     </xsd:element>
+                  </xsd:sequence>
+                  <xsd:attribute name="InStock" type="xsd:boolean" use="required"/>
+               </xsd:complexType>
+            </xsd:element>
+         </xsd:sequence>
+      </xsd:complexType>
+   </xsd:element>
+
+
+</xsd:schema>

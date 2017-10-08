@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MUSIC>
+   <ARTIST>
+      <ARTISTNAME>Beck Hansen</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>United States</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1990s</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop/Rock</GENRE>
+      <ALBUM sku="dingyish-K315FL15A">
+         <RATING>8</RATING>
+         <COMMENT>I like this album because it has the power to touch my heart.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Winner" type="album">Morning Phase</ALBUMNAME>
+         <ALBUMCOVER>Beck Morning Phase.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/morning-phase-mw0002607867</IMAGESOURCE>
+         <LABEL>Capitol Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-21</RELEASEDATE>
+               <RECORDLABEL>Fonograf Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Fonograf Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3764975</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>AU </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983802</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>CA </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>602537649754</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>XE </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983901</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649747</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>12in Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-25</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983802</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15A001" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Cycle</SONGNAME>
+               <SONGLENGTH>0:40</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A002" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Morning</SONGNAME>
+               <SONGLENGTH>5:19</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A003" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Heart Is a Drum</SONGNAME>
+               <SONGLENGTH>4:31</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A004" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Say Goodbye</SONGNAME>
+               <SONGLENGTH>3:29</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A005" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Blue Moon</SONGNAME>
+               <SONGLENGTH>4:02</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A006" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Unforgiven</SONGNAME>
+               <SONGLENGTH>4:34</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A007" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Wave</SONGNAME>
+               <SONGLENGTH>3:40</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A008" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Don't Let It Go</SONGNAME>
+               <SONGLENGTH>3:09</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A009" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Blackbird Chain</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A010" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Phase</SONGNAME>
+               <SONGLENGTH>1:03</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A011" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Turn Away</SONGNAME>
+               <SONGLENGTH>3:05</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A012" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Country Down</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15A013" albumref="dingyish-K315FL15A" type="song">
+               <SONGNAME>Waking Light</SONGNAME>
+               <SONGLENGTH>5:02</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+      <ALBUM sku="dingyish-K315FL15B">
+         <RATING>9</RATING>
+         <COMMENT>I like this album because the singer used a different way to perform the music, which is an expressin of his heart and soul.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Mellow Gold</ALBUMNAME>
+         <ALBUMCOVER>Beck Mellow Gold.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/mellow-gold-mw0000591891</IMAGESOURCE>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>1994-03-01</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>CDGCD 24634</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>777499009936</BARCODENUMBER>
+               <COUNTRY>CA </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1994-03-01</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>GEF-24634</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>720642463413</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1994-03-01</RELEASEDATE>
+               <RECORDLABEL>DGC Records, Bong Load Custom Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>DGCD-24634</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>720642463420</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1994-03-01</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>DGCD-24634</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>720642463420</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1994-04-21</RELEASEDATE>
+               <RECORDLABEL>MCA Victor, Inc. (renamed Universal Victor, Inc. in July
+						1997)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>MVCG-153</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988067014917</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1994</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>GEFD-24634</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>720642463420</BARCODENUMBER>
+               <COUNTRY>AU </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1994</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>424 634-2, GED24634</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>720642463420</BARCODENUMBER>
+               <COUNTRY>XE </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1994</RELEASEDATE>
+               <RECORDLABEL>Bong Load Custom Records, DGC Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>DGCD-24706</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>208314841296</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1994</RELEASEDATE>
+               <RECORDLABEL>BMG Direct Marketing, Inc., Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>D102518, DGCD-24634</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-11-21</RELEASEDATE>
+               <RECORDLABEL>UNIVERSAL MUSIC JAPAN (read the annotation before
+						using!)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICY-2438</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005348920</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2006-05-17</RELEASEDATE>
+               <RECORDLABEL>UNIVERSAL MUSIC JAPAN (read the annotation before
+						using!)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICY-6150</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005429551</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2007-09-05</RELEASEDATE>
+               <RECORDLABEL>UNIVERSAL MUSIC JAPAN (read the annotation before
+						using!)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICF-9029</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005482907</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2012-03-21</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICY-25176</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005699985</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>SHM-CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15B001" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Loser </SONGNAME>
+               <SONGLENGTH>3:54</SONGLENGTH>
+               <COMPOSERS>Beck / Karl Stephenson</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B002" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Pay No Mind (Snoozer) </SONGNAME>
+               <SONGLENGTH>3:03</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B003" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Fuckin' With My Head (Mountain Dew Rock)</SONGNAME>
+               <SONGLENGTH>3:41</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B004" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Whiskeyclone, Hotel City 1997</SONGNAME>
+               <SONGLENGTH>3:28</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B005" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Soul Suckin' Jerk</SONGNAME>
+               <SONGLENGTH>3:55</SONGLENGTH>
+               <COMPOSERS>Beck / Karl Stephenson</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B006" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Truckdrivin' Neighbors Downstairs (Yellow Sweat)</SONGNAME>
+               <SONGLENGTH>2:55</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B007" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Sweet Sunshine</SONGNAME>
+               <SONGLENGTH>4:17</SONGLENGTH>
+               <COMPOSERS>Beck / Karl Stephenson</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B008" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Beercan</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Beck / Karl Stephenson</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B009" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Steal My Body Home</SONGNAME>
+               <SONGLENGTH>5:32</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B010" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Nitemare Hippy Girl</SONGNAME>
+               <SONGLENGTH>2:54</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B011" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Mutherfuker</SONGNAME>
+               <SONGLENGTH>2:05</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15B012" albumref="dingyish-K315FL15B" type="song">
+               <SONGNAME>Blackhole</SONGNAME>
+               <SONGLENGTH>5:17</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+      <ALBUM sku="dingyish-K315FL15C">
+         <RATING>10</RATING>
+         <COMMENT>I love this album because every time I hear the tracks, I will have a new feeling and understanding about rhose songs amd they have given the real peace.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Sea Change</ALBUMNAME>
+         <ALBUMCOVER>Beck Sea Change.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/sea-change-mw0000661656</IMAGESOURCE>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2002-09-21</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICF-1015</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005313324</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2002-09-23</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>493 393-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>606949339326</BARCODENUMBER>
+               <COUNTRY>GB </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2002-09-24</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>694933932</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>606949339326</BARCODENUMBER>
+               <COUNTRY>CA </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2002-09-24</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>493 393-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>606949339326</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2002</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>4933932-A</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>606949339326</BARCODENUMBER>
+               <COUNTRY>AU </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2002</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>493 393-2 (A)</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>606949339326</BARCODENUMBER>
+               <COUNTRY>XE </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2002</RELEASEDATE>
+               <RECORDLABEL>DGC Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>0694933932-C</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>606949339326</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2002</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>694935372</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>606949353728</BARCODENUMBER>
+               <COUNTRY>XW </COUNTRY>
+               <FORMAT>SACD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-12-16</RELEASEDATE>
+               <RECORDLABEL>Geffen Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B0001840-19</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>DVD-Audio</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2006-05-17</RELEASEDATE>
+               <RECORDLABEL>UNIVERSAL MUSIC JAPAN (read the annotation before
+						using!)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICY-6154</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005429599</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2009-06-30</RELEASEDATE>
+               <RECORDLABEL>Mobile Fidelity Sound Lab</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UDCD 780</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>821797078061</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2009</RELEASEDATE>
+               <RECORDLABEL>Mobile Fidelity Sound Lab</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>MFSL 2-308</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>821797230810</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>2×12in Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-10-14</RELEASEDATE>
+               <RECORDLABEL>Interscope Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15C001" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>The Golden Age</SONGNAME>
+               <SONGLENGTH>4:36</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C002" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Paper Tiger</SONGNAME>
+               <SONGLENGTH>4:35</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C003" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Guess I'm Doing Fine</SONGNAME>
+               <SONGLENGTH>4:49</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C004" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Lonesome Tears</SONGNAME>
+               <SONGLENGTH>5:37</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C005" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Lost Cause</SONGNAME>
+               <SONGLENGTH>3:47</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C006" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>End of the Day</SONGNAME>
+               <SONGLENGTH>5:03</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C007" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>It's All in Your Mind</SONGNAME>
+               <SONGLENGTH>3:05</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C008" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Round the Bend</SONGNAME>
+               <SONGLENGTH>5:15</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C009" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Already Dead</SONGNAME>
+               <SONGLENGTH>2:58</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C010" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Sunday Sun</SONGNAME>
+               <SONGLENGTH>4:44</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C011" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Little One</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15C012" albumref="dingyish-K315FL15C" type="song">
+               <SONGNAME>Side of the Road</SONGNAME>
+               <SONGLENGTH>3:23</SONGLENGTH>
+               <COMPOSERS>Beck</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Beyoncé</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>United States</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1990s</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>R&amp;B</GENRE>
+      <ALBUM sku="dingyish-K315FL15D">
+         <RATING>6</RATING>
+         <COMMENT>Although I like the singer, I feel neutral about this album. I really expect more but it doesn't satisfy me very much.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">Beyoncé</ALBUMNAME>
+         <ALBUMCOVER>Beyonce Beyonce.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/beyonc%C3%A9-mw0002607521</IMAGESOURCE>
+         <LABEL>Columbia Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2013-12-13</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>XW </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2013-12-20</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in JP),
+						Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843032512</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430325128</BARCODENUMBER>
+               <COUNTRY>XE </COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2013-12-20</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in JP),
+						Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843032512</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430325128</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-02-12</RELEASEDATE>
+               <RECORDLABEL>Sony Records International (Japanese TEXTLESS walking eye
+						imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-4090, SICP-4091</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366213270</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-04-01</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX02354B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366215236</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-11-24</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03191B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366231373</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-11-24</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>4×Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-11-24</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in JP),
+						Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>2×CD + 2×DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-11-24</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886444955379</BARCODENUMBER>
+               <COUNTRY>XW </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-01-21</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03238B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366232189</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-01-21</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03239B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366232196</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843045342</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430453425</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD + Blu-ray</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15D001" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Pretty Hurts</SONGNAME>
+               <SONGLENGTH>4:17</SONGLENGTH>
+               <COMPOSERS>Joshua Coleman / Sia Furler / Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D002" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Ghost/Haunted</SONGNAME>
+               <SONGLENGTH>6:09</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D003" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Drunk in Love</SONGNAME>
+               <SONGLENGTH>5:23</SONGLENGTH>
+               <COMPOSERS>Shawn Carter / Rasool Diaz / Noel "Detail" Fisher / Jerome Harmon /
+						Beyoncé Knowles / Andre Proctor / Brian Soko</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D004" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Blow</SONGNAME>
+               <SONGLENGTH>5:09</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Terius
+						"The-Dream" Nash / Justin Timberlake / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D005" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>No Angel</SONGNAME>
+               <SONGLENGTH>3:48</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Beyoncé Knowles / Caroline Polachek</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D006" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Yoncé/Partition</SONGNAME>
+               <SONGLENGTH>5:19</SONGLENGTH>
+               <COMPOSERS>Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin
+						Timberlake / Dwane Weir</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D007" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Jealous</SONGNAME>
+               <SONGLENGTH>3:04</SONGLENGTH>
+               <COMPOSERS>Lyrica Anderson / Rasool Diaz / Noel "Detail" Fisher / Beyoncé Knowles
+						/ Andre Proctor / Brian Soko</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D008" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Rocket</SONGNAME>
+               <SONGLENGTH>6:31</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Miguel Jontel
+						Pimentel / Justin Timberlake</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D009" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Mine</SONGNAME>
+               <SONGLENGTH>6:18</SONGLENGTH>
+               <COMPOSERS>Sidney "Omen" Brown / Aubrey "Drake" Graham / Beyoncé Knowles / Noah
+						Shebib / Jordan Kenneth Cooke Ullman / Dwane Weir</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D010" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>XO</SONGNAME>
+               <SONGLENGTH>3:35</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Terius "The-Dream" Nash / Ryan Tedder</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D011" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>***Flawless</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Chauncey Hollis / Beyoncé Knowles / Rashad Muhammad / Terius
+						"The-Dream" Nash / Rey Reel</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D012" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Superpower</SONGNAME>
+               <SONGLENGTH>4:36</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Frank Ocean / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D013" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Heaven</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15D014" albumref="dingyish-K315FL15D" type="song">
+               <SONGNAME>Blue/Grown Woman</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Jerome Harmon / Beyoncé Knowles / Garland Mosley / Terius "The-Dream"
+						Nash / D. Pearson / Kelly Sheehan</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+      <ALBUM sku="dingyish-K315FL15E">
+         <RATING>10</RATING>
+         <COMMENT>I'm a crazy fan of this album! This is the first album of Beyonce I have listened to and I have been attracted since then. </COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Dangerously in Love</ALBUMNAME>
+         <ALBUMCOVER>Beyonce Dangerously in Love.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/dangerously-in-love-mw0000598421</IMAGESOURCE>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-03-10</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>XW </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-06-23</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>509395 5</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099750939550</BARCODENUMBER>
+               <COUNTRY>FR </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-06-23</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>509395 2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099750939529</BARCODENUMBER>
+               <COUNTRY>GB </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-06-24</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>5093952000</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>9399700103908</BARCODENUMBER>
+               <COUNTRY>AU </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-06-24</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>509395 5</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099750939550</BARCODENUMBER>
+               <COUNTRY>FR </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-06-24</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>CK 86386</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>696998638624</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-06-25</RELEASEDATE>
+               <RECORDLABEL>Sony Music Japan International Inc. (Do not use as a label, see
+						the annotation.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-406</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366011135</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-07-04</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>COL 509395 6</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099750939567</BARCODENUMBER>
+               <COUNTRY>TW </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003-07</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>TH </COUNTRY>
+               <FORMAT>(unknown)</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003</RELEASEDATE>
+               <RECORDLABEL>Sony Music (global brand, excluding JP, owned by Sony Music
+						Entertainment; for use as release label only when no sub-label/imprint is
+						specified)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>7799412860</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>CN </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2003</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>C2 86386</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>2×12in Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2004-04</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>517164 5</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5099751716457</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>2×Hybrid SACD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15E001" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Crazy in Love</SONGNAME>
+               <SONGLENGTH>3:56</SONGLENGTH>
+               <COMPOSERS>Beyoncé / Shawn Carter / Rich Harrison / Eugene Record</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E002" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Naughty Girl</SONGNAME>
+               <SONGLENGTH>3:29</SONGLENGTH>
+               <COMPOSERS>Angela Beyince / Beyoncé / Giorgio Moroder / Scott Spencer Storch /
+						Donna Summer / Robert Waller</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E003" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Baby Boy</SONGNAME>
+               <SONGLENGTH>4:04</SONGLENGTH>
+               <COMPOSERS>Beyoncé / Shawn Carter / Sean Paul Henriques / Scott Spencer Storch /
+						Robert Waller</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E004" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Hip Hop Star</SONGNAME>
+               <SONGLENGTH>3:43</SONGLENGTH>
+               <COMPOSERS>Beyoncé / Shawn Carter / Makeda Davis / Antwan Patton / Bryce
+						Wilson</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E005" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Be with You</SONGNAME>
+               <SONGLENGTH>4:20</SONGLENGTH>
+               <COMPOSERS>Angela Beyince / Beyoncé / William Collins / G. Cooper / Rich Harrison
+						/ G. Clinton, Jr. / Shuggie Otis</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E006" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Me, Myself and I</SONGNAME>
+               <SONGLENGTH>5:01</SONGLENGTH>
+               <COMPOSERS>Beyoncé / Scott Spencer Storch / Robert Waller</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E007" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Yes</SONGNAME>
+               <SONGLENGTH>4:19</SONGLENGTH>
+               <COMPOSERS>Beyoncé / Shawn Carter / Bernard Edwards</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E008" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Signs</SONGNAME>
+               <SONGLENGTH>4:59</SONGLENGTH>
+               <COMPOSERS>Craig Brockman / Missy Elliott / Nisan Stewart</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E009" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Speechless</SONGNAME>
+               <SONGLENGTH>6:00</SONGLENGTH>
+               <COMPOSERS>Sherrod Barnes / Angela Beyince / Beyoncé / Andreao "Fanatic"
+						Heard</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E010" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>That's How You Like It</SONGNAME>
+               <SONGLENGTH>3:40</SONGLENGTH>
+               <COMPOSERS>Shawn Carter / El DeBarge / Randy DeBarge / Etterlene
+						Jordan</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E011" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>The Closer I Get to You</SONGNAME>
+               <SONGLENGTH>4:57</SONGLENGTH>
+               <COMPOSERS>Reggie Lucas / James Mtume</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E012" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Dangerously in Love 2</SONGNAME>
+               <SONGLENGTH>4:54</SONGLENGTH>
+               <COMPOSERS>Beyoncé</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E013" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Beyoncé Interlude</SONGNAME>
+               <SONGLENGTH>0:16</SONGLENGTH>
+               <COMPOSERS>Beyoncé</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E014" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Gift from Virgo</SONGNAME>
+               <SONGLENGTH>2:46</SONGLENGTH>
+               <COMPOSERS>Beyoncé / Shuggie Otis</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15E015" albumref="dingyish-K315FL15E" type="song">
+               <SONGNAME>Daddy</SONGNAME>
+               <SONGLENGTH>5:00</SONGLENGTH>
+               <COMPOSERS>Mark Batson / Beyoncé</COMPOSERS>
+               <SONGNUMBER>15</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+      <ALBUM sku="dingyish-K315FL15F">
+         <RATING>9</RATING>
+         <COMMENT>This is another one of my favorite. I have recommended it to lots of my friends.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">4</ALBUMNAME>
+         <ALBUMCOVER>Beyonce 4.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/4-mw0002136254</IMAGESOURCE>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-24</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886979082427</BARCODENUMBER>
+               <COUNTRY>DE </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-24</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88697933582</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>886979335820</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>2×CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-26</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>886979229921</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>886979229921</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>2×CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-27</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88697933582</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>886979335820</BARCODENUMBER>
+               <COUNTRY>GB </COUNTRY>
+               <FORMAT>2×CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-28</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>S10842</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>8803581118421</BARCODENUMBER>
+               <COUNTRY>KR </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-28</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>S10843C</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>8803581118438</BARCODENUMBER>
+               <COUNTRY>KR </COUNTRY>
+               <FORMAT>2×CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-28</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88697908242</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>886979082427</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-29</RELEASEDATE>
+               <RECORDLABEL>Sony Music Japan International Inc. (Do not use as a label, see
+						the annotation.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-3187</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366060010</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011-06-29</RELEASEDATE>
+               <RECORDLABEL>Sony Music Japan International Inc. (Do not use as a label, see
+						the annotation.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-3185, SICP-3186</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366060119</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>2×CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88725423662</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>887254236627</BARCODENUMBER>
+               <COUNTRY>AU </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15F001" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>1+1</SONGNAME>
+               <SONGLENGTH>4:35</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Terius Nash / Christopher Stewart</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F002" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>I Care</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Jeff Bhasker / Chad Hugo / Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F003" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>I Miss You</SONGNAME>
+               <SONGLENGTH>2:58</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Frank Ocean / Shea Taylor</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F004" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>Best Thing I Never Had</SONGNAME>
+               <SONGLENGTH>4:13</SONGLENGTH>
+               <COMPOSERS>Antonio Dixon / Kenneth "Babyface" Edmonds / Larry Griffin Jr. /
+						Beyoncé Knowles / Caleb McCampbell / Patrick "J Que" Smith / Shea
+						Taylor</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F005" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>Party</SONGNAME>
+               <SONGLENGTH>4:04</SONGLENGTH>
+               <COMPOSERS>Jeff Bhasker / Douglas Davis / Beyoncé Knowles / Dexter R. Mills /
+						Ricky Walters</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F006" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>Rather Die Young</SONGNAME>
+               <SONGLENGTH>3:42</SONGLENGTH>
+               <COMPOSERS>Jeff Bhasker / Beyoncé Knowles / Luke Steele</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F007" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>Start Over</SONGNAME>
+               <SONGLENGTH>3:19</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Shea Taylor</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F008" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>Love on Top</SONGNAME>
+               <SONGLENGTH>4:27</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Terius Nash / Shea Taylor</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F009" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>Countdown</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Michael Davis / Julie Frost / Beyoncé Knowles / Cainon Lamb / Nathan
+						Morris / Wanya Morris / Terius Nash</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F010" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>End of Time</SONGNAME>
+               <SONGLENGTH>3:43</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Terius Nash / David Taylor / Shea Taylor</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F011" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>I Was Here</SONGNAME>
+               <SONGLENGTH>3:58</SONGLENGTH>
+               <COMPOSERS>Diane Warren</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15F012" albumref="dingyish-K315FL15F" type="song">
+               <SONGNAME>Run the World (Girls)</SONGNAME>
+               <SONGLENGTH>3:55</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Terius Nash / Adidja Palmer / Wesley "Diplo" Pentz /
+						David Taylor / Nick Van De Wall</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Ed Sheeran</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>United Kingdom</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2011</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop/Rock</GENRE>
+      <ALBUM sku="dingyish-K315FL15G">
+         <RATING>2</RATING>
+         <COMMENT>This album is not really my type and I feel uncomfortable hearing the mix of hard rocks.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">X</ALBUMNAME>
+         <ALBUMCOVER>Ed Sheeran X.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/x-mw0002655755</IMAGESOURCE>
+         <LABEL>Atlantic</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>AU </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>DE </COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>NZ </COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-23</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>XW </COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now
+						mostly hip-hop), Atlantic (Warner Music imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>AU </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Atlantic Records UK</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285037</BARCODENUMBER>
+               <COUNTRY>AT </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>DE </COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>CH </COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Warner Music UK Ltd. (don't use this as a release
+						label!)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285891</BARCODENUMBER>
+               <COUNTRY>IT </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Atlantic Records UK</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285891</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now
+						mostly hip-hop)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-20</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now
+						mostly hip-hop)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-23</RELEASEDATE>
+               <RECORDLABEL>Warner Music UK Ltd. (don't use this as a release
+						label!)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>825646285907</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285907</BARCODENUMBER>
+               <COUNTRY>XE </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-23</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now
+						mostly hip-hop)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>825646285860</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285860</BARCODENUMBER>
+               <COUNTRY>GB </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-23</RELEASEDATE>
+               <RECORDLABEL>Atlantic (Warner Music imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>543295-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285907</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now
+						mostly hip-hop)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2-564628</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285860</BARCODENUMBER>
+               <COUNTRY>CA </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15G001" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>One</SONGNAME>
+               <SONGLENGTH>4:12</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G002" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>I'm a Mess</SONGNAME>
+               <SONGLENGTH>4:04</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G003" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Sing</SONGNAME>
+               <SONGLENGTH>3:55</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G004" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Don't</SONGNAME>
+               <SONGLENGTH>3:39</SONGLENGTH>
+               <COMPOSERS>Benjamin Levin / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G005" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Nina</SONGNAME>
+               <SONGLENGTH>3:45</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G006" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Photograph</SONGNAME>
+               <SONGLENGTH>4:18</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G007" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Bloodstream</SONGNAME>
+               <SONGLENGTH>5:00</SONGLENGTH>
+               <COMPOSERS>Gary Lightbody / Johnny McDaid / Rudimental / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G008" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Tenerife Sea</SONGNAME>
+               <SONGLENGTH>4:01</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran / Foy Vance</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G009" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Runaway</SONGNAME>
+               <SONGLENGTH>3:25</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G010" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>The Man</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G011" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Thinking Out Loud</SONGNAME>
+               <SONGLENGTH>4:41</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Amy Wadge</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15G012" albumref="dingyish-K315FL15G" type="song">
+               <SONGNAME>Afire Love</SONGNAME>
+               <SONGLENGTH>5:16</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran / Foy Vance</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Sam Smith</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>United Kingdom</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2012</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop/Rock</GENRE>
+      <ALBUM sku="dingyish-K315FL15H">
+         <RATING>8</RATING>
+         <COMMENT>I like Sam's voice and I think he has the potential to become a real music star after I listened to this album.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">In The Lonely Hour</ALBUMNAME>
+         <ALBUMCOVER>Sam Smith In the Lonely Hour.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/in-the-lonely-hour-mw0002605902</IMAGESOURCE>
+         <LABEL>Capitol Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-05-23</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>NZ </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-05-26</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3769173</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537691739</BARCODENUMBER>
+               <COUNTRY>GB </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-17</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-17</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B002057502</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537799251</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-06-17</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>XW </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B002061102</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537802371</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-01-21</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICC-10015</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005867308</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2015-01</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>602547260734</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15H001" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>Money On My Mind</SONGNAME>
+               <SONGLENGTH>3:13</SONGLENGTH>
+               <COMPOSERS>Ben Ash / Sam Smith</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H002" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>Good Thing</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Sam Smith / Eg White</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H003" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>Stay With Me</SONGNAME>
+               <SONGLENGTH>2:52</SONGLENGTH>
+               <COMPOSERS>James Napier / William Phillips / Sam Smith</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H004" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>Leave Your Lover</SONGNAME>
+               <SONGLENGTH>3:08</SONGLENGTH>
+               <COMPOSERS>Simon Aldred / Sam Smith</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H005" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>I'm Not The Only One</SONGNAME>
+               <SONGLENGTH>3:59</SONGLENGTH>
+               <COMPOSERS>James Napier / Sam Smith</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H006" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>I've Told You Now</SONGNAME>
+               <SONGLENGTH>3:30</SONGLENGTH>
+               <COMPOSERS>Sam Smith / Eg White</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H007" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>Like I Can</SONGNAME>
+               <SONGLENGTH>2:47</SONGLENGTH>
+               <COMPOSERS>Matt Prime / Sam Smith</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H008" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>Life Support</SONGNAME>
+               <SONGLENGTH>2:53</SONGLENGTH>
+               <COMPOSERS>Ben Ash / Sam Smith</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H009" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>Not In That Way</SONGNAME>
+               <SONGLENGTH>2:52</SONGLENGTH>
+               <COMPOSERS>Fraser T. Smith / Sam Smith</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15H010" albumref="dingyish-K315FL15H" type="song">
+               <SONGNAME>Lay Me Down</SONGNAME>
+               <SONGLENGTH>4:15</SONGLENGTH>
+               <COMPOSERS>James Napier / Elvin Smith / Sam Smith</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Pharrell Williams</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>United States</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1992</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>R&amp;B</GENRE>
+      <ALBUM sku="dingyish-K315FL15I">
+         <RATING>8</RATING>
+         <COMMENT>I like this album a lot, especially the song "Happy" from the famous movie.</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">Girl</ALBUMNAME>
+         <ALBUMCOVER>Pharrell Williams Girl.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/g-i-r-l-mw0002623342</IMAGESOURCE>
+         <LABEL>Columbia Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-03-03</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>XE </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-03-03</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>MX </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-03-03</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX;
+						owned worldwide by Sony Music Entertainment since 1991 except in
+						JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-03-03</RELEASEDATE>
+               <RECORDLABEL>Back Lot Music</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886444495165</BARCODENUMBER>
+               <COUNTRY>XW </COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-04-30</RELEASEDATE>
+               <RECORDLABEL>Sony Records International (Japanese TEXTLESS walking eye
+						imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-4129</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366216660</BARCODENUMBER>
+               <COUNTRY>JP </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014-04-18</RELEASEDATE>
+               <RECORDLABEL>[no label] (Special purpose label - white labels, self-published
+						releases and other “no label” releases)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>PHARRELLGIRL001</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>DE </COUNTRY>
+               <FORMAT>2×12in Vinyl</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15I001" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Marilyn Monroe</SONGNAME>
+               <SONGLENGTH>5:51</SONGLENGTH>
+               <COMPOSERS>Ann Marie Calhoun / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I002" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Brand New</SONGNAME>
+               <SONGLENGTH>4:31</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I003" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Hunter</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I004" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Gush</SONGNAME>
+               <SONGLENGTH>3:54</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I005" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Happy [From Despicable Me 2]</SONGNAME>
+               <SONGLENGTH>3:52</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I006" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Come Get It Bae</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I007" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Gust of Wind</SONGNAME>
+               <SONGLENGTH>4:45</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I008" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Lost Queen</SONGNAME>
+               <SONGLENGTH>7:56</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I009" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>Who You Are</SONGNAME>
+               <SONGLENGTH>3:56</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15I010" albumref="dingyish-K315FL15I" type="song">
+               <SONGNAME>It Girl</SONGNAME>
+               <SONGLENGTH>4:49</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+      <ALBUM sku="dingyish-K315FL15J">
+         <RATING>4</RATING>
+         <COMMENT>I don't like this album much and I think he can improve a lot. This doesn't reflect his actual ability.</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">In My Mind</ALBUMNAME>
+         <ALBUMCOVER>Pharrell Williams In My Mind.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.allmusic.com/album/in-my-mind-mw0000348573</IMAGESOURCE>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>2006-07-24</RELEASEDATE>
+               <RECORDLABEL>Virgin (worldwide imprint of Virgin Records Ltd. and its
+						subsidiaries)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>0946 3 46154 2 6</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>94634615426</BARCODENUMBER>
+               <COUNTRY>GB </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2006-07-25</RELEASEDATE>
+               <RECORDLABEL>Star Trak</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B0005698-02 IN03</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602498870167</BARCODENUMBER>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2006-07-25</RELEASEDATE>
+               <RECORDLABEL>Star Trak</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US </COUNTRY>
+               <FORMAT>2×Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2006-08-14</RELEASEDATE>
+               <RECORDLABEL>EMI International</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>0946 3 46163 2 4</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>94634616324</BARCODENUMBER>
+               <COUNTRY>XE </COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="dingyish-K315FL15J001" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Can I Have It Like That</SONGNAME>
+               <SONGLENGTH>3:55</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J002" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>How Does It Feel?</SONGNAME>
+               <SONGLENGTH>3:35</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J003" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Raspy ****</SONGNAME>
+               <SONGLENGTH>3:34</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J004" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Best Friend</SONGNAME>
+               <SONGLENGTH>4:40</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J005" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>You Can Do It Too</SONGNAME>
+               <SONGLENGTH>5:22</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J006" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Keep It Playa</SONGNAME>
+               <SONGLENGTH>4:18</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J007" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>That Girl</SONGNAME>
+               <SONGLENGTH>4:01</SONGLENGTH>
+               <COMPOSERS>Calvin Broadus / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J008" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Angel</SONGNAME>
+               <SONGLENGTH>2:44</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J009" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Medley</SONGNAME>
+               <SONGLENGTH>8:13</SONGLENGTH>
+               <COMPOSERS>Sean Carter / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J010" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Take It Off (Dim the Lights)</SONGNAME>
+               <SONGLENGTH>4:07</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J011" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Stay With Me</SONGNAME>
+               <SONGLENGTH>4:06</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J012" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Baby</SONGNAME>
+               <SONGLENGTH>4:06</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J013" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Our Father</SONGNAME>
+               <SONGLENGTH>3:27</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J014" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Number One</SONGNAME>
+               <SONGLENGTH>3:56</SONGLENGTH>
+               <COMPOSERS>Kanye West / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+            <SONG sku="dingyish-K315FL15J015" albumref="dingyish-K315FL15J" type="song">
+               <SONGNAME>Skateboard P Presents: Sow You How to Hustle</SONGNAME>
+               <SONGLENGTH>4:13</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>15</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+</MUSIC>

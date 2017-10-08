@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE INVENTORY SYSTEM "rpmullig_Inventory3.dtd">
+
+<INVENTORY>
+    <CD>
+        <TITLE>Ten</TITLE>
+        <ARTIST>Pearl Jam</ARTIST>
+        <FORMAT>MP3</FORMAT>
+        <YEAR>1991</YEAR>
+        <PRICE>8.99</PRICE>
+    </CD>
+  </INVENTORY>

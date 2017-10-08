@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ORDER>
+   <LINEITEM>
+      <TITLE>Huckleberry Finn</TITLE>
+      <QTY>298</QTY>
+      <BINDING>hard cover</BINDING>
+   </LINEITEM>
+   <LINEITEM>
+      <TITLE>The Stand</TITLE>
+      <QTY>1008</QTY>
+      <BINDING>soft cover</BINDING>
+   </LINEITEM>
+   <LINEITEM>
+      <TITLE>First to Die</TITLE>
+      <QTY>198</QTY>
+      <BINDING>soft cover</BINDING>
+   </LINEITEM>
+   <LINEITEM>
+      <TITLE>Christine</TITLE>
+      <QTY>502</QTY>
+      <BINDING>soft cover</BINDING>
+   </LINEITEM>
+</ORDER

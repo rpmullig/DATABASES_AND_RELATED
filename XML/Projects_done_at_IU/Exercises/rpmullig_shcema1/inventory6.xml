@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../Turnin/rpmullig_inventory6.xsd">
+	
+	<cd>
+		<title>American Beauty</title>
+		<artist>Grateful Dead</artist>
+		<contact>KC Daily</contact>
+	</cd>
+	<cd>
+		<title>Dare to be Stupid</title>
+		<artist>Al Yankovic</artist>
+	</cd>
+	<cd>
+		<title>Skeletons from the Closet</title>
+		<artist>Grateful Dead></artist>
+		<contact>KC Daily</contact>
+	</cd>
+</inventory>

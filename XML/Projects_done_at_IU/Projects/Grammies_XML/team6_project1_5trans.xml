@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MUSIC>
+   <ARTIST>
+      <ARTISTNAME>Backstreet Boys</ARTISTNAME>
+      <ARTISTTYPE>group</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES>A. J. McLean, Howie Dorough, Nick Carter, Kevin Richardson, and Brian Littrell</GROUPNAMES>
+      <CAREERSTART>1993</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop</GENRE>
+      <ALBUM sku="rpmullig-K315FL15A">
+         <RATING>10</RATING>
+         <COMMENT>Comments: a good throwback</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Millenium</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/Millennium.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL>Jive</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>4/28/1999</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>AVCZ-95118</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988064951185</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>5/18/1999</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>01241-41672-2,D128753</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>5/18/1999</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>01241-41672-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>12414167224</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>5/1/1999</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>523572</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>9399700066401</BARCODENUMBER>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/21/1999</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>FRCD20589</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>SG</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/21/1999</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>523222</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>5013705232220</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>10/18/2000</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>ZJCI-10015</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4544180100151</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2007</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>82876-53560-2,BVCM-37895</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988017648544</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2/10/2010</RELEASEDATE>
+               <RECORDLABEL>Jive</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>[none]</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15A001" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>Larger Than Life</SONGNAME>
+               <SONGLENGTH>3:52</SONGLENGTH>
+               <COMPOSERS>Brian Littrell / Kristian Lundin / Max Martin</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A002" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>I Want It That Way</SONGNAME>
+               <SONGLENGTH>3:33</SONGLENGTH>
+               <COMPOSERS>Andreas Carlsson / Max Martin</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A003" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>Show Me the Meaning of Being Lonely</SONGNAME>
+               <SONGLENGTH>3:54</SONGLENGTH>
+               <COMPOSERS>Herbert Crichlow / Max Martin</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A004" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>It's Gotta Be You</SONGNAME>
+               <SONGLENGTH>2:55</SONGLENGTH>
+               <COMPOSERS>Robert John "Mutt" Lange / Max Martin</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A005" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>I Need You Tonight</SONGNAME>
+               <SONGLENGTH>4:25</SONGLENGTH>
+               <COMPOSERS>Andrew Fromm</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A006" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>Don't Want You Back</SONGNAME>
+               <SONGLENGTH>3:25</SONGLENGTH>
+               <COMPOSERS>Max Martin</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A007" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>Don't Wanna Lose You Now</SONGNAME>
+               <SONGLENGTH>3:54</SONGLENGTH>
+               <COMPOSERS>Max Martin</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A008" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>The One</SONGNAME>
+               <SONGLENGTH>3:46</SONGLENGTH>
+               <COMPOSERS>Brian Littrell / Max Martin</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A009" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>Back to Your Heart</SONGNAME>
+               <SONGLENGTH>4:21</SONGLENGTH>
+               <COMPOSERS>Gary Baker / Jason Blume / Kevin Richardson</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A010" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>Spanish Eyes</SONGNAME>
+               <SONGLENGTH>3:53</SONGLENGTH>
+               <COMPOSERS>Andrew Fromm / Sandy Linzer</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A011" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>No One Else Comes Close</SONGNAME>
+               <SONGLENGTH>3:42</SONGLENGTH>
+               <COMPOSERS>Gary Baker / Joe / Wayne Perry</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15A012" albumref="rpmullig-K315FL15A" type="song">
+               <SONGNAME>The Perfect Fan</SONGNAME>
+               <SONGLENGTH>4:13</SONGLENGTH>
+               <COMPOSERS>Brian Littrell</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Phil Collins</ARTISTNAME>
+      <ARTISTTYPE>solo</ARTISTTYPE>
+      <ARTISTCOUNTRY>UK</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1976</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop</GENRE>
+      <ALBUM sku="rpmullig-K315FL15B">
+         <RATING>7</RATING>
+         <COMMENT>Comments: great drums</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Face Value</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/face_value.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL>Face Value</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>6/3/1988</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>XSD 16029</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>12" Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/3/1988</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>WE 351,WEA 99 143</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>12" Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/3/1988</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2292-54939-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>22925493927</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/3/1988</RELEASEDATE>
+               <RECORDLABEL>Virgin</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>V2185</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>12" Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/3/1988</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>CS 16029</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Cassette</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/3/1988</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SD 16029</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>12" Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/5/1987</RELEASEDATE>
+               <RECORDLABEL>Virgin</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>CDV2185</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>77778632528</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>7/7/1987</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>16029-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>75678148026</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/1/1988</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>16029-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>22925493927</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/7/1994</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>82520-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>75678252020</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>7/2/1994</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>AFZ 084</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>780014208424</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>7/5/1994</RELEASEDATE>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>M216029-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>22925493927</BARCODENUMBER>
+               <COUNTRY>BR</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>CD 16029</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>75678148026</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>16029-2,299 143</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>16029-2,299 143</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Atlantic</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15B001" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>In the Air Tonight</SONGNAME>
+               <SONGLENGTH>5:36</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B002" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>This Must Be Love</SONGNAME>
+               <SONGLENGTH>3:56</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B003" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>Behind the Lines</SONGNAME>
+               <SONGLENGTH>3:53</SONGLENGTH>
+               <COMPOSERS>Tony Banks / Phil Collins / Mike Rutherford</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B004" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>The Roof Is Leaking</SONGNAME>
+               <SONGLENGTH>3:18</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B005" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>Droned</SONGNAME>
+               <SONGLENGTH>2:50</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B006" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>Hand in Hand</SONGNAME>
+               <SONGLENGTH>5:23</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B007" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>I Missed Again</SONGNAME>
+               <SONGLENGTH>3:46</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B008" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>You Know What I Mean</SONGNAME>
+               <SONGLENGTH>2:33</SONGLENGTH>
+               <COMPOSERS>Phil Collins / Mark Mancina</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B009" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>Thunder and Lightning</SONGNAME>
+               <SONGLENGTH>4:13</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B010" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>I'm Not Moving</SONGNAME>
+               <SONGLENGTH>2:35</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B011" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>If Leaving Me Is Easy</SONGNAME>
+               <SONGLENGTH>4:55</SONGLENGTH>
+               <COMPOSERS>Phil Collins</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15B012" albumref="rpmullig-K315FL15B" type="song">
+               <SONGNAME>Tomorrow Never Knows</SONGNAME>
+               <SONGLENGTH>4:47</SONGLENGTH>
+               <COMPOSERS>John Lennon / Paul McCartney</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Ed Sheeren</ARTISTNAME>
+      <ARTISTTYPE>solo</ARTISTTYPE>
+      <ARTISTCOUNTRY>UK</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2011</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop</GENRE>
+      <ALBUM sku="rpmullig-K315FL15C">
+         <RATING>6</RATING>
+         <COMMENT>Comments: Deep singer</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">X</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/X.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS>Jeff Bhasker, Benny Blanco, Jake Gosling, Johnny McDaid, Rick Rubin &amp; Pharrell Williams, </PRODUCERS>
+         <MIXERS>Andrew Coleman, Jake Gosling, Matty Green, William Hicks, Tyler Sam Johnson, Jason Lader, Johnny McDaid, Chris Sclafani, Mark Stent, Geoff Swan</MIXERS>
+         <MASTERENGINEERS/>
+         <LABEL>Atlantic</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>NZ</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/23/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL>Atlantic Records UK</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285037</BARCODENUMBER>
+               <COUNTRY>AT</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285037</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285037</BARCODENUMBER>
+               <COUNTRY>CH</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL>Warner Music UK Ltd.</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285891</BARCODENUMBER>
+               <COUNTRY>IT</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL>Atlantic Records UK</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285891</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/20/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/23/2014</RELEASEDATE>
+               <RECORDLABEL>Warner Music UK Ltd. </RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>825646285907</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285907</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/23/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>825646285860</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285860</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/23/2014</RELEASEDATE>
+               <RECORDLABEL>Atlantic </RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>543295-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285907</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15C001" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>One</SONGNAME>
+               <SONGLENGTH>4:12</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C002" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>I'm a Mess</SONGNAME>
+               <SONGLENGTH>4:04</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C003" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Sing</SONGNAME>
+               <SONGLENGTH>3:55</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C004" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Don't</SONGNAME>
+               <SONGLENGTH>3:39</SONGLENGTH>
+               <COMPOSERS>Benjamin Levin / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C005" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Nina</SONGNAME>
+               <SONGLENGTH>3:45</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C006" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Photograph</SONGNAME>
+               <SONGLENGTH>4:18</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C007" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Bloodstream</SONGNAME>
+               <SONGLENGTH>5:00</SONGLENGTH>
+               <COMPOSERS>Gary Lightbody / Johnny McDaid / Rudimental / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C008" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Tenerife Sea</SONGNAME>
+               <SONGLENGTH>4:01</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran / Foy Vance</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C009" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Runaway</SONGNAME>
+               <SONGLENGTH>3:25</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C010" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>The Man</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C011" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Thinking Out Loud</SONGNAME>
+               <SONGLENGTH>4:41</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Amy Wadge</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15C012" albumref="rpmullig-K315FL15C" type="song">
+               <SONGNAME>Afire Love</SONGNAME>
+               <SONGLENGTH>5:16</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran / Foy Vance</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Taylor Swift</ARTISTNAME>
+      <ARTISTTYPE>solo</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2006</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop</GENRE>
+      <ALBUM sku="rpmullig-K315FL15D">
+         <RATING>10</RATING>
+         <COMMENT>Comments: Loved her concert!</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Speak Now</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/Speak_now.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL>Big Machine Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>10/25/2010</RELEASEDATE>
+               <RECORDLABEL>Big Machine</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>602527493947</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602527493947</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>2×CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>10/25/2010</RELEASEDATE>
+               <RECORDLABEL>Big Machine</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>602527493954</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602527493954</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>10/25/2010</RELEASEDATE>
+               <RECORDLABEL>Big Machine</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>BTMSR0300A</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>843930003976</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>10/25/2010</RELEASEDATE>
+               <RECORDLABEL>Universal Music Group International</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>BTMSR0300B</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>843930003983</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>2×CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/10/2010</RELEASEDATE>
+               <RECORDLABEL>Big Machine</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICO-1200</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005637925</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/10/2010</RELEASEDATE>
+               <RECORDLABEL>Big Machine</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICO-1201,UICO-1202</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005637932</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD + Enhanced CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>7/2/2010</RELEASEDATE>
+               <RECORDLABEL>Big Machine</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>602527540245</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1/17/2012</RELEASEDATE>
+               <RECORDLABEL>Big Machine</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>BMRTS0350A</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>843930006038</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>2×CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Big Machine</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15D001" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Mine</SONGNAME>
+               <SONGLENGTH>3:51</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D002" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Sparks Fly</SONGNAME>
+               <SONGLENGTH>4:22</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D003" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Back to December</SONGNAME>
+               <SONGLENGTH>4:55</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D004" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Speak Now</SONGNAME>
+               <SONGLENGTH>4:03</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D005" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Dear John</SONGNAME>
+               <SONGLENGTH>6:45</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D006" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Mean</SONGNAME>
+               <SONGLENGTH>3:58</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D007" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>The Story of Us</SONGNAME>
+               <SONGLENGTH>4:27</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D008" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Never Grow Up</SONGNAME>
+               <SONGLENGTH>4:52</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D009" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Enchanted</SONGNAME>
+               <SONGLENGTH>5:53</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D010" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Better Than Revenge</SONGNAME>
+               <SONGLENGTH>3:40</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D011" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Innocent</SONGNAME>
+               <SONGLENGTH>5:03</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D012" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Haunted</SONGNAME>
+               <SONGLENGTH>4:05</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D013" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Last Kiss</SONGNAME>
+               <SONGLENGTH>6:09</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15D014" albumref="rpmullig-K315FL15D" type="song">
+               <SONGNAME>Long Live</SONGNAME>
+               <SONGLENGTH>5:17</SONGLENGTH>
+               <COMPOSERS>Taylor Swift</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Beck Hansen</ARTISTNAME>
+      <ARTISTTYPE>solo</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1993</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Electronic</GENRE>
+      <ALBUM sku="rpmullig-K315FL15E">
+         <RATING>6</RATING>
+         <COMMENT>Comments: not sure I know him</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Winner" type="album">Morning Phase</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/Morning_Phase.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS>Beck Hansen</PRODUCERS>
+         <MIXERS>Tom Elmhirst, David Greenbaum, Cole Marsden Greif-Neill, Florian Lagatta, Robbie Nelson, Darrell Thorp, Cassidy Turbin, Joe Visciano</MIXERS>
+         <MASTERENGINEERS/>
+         <LABEL>Capitol Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>7/6/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2-564628</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285860</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2/21/2014</RELEASEDATE>
+               <RECORDLABEL>Fonograf Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2/25/2014</RELEASEDATE>
+               <RECORDLABEL>Fonograf Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3764975</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2/25/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983802</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2/25/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>602537649754</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2/25/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983901</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649747</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>12" Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2/25/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983802</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>7/6/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15E001" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Cycle</SONGNAME>
+               <SONGLENGTH>0:40</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E002" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Morning</SONGNAME>
+               <SONGLENGTH>5:19</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E003" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Heart Is a Drum</SONGNAME>
+               <SONGLENGTH>4:31</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E004" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Say Goodbye</SONGNAME>
+               <SONGLENGTH>3:29</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E005" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Blue Moon</SONGNAME>
+               <SONGLENGTH>4:02</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E006" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Unforgiven</SONGNAME>
+               <SONGLENGTH>4:34</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E007" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Wave</SONGNAME>
+               <SONGLENGTH>3:40</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E008" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Don't Let It Go</SONGNAME>
+               <SONGLENGTH>3:09</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E009" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Blackbird Chain</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E010" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Phase</SONGNAME>
+               <SONGLENGTH>1:03</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E011" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Turn Away</SONGNAME>
+               <SONGLENGTH>3:05</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E012" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Country Down</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15E013" albumref="rpmullig-K315FL15E" type="song">
+               <SONGNAME>Waking Light</SONGNAME>
+               <SONGLENGTH>5:02</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Beyonce</ARTISTNAME>
+      <ARTISTTYPE>solo</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2002</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>RandB</GENRE>
+      <ALBUM sku="rpmullig-K315FL15F">
+         <RATING>8</RATING>
+         <COMMENT>Comments: classic singer</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">Beyonce'</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/Beyonce%27.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS>Ammo, Boots, James Fauntleroy, Noel "Detail" Fisher, Jerome Harmon, HitBoy, Beyoncé Knowles, Terius "The Dream" Nash, Caroline Polachek, Rey Reel, Noah 40 Shebib, Ryan Tedder, Timbaland, Justin Timberlake, Key Wane, Pharrell Williams, Patrick Wimberly</PRODUCERS>
+         <MIXERS>Boots, Noel Cadastre, Noel Gadget Campbell, Rob Cohen, Andrew Coleman, Chris Godbey, Justin Hergett, James Krausse, Mike Larson, Jonathan Lee, Tony Maserati, Ann Mincieli, Caroline Polachek, Andrew Scheps, Bart Schoudel, Noah 40 Shebib, Ryan Tedder, Stuart White, Jordan DJ Swivel Young</MIXERS>
+         <MASTERENGINEERS/>
+         <LABEL>Columbia Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>12/13/2013</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>12/20/2013</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>888430325128</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>12/20/2013</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843032512</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430325128</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2/12/2014</RELEASEDATE>
+               <RECORDLABEL>Sony</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843032512</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366213270</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>4/1/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-4090,SICP-4091</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366215236</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/24/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SIXX02354B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366231373</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/24/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SIXX03191B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>4×Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/24/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>2×CD + 2×DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/24/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886444955379</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1/21/2015</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>4547366232189</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1/21/2015</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SIXX03238B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366232196</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SIXX03239B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430453425</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD + Blu-ray</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>88843045342</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY/>
+               <FORMAT/>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15F001" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Pretty Hurts</SONGNAME>
+               <SONGLENGTH>4:17</SONGLENGTH>
+               <COMPOSERS>Joshua Coleman / Sia Furler / Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F002" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Ghost/Haunted</SONGNAME>
+               <SONGLENGTH>6:09</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F003" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Drunk in Love</SONGNAME>
+               <SONGLENGTH>5:23</SONGLENGTH>
+               <COMPOSERS>Shawn Carter / Rasool Diaz / Noel "Detail" Fisher / Jerome Harmon / Beyoncé Knowles / Andre Proctor / Brian Soko</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F004" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Blow</SONGNAME>
+               <SONGLENGTH>5:09</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin Timberlake / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F005" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>No Angel</SONGNAME>
+               <SONGLENGTH>3:48</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Beyoncé Knowles / Caroline Polachek</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F006" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Yoncé/Partition</SONGNAME>
+               <SONGLENGTH>5:19</SONGLENGTH>
+               <COMPOSERS>Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin Timberlake / Dwane Weir</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F007" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Jealous</SONGNAME>
+               <SONGLENGTH>3:04</SONGLENGTH>
+               <COMPOSERS>Lyrica Anderson / Rasool Diaz / Noel "Detail" Fisher / Beyoncé Knowles / Andre Proctor / Brian Soko</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F008" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Rocket</SONGNAME>
+               <SONGLENGTH>6:31</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Miguel Jontel Pimentel / Justin Timberlake</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F009" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Mine</SONGNAME>
+               <SONGLENGTH>6:18</SONGLENGTH>
+               <COMPOSERS>Sidney "Omen" Brown / Aubrey "Drake" Graham / Beyoncé Knowles / Noah Shebib / Jordan Kenneth Cooke Ullman / Dwane Weir</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F010" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>XO</SONGNAME>
+               <SONGLENGTH>3:35</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Terius "The-Dream" Nash / Ryan Tedder</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F011" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>***Flawless</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Chauncey Hollis / Beyoncé Knowles / Rashad Muhammad / Terius "The-Dream" Nash / Rey Reel</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F012" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Superpower</SONGNAME>
+               <SONGLENGTH>4:36</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Frank Ocean / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F013" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Heaven</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15F014" albumref="rpmullig-K315FL15F" type="song">
+               <SONGNAME>Blue/Grown Woman</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Jerome Harmon / Beyoncé Knowles / Garland Mosley / Terius "The-Dream" Nash / D. Pearson / Kelly Sheehan</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Sam Smith</ARTISTNAME>
+      <ARTISTTYPE>solo</ARTISTTYPE>
+      <ARTISTCOUNTRY>UK</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2012</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop</GENRE>
+      <ALBUM sku="rpmullig-K315FL15G">
+         <RATING>8</RATING>
+         <COMMENT>Comments: passion singer</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">In the Lonely Hour</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/In_The_Lonely_Hour.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS>Steve Fitzmaurice, Komi, Howard Lawrence, Zane Lowe, Mojam, Jimmy Napes, Naughty Boy, Fraser T. Smith, Two Inch Punch, Eg White</PRODUCERS>
+         <MIXERS>Michael Angelo, Graham Archer, Steve Fitzmaurice, Simon Hale, Darren Heelis, James Murray, Jimmy Napes, Mustafa Omer, Dan Parry, Steve Price, Eg White</MIXERS>
+         <MASTERENGINEERS/>
+         <LABEL>Capitol Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>5/23/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>NZ</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>5/26/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3769173</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537691739</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/17/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/17/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B002057502</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537799251</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/17/2014</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>7/6/2015</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B002061102</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537802371</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1/21/2015</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICC-10015</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005867308</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1/1/2015</RELEASEDATE>
+               <RECORDLABEL>Capital Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>602547260734</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15G001" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>Money On My Mind</SONGNAME>
+               <SONGLENGTH>3:13</SONGLENGTH>
+               <COMPOSERS>Ben Ash / Sam Smith</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G002" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>Good Thing</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Sam Smith / Eg White</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G003" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>Stay With Me</SONGNAME>
+               <SONGLENGTH>2:52</SONGLENGTH>
+               <COMPOSERS>James Napier / William Phillips / Sam Smith</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G004" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>Leave Your Lover</SONGNAME>
+               <SONGLENGTH>3:08</SONGLENGTH>
+               <COMPOSERS>Simon Aldred / Sam Smith</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G005" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>I'm Not The Only One</SONGNAME>
+               <SONGLENGTH>3:59</SONGLENGTH>
+               <COMPOSERS>James Napier / Sam Smith</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G006" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>I've Told You Now</SONGNAME>
+               <SONGLENGTH>3:30</SONGLENGTH>
+               <COMPOSERS>Sam Smith / Eg White</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G007" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>Like I Can</SONGNAME>
+               <SONGLENGTH>2:47</SONGLENGTH>
+               <COMPOSERS>Matt Prime / Sam Smith</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G008" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>Life Support</SONGNAME>
+               <SONGLENGTH>2:53</SONGLENGTH>
+               <COMPOSERS>Ben Ash / Sam Smith</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G009" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>Not In That Way</SONGNAME>
+               <SONGLENGTH>2:52</SONGLENGTH>
+               <COMPOSERS>Fraser T. Smith / Sam Smith</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15G010" albumref="rpmullig-K315FL15G" type="song">
+               <SONGNAME>Lay Me Down</SONGNAME>
+               <SONGLENGTH>4:15</SONGLENGTH>
+               <COMPOSERS>James Napier / Elvin Smith / Sam Smith</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Pharrell Williams</ARTISTNAME>
+      <ARTISTTYPE>solo</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2006</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop</GENRE>
+      <ALBUM sku="rpmullig-K315FL15H">
+         <RATING>7</RATING>
+         <COMMENT>Comments: hip stuff</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">Girl</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/Girl.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS>Pharrell Williams</PRODUCERS>
+         <MIXERS>Leslie Brathwaite, Adrian Breakspear, Andrew Coleman, Jimmy Douglas, Hart Gunther, Mick Guzauski, Florian Lagatta, Mike Larson, Stephanie McNally, Alan Meyerson, Ann Mincieli, Kenta Yonesaka</MIXERS>
+         <MASTERENGINEERS/>
+         <LABEL>Columbia Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>3/3/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>3/3/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>MX</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>3/3/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>3/3/2014</RELEASEDATE>
+               <RECORDLABEL>Back Lot Music</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886444495165</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>4/30/2014</RELEASEDATE>
+               <RECORDLABEL>Sony Records International</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>4547366216660</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>4/18/2014</RELEASEDATE>
+               <RECORDLABEL>[no label]</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>2×12" Vinyl</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15H001" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Marilyn Monroe</SONGNAME>
+               <SONGLENGTH>5:51</SONGLENGTH>
+               <COMPOSERS>Ann Marie Calhoun / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H002" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Brand New</SONGNAME>
+               <SONGLENGTH>4:31</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H003" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Hunter</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H004" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Gush</SONGNAME>
+               <SONGLENGTH>3:54</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H005" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Happy [From Despicable Me 2]</SONGNAME>
+               <SONGLENGTH>3:52</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H006" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Come Get It Bae</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H007" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Gust of Wind</SONGNAME>
+               <SONGLENGTH>4:45</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H008" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Lost Queen</SONGNAME>
+               <SONGLENGTH>7:56</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H009" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>Who You Are</SONGNAME>
+               <SONGLENGTH>3:56</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15H010" albumref="rpmullig-K315FL15H" type="song">
+               <SONGNAME>It Girl</SONGNAME>
+               <SONGLENGTH>4:49</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Bruno Mars</ARTISTNAME>
+      <ARTISTTYPE>solo</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2009</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop</GENRE>
+      <ALBUM sku="rpmullig-K315FL15I">
+         <RATING>10</RATING>
+         <COMMENT>Comments: classic singing</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Doo-Wops &amp; Hooligans</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/Doo-Wop%20%26%20Hooligans.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL>Elektra</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>10/4/2010</RELEASEDATE>
+               <RECORDLABEL>Elektra</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2-525393</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>75678912153</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>10/5/2010</RELEASEDATE>
+               <RECORDLABEL>Elektra</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>10/5/2010</RELEASEDATE>
+               <RECORDLABEL>Elektra</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>75679956484</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>7/2/2010</RELEASEDATE>
+               <RECORDLABEL>Elektra</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>7567883304</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1/14/2011</RELEASEDATE>
+               <RECORDLABEL>Elektra</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>7567883325</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>75678833250</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>1/17/2011</RELEASEDATE>
+               <RECORDLABEL>Elektra</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>7567883325</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>7567883325</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15I001" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>Grenade</SONGNAME>
+               <SONGLENGTH>3:42</SONGLENGTH>
+               <COMPOSERS>Brody Brown / Claude Kelly / Philip Lawrence / Ari Levine / Bruno Mars / Andrew Wyatt</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I002" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>Just the Way You Are</SONGNAME>
+               <SONGLENGTH>3:40</SONGLENGTH>
+               <COMPOSERS>Khari Cain / Philip Lawrence / Ari Levine / Bruno Mars / Khalil Walton</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I003" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>Our First Time</SONGNAME>
+               <SONGLENGTH>4:03</SONGLENGTH>
+               <COMPOSERS>Philip Lawrence / Ari Levine / Bruno Mars /Dwayne "Supa Dups" Chin Quee</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I004" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>Runaway Baby</SONGNAME>
+               <SONGLENGTH>2:28</SONGLENGTH>
+               <COMPOSERS>Brody Brown / Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I005" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>The Lazy Song</SONGNAME>
+               <SONGLENGTH>3:15</SONGLENGTH>
+               <COMPOSERS>Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I006" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>Marry You</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I007" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>Talking to the Moon</SONGNAME>
+               <SONGLENGTH>3:37</SONGLENGTH>
+               <COMPOSERS>Jeff Bhasker / Philip Lawrence / Ari Levine / Bruno Mars / Albert Winkler</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I008" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>Liquor Store Blues</SONGNAME>
+               <SONGLENGTH>3:49</SONGLENGTH>
+               <COMPOSERS>Mitchum Chin / Philip Lawrence / Ari Levine /Damian "Junior Gong" Marley / Bruno Mars /Thomas Pentz / Dwayne "Supa Dups" Chin Quee</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I009" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>Count on Me</SONGNAME>
+               <SONGLENGTH>3:17</SONGLENGTH>
+               <COMPOSERS>Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15I010" albumref="rpmullig-K315FL15I" type="song">
+               <SONGNAME>The Other Side</SONGNAME>
+               <SONGLENGTH>3:47</SONGLENGTH>
+               <COMPOSERS>Brody Brown / Bobby Ray Simmons Jr. / Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Walk The Moon</ARTISTNAME>
+      <ARTISTTYPE>group</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES>Nicholas Petricca, Kevin Ray, Sean Waugaman, and Eli Maiman</GROUPNAMES>
+      <CAREERSTART>2008</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>IndiePop</GENRE>
+      <ALBUM sku="rpmullig-K315FL15J">
+         <RATING>10</RATING>
+         <COMMENT>Comments: Up and Comming band</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Walk the Moon</ALBUMNAME>
+         <ALBUMCOVER>Album_Images/Walk_The_moon.jpg</ALBUMCOVER>
+         <IMAGESOURCE>Google Play</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL>RCA</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>6/15/2012</RELEASEDATE>
+               <RECORDLABEL>RCA</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>6/19/2012</RELEASEDATE>
+               <RECORDLABEL>RCA</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88691‒96782‒2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>886919678222</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>5/10/2013</RELEASEDATE>
+               <RECORDLABEL>RCA</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88883732712</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>8888373271</BARCODENUMBER>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="rpmullig-K315FL15J001" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Quesadilla</SONGNAME>
+               <SONGLENGTH>3:15</SONGLENGTH>
+               <COMPOSERS>Nicholas Petricca</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J002" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Lisa Baby</SONGNAME>
+               <SONGLENGTH>3:52</SONGLENGTH>
+               <COMPOSERS>Nicholas Petricca</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J003" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Next in Line</SONGNAME>
+               <SONGLENGTH>3:59</SONGLENGTH>
+               <COMPOSERS>Eli Maiman / Nicholas Petricca / Kevin Ray / Sean Waugaman</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J004" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Anna Sun</SONGNAME>
+               <SONGLENGTH>5:21</SONGLENGTH>
+               <COMPOSERS>Nicholas Petricca</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J005" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Tightrope</SONGNAME>
+               <SONGLENGTH>3:30</SONGLENGTH>
+               <COMPOSERS>Eli Maiman / Nicholas Petricca / Kevin Ray / Sean Waugaman</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J006" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Jenny</SONGNAME>
+               <SONGLENGTH>4:05</SONGLENGTH>
+               <COMPOSERS>Nicholas Petricca</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J007" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Shiver Shiver</SONGNAME>
+               <SONGLENGTH>3:52</SONGLENGTH>
+               <COMPOSERS>Eli Maiman / Nicholas Petricca / Kevin Ray / Sean Waugaman</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J008" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Lions</SONGNAME>
+               <SONGLENGTH>0:35</SONGLENGTH>
+               <COMPOSERS>Eli Maiman / Nicholas Petricca</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J009" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Iscariot</SONGNAME>
+               <SONGLENGTH>5:23</SONGLENGTH>
+               <COMPOSERS>Nicholas Petricca</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J010" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>Fixin'</SONGNAME>
+               <SONGLENGTH>4:22</SONGLENGTH>
+               <COMPOSERS>Eli Maiman / Nicholas Petricca / Kevin Ray / Sean Waugaman</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="rpmullig-K315FL15J011" albumref="rpmullig-K315FL15J" type="song">
+               <SONGNAME>I Can Lift a Car</SONGNAME>
+               <SONGLENGTH>4:48</SONGLENGTH>
+               <COMPOSERS>Nicholas Petricca</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+</MUSIC>

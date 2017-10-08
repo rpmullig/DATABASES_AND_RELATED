@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!ELEMENT INVENTORY (BOOK+)>
+	   <!ELEMENT BOOK (TITLE, SUBTITLE?, AUTHOR,  COAUTHOR*, QUANTITY, PRICE)>
+	           <!ATTLIST BOOK Class (Fiction | Nonfiction | Biorgraphy) #IMPLIED>
+		  <!ELEMENT TITLE (#PCDATA)>
+		  <!ELEMENT SUBTITLE (#PCDATA)>
+		  <!ELEMENT AUTHOR (#PCDATA)>
+		  <!ELEMENT QUANTITY (#PCDATA)>
+		  <!ELEMENT COAUTHOR (#PCDATA)>
+		  <!ELEMENT PRICE (#PCDATA)>
+	

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE INVENTORY [
+    <!ELEMENT INVENTORY (CD)+> <!ELEMENT CD (TITLE,  ARTIST, FORMAT, YEAR, PRICE)> 
+        <!ELEMENT TITLE   (#PCDATA)>
+        <!ELEMENT ARTIST  (#PCDATA)>
+        <!ELEMENT FORMAT  (#PCDATA)>
+        <!ELEMENT YEAR    (#PCDATA)>
+        <!ELEMENT PRICE    (#PCDATA)>
+    ]
+> 

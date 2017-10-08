@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"  ElementFormatDefault="qualified">
+                 <xs:complexType name="inventory">
+                      <xs:sequence name="CD">
+                          <xs:element name="title" type="xs:string"/>
+                          <xs:element name="artist" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+                          <xs:element name="format" type="xs:string"/>
+                          <xs:element name="year" type="xs:gYearMonth"/>
+                          <xs:element name="price" type="xs:decimal"/>
+                 </xs:sequence>
+            </xs:complexType>
+</xs:schema>

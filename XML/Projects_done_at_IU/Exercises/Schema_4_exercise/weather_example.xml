@@ -1,0 +1,79 @@
+<weather>
+	<image url="http://weather.gov" title="NOAA's National Weather Service">http://weather.gov/images/xml_logo.gif</image>
+	<credit link="NOAA's National Weather Service" url="http://weather.gov/"/>	
+	<current_observation station_id="KBMG">
+		<location>"Bloomington, Monroe County Airport, IN "
+			<latitude>39.14</latitude>
+			<longitude>-86.62</longitude>
+		</location>
+		<observation_time>Last Updated on Oct 11 2014, 11:53 pm EDT</observation_time>
+		<observation_date>Sun, 11 Oct 2014 23:53:00 -0400</observation_date>
+		<weather>Fair</weather>
+		<temperature>
+			<temperature_string>43.0 F (6.1 C)</temperature_string>
+			<temp_f>43.0</temp_f>
+			<temp_c>6.1</temp_c>
+			<relative_humidity>63</relative_humidity>
+		</temperature>
+		<wind>
+			<wind_string>Northeast at 8.1 MPH (7 KT) </wind_string>			
+			<wind_dir>Northeast</wind_dir>
+			<wind_degrees>40</wind_degrees>
+			<wind_mph>8.1</wind_mph>
+			<wind_kt>7</wind_kt>
+		</wind>
+		<pressure>
+			<pressure_string>1024.2 mb </pressure_string>
+			<pressure_mb>1024.2</pressure_mb>
+			<pressure_in>30.24</pressure_in>
+		</pressure>
+		<dewpoint>
+			<dewpoint_string>30.9 F (-0.6 C) </dewpoint_string>
+			<dewpoint_f>30.9</dewpoint_f>
+			<dewpoint_c>-0.6</dewpoint_c>
+		</dewpoint>
+		<windchill>
+			<windchill_string>38 F (3 C) </windchill_string>			
+			<windchill_f>38</windchill_f>
+			<windchill_c>3</windchill_c>
+		</windchill>
+		<visibility_mi>10.00</visibility_mi>
+	</current_observation>
+	<current_observation station_id="KIND">
+		<location>Indianapolis International Airport, IN <latitude>39.73</latitude>
+			<longitude>-86.27</longitude>
+		</location>
+		<observation_time>Last Updated on Oct 12 2014, 12:54 am EDT</observation_time>
+		<observation_date>Mon, 12 Oct 2014 00:54:00 -0400</observation_date>
+		<weather>Mostly Cloudy</weather>
+		<temperature>
+			<temperature_string>43.0 F (6.1 C)</temperature_string>			
+			<temp_f>43.0</temp_f>
+			<temp_c>6.1</temp_c>
+			<relative_humidity>58</relative_humidity>
+		</temperature>		
+		<wind>
+			<wind_string>Northeast at 8.1 MPH (7 KT)</wind_string>
+			<wind_dir>Northeast</wind_dir>
+			<wind_degrees>40</wind_degrees>
+			<wind_mph>8.1</wind_mph>
+			<wind_kt>7</wind_kt>
+		</wind>
+		<pressure>
+			<pressure_string>1024.7 mb</pressure_string>
+			<pressure_mb>1024.7</pressure_mb>
+			<pressure_in>30.25</pressure_in>
+		</pressure>
+		<dewpoint>
+			<dewpoint_string>28.9 F (-1.7 C)</dewpoint_string>
+			<dewpoint_f>28.9</dewpoint_f>
+			<dewpoint_c>-1.7</dewpoint_c>
+		</dewpoint>
+		<windchill>
+			<windchill_string>38 F (3 C)</windchill_string>
+			<windchill_f>38</windchill_f>
+			<windchill_c>3</windchill_c>
+		</windchill>
+		<visibility_mi>10.00</visibility_mi>
+	</current_observation>
+</weather>

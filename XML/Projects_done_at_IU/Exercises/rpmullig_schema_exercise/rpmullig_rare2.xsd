@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+        
+        
+        <xs:element name="rare">
+            <xs:complexType>
+                <xs:sequence>
+                    <xs:element name="title">
+                        <xs:complexType mixed="true">
+                            <xs:sequence>
+                                <xs:sequence>
+                                    <xs:element name="subtitle" type="newOffering"></xs:element>
+                                </xs:sequence>
+                                
+                            </xs:sequence>
+                        </xs:complexType>
+                    </xs:element>
+                    <xs:element name="item" maxOccurs="unbounded">
+                        <xs:complexType>
+                            <xs:sequence>
+                                <xs:element name="artist" type="xs:string" maxOccurs="unbounded"></xs:element>
+                                <xs:element name="record" type="xs:string"></xs:element>
+                                <xs:element name="year" type="albumYear"></xs:element>
+                                <xs:element name="label" minOccurs="1" ></xs:element>
+                                <xs:element name="priceus" type="money"></xs:element>
+                                <xs:element name="priceuk" type="money"></xs:element>
+                            </xs:sequence>
+                            <xs:attribute name="condition" type="conditionType" use="required"></xs:attribute>
+                            <xs:attribute name="sku"></xs:attribute>
+                        </xs:complexType>
+                    </xs:element>
+                    <xs:element name="message"></xs:element>
+                </xs:sequence> 
+            </xs:complexType>
+            
+        </xs:element>
+        
+        
+        <xs:simpleType name="conditionType">
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="P"></xs:enumeration>
+                    <xs:enumeration value="F"></xs:enumeration>
+                    <xs:enumeration value="G"></xs:enumeration>
+                    <xs:enumeration value="VG"></xs:enumeration>
+                    <xs:enumeration value="EX"></xs:enumeration>
+                </xs:restriction>
+        </xs:simpleType>
+        
+        
+        <xs:simpleType name="newOffering">
+            <xs:restriction base="xs:string">
+                <xs:enumeration value="New Offering"></xs:enumeration>
+            </xs:restriction>
+        </xs:simpleType>
+        
+        <xs:simpleType name="albumYear">
+            <xs:restriction base="xs:gYear">
+                <xs:minExclusive value="1948"></xs:minExclusive>
+            </xs:restriction>
+        </xs:simpleType>
+        
+        <xs:simpleType name="money">
+            <xs:restriction base="xs:decimal">
+                <xs:minInclusive value="1"></xs:minInclusive>
+                <xs:maxInclusive value="100"></xs:maxInclusive>
+            </xs:restriction>
+        </xs:simpleType>
+        
+    </xs:schema>

@@ -1,0 +1,2247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<?xml-stylesheet type="text/xsl" href="Final_Style_Sheet.xsl"?>
+<Favorite_Albums>
+
+	<Album SKU="K315FL15A" type="Album">
+		<Comment>This album includes my favorite song, Paradise City</Comment>
+		<Rating>10</Rating>
+		<Genre>Rock</Genre>
+		<Album_Cover>Appetite_For_Destruction_Cover.jpg</Album_Cover>
+		<Album_Name>Appetite For Destruction</Album_Name>
+		<Artist>
+			<Artist_Name>Guns N' Roses</Artist_Name>
+			<Group_Member>Axl Rose,Steven Adler,Duff Mckagan,Izzy Stradlin,Slash</Group_Member>
+		</Artist>
+		<Current_Label>Geffen</Current_Label>
+		<Artist_Country>United States</Artist_Country>
+		<Career>
+			<Begin>1985</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Favorite Album</Album_Category>
+		<Album_Releases>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>JP</Country>
+				<Label>Warner-Pioneer Corporation (1972-1991)</Label>
+				<CatalogNum>32XD-821</CatalogNum>
+				<Barcode>4988014352338</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>GB</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>GFLD 19286</CatalogNum>
+				<Barcode>8811928629</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>US</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>9 24148-2</CatalogNum>
+				<Barcode>720642414828</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>AU</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>9 24148-2</CatalogNum>
+				<Barcode>720642414828</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>CA</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>GEFD 24148</CatalogNum>
+				<Barcode>75992414821</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>CA</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>CGEFD 24148</CatalogNum>
+				<Barcode>77749555706602</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>XE</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>924 148-2</CatalogNum>
+				<Barcode>7599241482</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>XE</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>GED 24148 GEFD 24148</CatalogNum>
+				<Barcode>720642414828</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>XE</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>924 148-1, WX 125</CatalogNum>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>DE</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>924 148-2</CatalogNum>
+				<Barcode>75992414821</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>DE</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>9242111</CatalogNum>
+				<Barcode>75992421119</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>US</Country>
+				<Label>Geffen Records, BMG Direct Marketing, Inc.</Label>
+				<CatalogNum>9 24148-2, D 170348</CatalogNum>
+				<Barcode>[none]</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>US</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>GHS 24148</CatalogNum>
+				<Barcode>75992414814</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1987</Date>
+				<Country>US</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>9 24211-2</CatalogNum>
+				<Barcode>75992421126</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1991</Date>
+				<Country>JP</Country>
+				<Label>MCA Victor, Inc. (renamed Universal Victor, Inc. in July 1997)</Label>
+				<CatalogNum>MVCG-12</CatalogNum>
+				<Barcode>4988067000125</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>1997</Date>
+				<Country>US</Country>
+				<Label>Mobile Fidelity Sound Lab</Label>
+				<CatalogNum>UDCD 699</CatalogNum>
+				<Barcode>15775169920</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>35847</Date>
+				<Country>JP</Country>
+				<Label>MCA Victor, Inc. (renamed Universal Victor, Inc. in July 1997)</Label>
+				<CatalogNum>MVCG-19304</CatalogNum>
+				<Barcode>4988067033048</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>37461</Date>
+				<Country>JP</Country>
+				<Label>USM Japan</Label>
+				<CatalogNum>UICY-2101</CatalogNum>
+				<Barcode>4988005307248</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>38281</Date>
+				<Country>JP</Country>
+				<Label>USM Japan</Label>
+				<CatalogNum>UICY-9716</CatalogNum>
+				<Barcode>4988005374196</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>38987</Date>
+				<Country>JP</Country>
+				<Label>USM Japan</Label>
+				<CatalogNum>UICY-6430</CatalogNum>
+				<Barcode>4988005442468</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>39774</Date>
+				<Country>JP</Country>
+				<Label>USM Japan</Label>
+				<CatalogNum>UICY-91203</CatalogNum>
+				<Barcode>4988005537430</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>12</Tracks>
+				<Date>2008</Date>
+				<Country>US</Country>
+				<Label>Geffen Records</Label>
+				<CatalogNum>GHS 24148</CatalogNum>
+				<Barcode>720642414811</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>39988</Date>
+				<Country>JP</Country>
+				<Label>USM Japan</Label>
+				<CatalogNum>UICY-91460</CatalogNum>
+				<Barcode>4988005561077</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>40128</Date>
+				<Country>JP</Country>
+				<Label>USM Japan</Label>
+				<CatalogNum>UICY-94334</CatalogNum>
+				<Barcode>4988005584328</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Appetite for Destruction</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>40394</Date>
+				<Country>JP</Country>
+				<Label>USM Japan</Label>
+				<CatalogNum>UICY-91634</CatalogNum>
+				<Barcode>4988005619853</Barcode>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15A001" albumref="K315FL15A" type="song" >
+				<Title>Welcome to the Jungle </Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>4:32</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A002" albumref="K315FL15A" type="song">
+				<Title>It's So Easy</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>3:21</Length>
+				<Composers>West Arkeen / Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A003" albumref="K315FL15A" type="song">
+				<Title>Nightrain </Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>4:26</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A004" albumref="K315FL15A" type="song">
+				<Title>Out Ta Get Me</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>4:20</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A005" albumref="K315FL15A" type="song">
+				<Title>Mr. Brownstone</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>3:46</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A006" albumref="K315FL15A" type="song">
+				<Title>Paradise City </Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>6:45</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A007" albumref="K315FL15A" type="song">
+				<Title>My Michelle</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>3:38</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A008" albumref="K315FL15A" type="song">
+				<Title>Think About You</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>3:49</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A009" albumref="K315FL15A" type="song">
+				<Title>Sweet Child O' Mine </Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>5:54</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A010" albumref="K315FL15A" type="song">
+				<Title>You're Crazy</Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>3:16</Length>
+				<Composers>Guns N' Roses</Composers>
+			</Song>
+			<Song SKU="K315FL15A011" albumref="K315FL15A" type="song">
+				<Title>Anything Goes</Title>
+				<TrackNumber>11</TrackNumber>
+				<Length>3:25</Length>
+				<Composers>Guns N' Roses / Chris Weber</Composers>
+			</Song>
+			<Song SKU="K315FL15A012" albumref="K315FL15A" type="song">
+				<Title>Rocket Queen</Title>
+				<TrackNumber>12</TrackNumber>
+				<Length>6:14</Length>
+				<Composers>Steven Adler / Axl Rose</Composers>
+			</Song>
+		</Songs>
+	</Album>
+	<Album SKU="K315FL15B" type="Album">
+		<Comment>Aerosmith is a very popular rock band and I have hopped on the band wagon</Comment>
+		<Rating>7</Rating>
+		<Genre>Rock</Genre>
+		<Album_Cover>aerosmith-toys-in-the-attic-album-cover.jpg</Album_Cover>
+		<Album_Name>Toys in the Attic</Album_Name>
+		<Artist>
+			<Artist_Name>Aerosmith</Artist_Name>
+			<Group_Member>Joe Perry,Ray Tabano,Joey Kramer,Steven Tyler,Tom Hamilton</Group_Member>
+		</Artist>
+		<Current_Label>Columbia</Current_Label>
+		<Artist_Country>United States</Artist_Country>
+		<Career>
+			<Begin>1970</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Favorite Album</Album_Category>
+		<Album_Releases>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>9</Tracks>
+				<Date>27492</Date>
+				<Country>US</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>PC 33479</CatalogNum>
+				<Barcode>[none]</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>1986</Date>
+				<Country>DE</Country>
+				<Label>CBS (CBS Records' international imprint from 1962–1990; renamed since 1991 as Columbia)</Label>
+				<CatalogNum>CDCBS 80773</CatalogNum>
+				<Barcode>5099708077327</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>1986</Date>
+				<Country>GB</Country>
+				<Label>Castle Classics</Label>
+				<CatalogNum>CLACD 135X</CatalogNum>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>1986</Date>
+				<Country>US</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>CK 33479</CatalogNum>
+				<Barcode>74643347921</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>1986</Date>
+				<Country>US</Country>
+				<Label>CBS (CBS Records' international imprint from 1962–1990; renamed since 1991 as Columbia)</Label>
+				<CatalogNum>CK-33479</CatalogNum>
+				<Barcode>74643347921</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>34219</Date>
+				<Country>US</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>CK 57362</CatalogNum>
+				<Barcode>74645736228</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic(20-Bit Digital Mapping)</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>34268</Date>
+				<Country>AT</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>474964 2</CatalogNum>
+				<Barcode>5099747496424</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>1993</Date>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<Barcode>74645736228</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>1994</Date>
+				<Country>US</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP),Legacy(Legacy Recordings)</Label>
+				<CatalogNum>CK 64401</CatalogNum>
+				<Barcode>74646440124</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>SACD</Format>
+				<Tracks>18</Tracks>
+				<Date>37871</Date>
+				<Country>US</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>CS 57362</CatalogNum>
+				<Barcode>74645736266</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>38173</Date>
+				<Country>US</Country>
+				<Label>Legacy(Legacy Recordings)</Label>
+				<CatalogNum>CK 64401</CatalogNum>
+				<Barcode>74646440124</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>38175</Date>
+				<Country>JP</Country>
+				<Label>Sony Records International(Japanese TEXTLESS walking eye imprint)</Label>
+				<CatalogNum>MHCP 319</CatalogNum>
+				<Barcode>4562109406979</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Date>2009</Date>
+				<Country>XE</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>88697 54816 2</CatalogNum>
+				<Barcode>886975481620</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>9</Tracks>
+				<Date>41384</Date>
+				<Country>XE</Country>
+				<Label>Music on Vinyl</Label>
+				<CatalogNum>MOVLP758</CatalogNum>
+				<Barcode>8718469532629</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>9</Tracks>
+				<Date>41384</Date>
+				<Country>US</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>PC 33479</CatalogNum>
+				<Barcode>887654861917</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Toys in the Attic</Name>
+				<Format>CD</Format>
+				<Tracks>9</Tracks>
+				<Country>US</Country>
+				<Label>Columbia(imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>469009 2</CatalogNum>
+				<Barcode>5099746900922</Barcode>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15B001" albumref="K315FL15B" type="song">
+				<Title>Toys in the Attic </Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>3:07</Length>
+				<Composers>Joe Perry / Steven Tyler</Composers>
+			</Song>
+			<Song SKU="K315FL15B002" albumref="K315FL15B" type="song">
+				<Title>Uncle Salty</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>4:09</Length>
+				<Composers>Tom Hamilton / Steven Tyler</Composers>
+			</Song>
+			<Song SKU="K315FL15B003" albumref="K315FL15B" type="song">
+				<Title>Adam's Apple</Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>4:33</Length>
+				<Composers>Steven Tyler</Composers>
+			</Song>
+			<Song SKU="K315FL15B004" albumref="K315FL15B" type="song">
+				<Title>Walk This Way </Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>3:41</Length>
+				<Composers>Joe Perry / Steven Tyler</Composers>
+			</Song>
+			<Song SKU="K315FL15B005" albumref="K315FL15B" type="song">
+				<Title>Big Ten Inch Record</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>2:16</Length>
+				<Composers>Fred Weismantel</Composers>
+			</Song>
+			<Song SKU="K315FL15B006" albumref="K315FL15B" type="song">
+				<Title>Sweet Emotion </Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>4:34</Length>
+				<Composers>Tom Hamilton / Steven Tyler</Composers>
+			</Song>
+			<Song SKU="K315FL15B007" albumref="K315FL15B" type="song">
+				<Title>No More No More</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>4:34</Length>
+				<Composers>Joe Perry / Steven Tyler</Composers>
+			</Song>
+			<Song SKU="K315FL15B008" albumref="K315FL15B" type="song">
+				<Title>Round and Round</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>5:03</Length>
+				<Composers>Steven Tyler / Brad Whitford</Composers>
+			</Song>
+			<Song SKU="K315FL15B009" albumref="K315FL15B" type="song">
+				<Title>You See Me Crying</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>5:12</Length>
+				<Composers>D. Solomon / Darren Solomon / Steven Tyler</Composers>
+			</Song>
+		</Songs>
+	</Album>
+	<Album SKU="K315FL15C" type="Album">
+		<Comment>I am a long time fan of Taylor Swift and this was definitely her best album</Comment>
+		<Rating>8</Rating>
+		<Genre>Country</Genre>
+		<Album_Cover>Fearless_Cover.jpg</Album_Cover>
+		<Album_Name>Fearless</Album_Name>
+		<Artist>
+			<Artist_Name>Taylor Swift</Artist_Name>
+		</Artist>
+		<Current_Label>Big Machine</Current_Label>
+		<Artist_Country>United States</Artist_Country>
+		<Career>
+			<Begin>2004</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Favorite Album</Album_Category>
+		<Album_Releases>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>Digital Media</Format>
+				<Tracks>13</Tracks>
+				<Date>39763</Date>
+				<Country>CA</Country>
+				<Label>Big Machine Records</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>Enhanced CD</Format>
+				<Tracks>15</Tracks>
+				<Date>39763</Date>
+				<Country>US</Country>
+				<Label>Big Machine Records</Label>
+				<CatalogNum>BMRATS0200</CatalogNum>
+				<Barcode>843930001378</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless(Target exclusive)</Name>
+				<Format>Enhanced CD + DVD-Video</Format>
+				<Tracks>15</Tracks>
+				<Date>39763</Date>
+				<Country>US</Country>
+				<Label>Big Machine Records</Label>
+				<CatalogNum>BMRBTS0200</CatalogNum>
+				<Barcode>857787001542</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>CD</Format>
+				<Tracks>17</Tracks>
+				<Date>39874</Date>
+				<Country>AU</Country>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>CD</Format>
+				<Tracks>16</Tracks>
+				<Date>39878</Date>
+				<Country>IE</Country>
+				<Label>Big Machine Records</Label>
+				<Barcode>602517952980</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>Digital Media</Format>
+				<Tracks>19</Tracks>
+				<Date>39878</Date>
+				<Country>IE</Country>
+				<Label>Big Machine Records</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>CD</Format>
+				<Tracks>16</Tracks>
+				<Date>39881</Date>
+				<Country>GB</Country>
+				<Label>Big Machine Records</Label>
+				<CatalogNum>1795298</CatalogNum>
+				<Barcode>602517952980</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>Digital Media</Format>
+				<Tracks>19</Tracks>
+				<Date>39881</Date>
+				<Country>GB</Country>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>CD</Format>
+				<Tracks>16</Tracks>
+				<Date>39889</Date>
+				<Country>CA</Country>
+			</Album_Release>
+			<Album_Release>
+				<Name>Taylor Swift Karaoke: Fearless(karaoke version)</Name>
+				<Format>CD</Format>
+				<Tracks>13</Tracks>
+				<Date>39940</Date>
+				<Label>Big Machine Records</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless(International Version)</Name>
+				<Format>Digital Media</Format>
+				<Tracks>16</Tracks>
+				<Date>39948</Date>
+				<Country>XW</Country>
+				<Label>Big Machine Records</Label>
+				<Barcode>[none]</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless: Platinum Edition</Name>
+				<Format>CD</Format>
+				<Tracks>19</Tracks>
+				<Date>40112</Date>
+				<Country>US</Country>
+				<Label>Big Machine Records</Label>
+				<CatalogNum>BMRATS0250</CatalogNum>
+				<Barcode>843930002900</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless (Platinum Edition)(Target exclusive)</Name>
+				<Format>CD + DVD-Video</Format>
+				<Tracks>19</Tracks>
+				<Date>40112</Date>
+				<Country>US</Country>
+				<Label>Big Machine Records</Label>
+				<CatalogNum>BMRBTS0250</CatalogNum>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless (Platinum Edition)</Name>
+				<Format>Digital Media</Format>
+				<Tracks>29</Tracks>
+				<Date>40112</Date>
+				<Country>US</Country>
+				<Label>Big Machine Records</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless</Name>
+				<Format>CD</Format>
+				<Tracks>16</Tracks>
+				<Date>2009</Date>
+				<Country>XE</Country>
+				<Label>Big Machine Records</Label>
+				<CatalogNum>602517976290</CatalogNum>
+				<Barcode>602517976290</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Fearless (Platinum Edition)</Name>
+				<Format>CD + DVD-Video</Format>
+				<Tracks>19</Tracks>
+				<Date>40198</Date>
+				<Country>JP</Country>
+				<Label>Big Machine Records</Label>
+				<CatalogNum>UICO-1180</CatalogNum>
+				<Barcode>4988005600035</Barcode>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15C001" albumref="K315FL15C" type="song">
+				<Title>Fearless</Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>4:02</Length>
+				<Composers>Hillary Lindsey / Liz Rose / Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C002" albumref="K315FL15C" type="song">
+				<Title>Fifteen</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>4:55</Length>
+				<Composers>Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C003" albumref="K315FL15C" type="song">
+				<Title>Love Story</Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>3:56</Length>
+				<Composers>Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C004" albumref="K315FL15C" type="song">
+				<Title>Hey Stephen</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>4:16</Length>
+				<Composers>Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C005" albumref="K315FL15C" type="song">
+				<Title>White Horse</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>3:55</Length>
+				<Composers>Liz Rose / Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C006" albumref="K315FL15C" type="song">
+				<Title>You Belong With Me</Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>3:52</Length>
+				<Composers>Liz Rose / Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C007" albumref="K315FL15C" type="song">
+				<Title>Breathe</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>4:24</Length>
+				<Composers>Colbie Caillat / Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C008" albumref="K315FL15C" type="song">
+				<Title>Tell Me Why</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>3:21</Length>
+				<Composers>Liz Rose / Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C009" albumref="K315FL15C" type="song">
+				<Title>You're Not Sorry</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>4:23</Length>
+				<Composers>Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C010" albumref="K315FL15C" type="song">
+				<Title>The Way I Loved You</Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>4:05</Length>
+				<Composers>John Rich / Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C011" albumref="K315FL15C" type="song">
+				<Title>Forever &amp; Always</Title>
+				<TrackNumber>11</TrackNumber>
+				<Length>3:46</Length>
+				<Composers>Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C012" albumref="K315FL15C" type="song">
+				<Title>The Best Day</Title>
+				<TrackNumber>12</TrackNumber>
+				<Length>4:06</Length>
+				<Composers>Taylor Swift</Composers>
+			</Song>
+			<Song SKU="K315FL15C013" albumref="K315FL15C" type="song">
+				<Title>Change</Title>
+				<TrackNumber>13</TrackNumber>
+				<Length>7:12</Length>
+				<Composers>Taylor Swift</Composers>
+			</Song>
+		</Songs>
+	</Album>
+	<Album SKU="K315FL15D" type="Album">
+		<Comment>You can never go wrong with an ablum that includes the classic track Hell's Bells</Comment>
+		<Rating>6</Rating>
+		<Genre>Rock</Genre>
+		<Album_Cover>Back_in_Black_Cover.jpg</Album_Cover>
+		<Album_Name>Back in Black</Album_Name>
+		<Artist>
+			<Artist_Name>AC/DC</Artist_Name>
+			<Group_Member>Angus Young,Chris Slade,Stevie Young,Brian Johnson,Cliff Williams</Group_Member>
+		</Artist>
+		<Current_Label>Atlantic</Current_Label>
+		<Artist_Country>Australia</Artist_Country>
+		<Career>
+			<Begin>1973</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Favorite Album</Album_Category>
+		<Album_Releases>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>Cassette</Format>
+				<Tracks>10</Tracks>
+				<Date>29427</Date>
+				<Country>US</Country>
+				<Label>ATCO Records</Label>
+				<CatalogNum>CS-16018</CatalogNum>
+				<Barcode>696998020740</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>10</Tracks>
+				<Date>29427</Date>
+				<Country>US</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>SD 16018</CatalogNum>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>10</Tracks>
+				<Date>29433</Date>
+				<Country>GB</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>K 50735</CatalogNum>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>10</Tracks>
+				<Date>29444</Date>
+				<Country>AU</Country>
+				<Label>Albert Productions</Label>
+				<CatalogNum>APLP-046</CatalogNum>
+				<Barcode>[none]</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>10</Tracks>
+				<Date>1980</Date>
+				<Country>DE</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>ATL 50 735, SD 16018</CatalogNum>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>1986</Date>
+				<Country>DE</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>16018-2, 250 735, 7567-81472-2</CatalogNum>
+				<Barcode>75678147227</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>1986</Date>
+				<Country>DE</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>7567-81472-2</CatalogNum>
+				<Barcode>75678147227</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>1987-02</Date>
+				<Country>XE</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>050 735, 16018-2</CatalogNum>
+				<Barcode>[none]</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>32487</Date>
+				<Country>JP</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>20P2-2433</CatalogNum>
+				<Barcode>4988014724333</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>1989</Date>
+				<Country>AU</Country>
+				<Label>Albert Productions</Label>
+				<CatalogNum>465254 2</CatalogNum>
+				<Barcode>9399746525429</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>34572</Date>
+				<Country>XE</Country>
+				<Label>ATCO Records</Label>
+				<CatalogNum>7567-92418-2,92418-2</CatalogNum>
+				<Barcode>75679241825</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>1995</Date>
+				<Country>AU</Country>
+				<Label>Albert Productions</Label>
+				<CatalogNum>4770892</CatalogNum>
+				<Barcode>724347708923</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>2000-10</Date>
+				<Country>FR</Country>
+				<Label>Elektra (1950–1989, revived 2009–06-01; read annotations before use)</Label>
+				<CatalogNum>7567-92418-5</CatalogNum>
+				<Barcode>75679241856</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>37670</Date>
+				<Country>US</Country>
+				<Label>Epic</Label>
+				<CatalogNum>EK 80207</CatalogNum>
+				<Barcode>696998020726</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>37683</Date>
+				<Country>XE</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>510765 2</CatalogNum>
+				<Barcode>5099751076520</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>37683</Date>
+				<Country>XE</Country>
+				<Label>Epic</Label>
+				<CatalogNum>EPC 510765 2</CatalogNum>
+				<Barcode>5099751076520</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>Vinyl</Format>
+				<Tracks>10</Tracks>
+				<Date>37908</Date>
+				<Country>US</Country>
+				<Label>Epic</Label>
+				<CatalogNum>E 80207</CatalogNum>
+				<Barcode>696998020719</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>2003</Date>
+				<Country>AU</Country>
+				<Label>Albert Productions</Label>
+				<CatalogNum>338542</CatalogNum>
+				<Barcode>9397603385421</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>2003</Date>
+				<Country>CA</Country>
+				<Label>Epic</Label>
+				<CatalogNum>CEK 80207</CatalogNum>
+				<Barcode>777496069476</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>DualDisc</Format>
+				<Tracks>10</Tracks>
+				<Date>38391</Date>
+				<Country>US</Country>
+				<Label>Epic</Label>
+				<CatalogNum>EN 90828</CatalogNum>
+				<Barcode>827969082829</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>39470</Date>
+				<Country>JP</Country>
+				<Label>Sony Music Japan International Inc. (Do not use as a label, see the annotation.)</Label>
+				<CatalogNum>SICP 1707</CatalogNum>
+				<Barcode>4547366035216</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>Digital Media</Format>
+				<Tracks>10</Tracks>
+				<Date>41232</Date>
+				<Country>XW</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP), Leidseplein Presse B.V.</Label>
+				<CatalogNum>[none]</CatalogNum>
+				<Barcode>886443673441</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>Digital Media</Format>
+				<Tracks>10</Tracks>
+				<Date>41919</Date>
+				<Country>XW</Country>
+				<Label>Epic, Legacy (Legacy Recordings)</Label>
+				<Barcode>886444889841</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Back in Black</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Country>CA</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>CD 16018</CatalogNum>
+				<Barcode>75678147227</Barcode>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15D001" albumref="K315FL15D" type="song">
+				<Title>Hells Bells </Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>5:12</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D002" albumref="K315FL15D" type="song">
+				<Title>Shoot To Thrill</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>5:17</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D003" albumref="K315FL15D" type="song">
+				<Title>What Do You Do For Money Honey </Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>3:35</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D004" albumref="K315FL15D" type="song">
+				<Title>Givin the Dog a Bone</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>3:31</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D005" albumref="K315FL15D" type="song" >
+				<Title>Let Me Put My Love Into You</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>4:15</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D006" albumref="K315FL15D" type="song">
+				<Title>Back In Black </Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>4:15</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D007" albumref="K315FL15D" type="song">
+				<Title>You Shook Me All Night Long </Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>3:30</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D008" albumref="K315FL15D" type="song">
+				<Title>Have a Drink On Me</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>3:58</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D009" albumref="K315FL15D" type="song">
+				<Title>Shake A Leg</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>4:05</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+			<Song SKU="K315FL15D010" albumref="K315FL15D" type="song"> 
+				<Title>Rock and Roll Ain't Noise Pollution </Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>4:26</Length>
+				<Composers>Brian Johnson / Angus Young / Malcolm Young</Composers>
+			</Song>
+		</Songs>
+	</Album>	
+	<Album SKU="K315FL15E" type="Album">
+		<Comment>It was difficult to choose the best Kenny Chesney album but this had to have been one of his bests</Comment>
+		<Rating>9</Rating>
+		<Genre>Country</Genre>
+		<Album_Cover>When-the-sun-goes-down-cover.jpg</Album_Cover>
+		<Album_Name>When the Sun Goes Down</Album_Name>
+		<Artist>
+			<Artist_Name>Kenny Chesney</Artist_Name>
+		</Artist>
+		<Current_Label>Columbia Records</Current_Label>
+		<Artist_Country>United States</Artist_Country>
+		<Career>
+			<Begin>1993</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Favorite Album</Album_Category>
+		<Album_Releases>
+			<Album_Release>
+				<Name>When the Sun Goes Down</Name>
+				<Format>CD</Format>
+				<Tracks>11</Tracks>
+				<Date>38020</Date>
+				<Country>US</Country>
+				<Label>BNA Records</Label>
+				<CatalogNum>BNA82876-56609-2</CatalogNum>
+				<Barcode>828765660921</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>When the Sun Goes Down (Limited Edition)</Name>
+				<Format>CD</Format>
+				<Tracks>14</Tracks>
+				<Date>38020</Date>
+				<Country>US</Country>
+				<Label>BNA Records</Label>
+				<CatalogNum>BNA82876-58801-2</CatalogNum>
+				<Barcode>828765880121</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>When the Sun Goes Down (Target Exclusive Edition)</Name>
+				<Format>2×CD</Format>
+				<Tracks>14</Tracks>
+				<Date>38020</Date>
+				<Country>US</Country>
+				<Label>BNA Records</Label>
+				<CatalogNum>BNA82876-59347-2</CatalogNum>
+				<Barcode>828765934725</Barcode>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15E001" albumref="K315FL15E" type="song">
+				<Title>There Goes My Life</Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>5:02</Length>
+				<Composers>Wendell Mobley / Neil Thrasher</Composers>
+			</Song>
+			<Song SKU="K315FL15E002" albumref="K315FL15E" type="song">
+				<Title>I Go Back</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>4:03</Length>
+				<Composers>Kenny Chesney</Composers>
+			</Song>
+			<Song SKU="K315FL15E003" albumref="K315FL15E" type="song">
+				<Title>When the Sun Goes Down</Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>4:50</Length>
+				<Composers>Brett James</Composers>
+			</Song>
+			<Song SKU="K315FL15E004" albumref="K315FL15E" type="song">
+				<Title>The Woman with You</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>4:31</Length>
+				<Composers>David Frasier / Craig Wiseman</Composers>
+			</Song>
+			<Song SKU="K315FL15E005" albumref="K315FL15E" type="song">
+				<Title>Some People Change</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>3:27</Length>
+				<Composers>Michael Dulaney / Jason Sellers / Neil Thrasher</Composers>
+			</Song>
+			<Song SKU="K315FL15E006" albumref="K315FL15E" type="song">
+				<Title>Anything But Mine</Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>5:25</Length>
+				<Composers>Scooter Carusoe</Composers>
+			</Song>
+			<Song SKU="K315FL15E007" albumref="K315FL15E" type="song">
+				<Title>Keg in the Closet</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>3:32</Length>
+				<Composers>Kenny Chesney / Brett James</Composers>
+			</Song>
+			<Song SKU="K315FL15E008" albumref="K315FL15E" type="song">
+				<Title>When I Think About Leaving</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>4:39</Length>
+				<Composers>Tim Johnson / Rory Lee / Paul Overstreet</Composers>
+			</Song>
+			<Song SKU="K315FL15E009" albumref="K315FL15E" type="song">
+				<Title>Being Drunk's a Lot Like Loving You</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>3:33</Length>
+				<Composers>Kenny Chesney / Skip Ewing</Composers>
+			</Song>
+			<Song SKU="K315FL15E010" albumref="K315FL15E" type="song">
+				<Title>Outta Here</Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>2:47</Length>
+				<Composers>Josh Leo</Composers>
+			</Song>
+			<Song SKU="K315FL15E011" albumref="K315FL15E" type="song">
+				<Title>Old Blue Chair</Title>
+				<TrackNumber>11</TrackNumber>
+				<Length>3:24</Length>
+				<Composers>Kenney Chesney</Composers>
+			</Song>
+		</Songs>
+	</Album>
+	<Album SKU="K315FL15F" type="Album">
+		<Comment>I am not a huge fan of Beck but it must have been great since it won a grammy</Comment>
+		<Rating>2</Rating>
+		<Genre>Pop</Genre>
+		<Album_Cover>Morning-phase-cover.jpg</Album_Cover>
+		<Album_Name>Morning Phase</Album_Name>
+		<Artist>
+			<Artist_Name>Beck Hansen</Artist_Name>
+		</Artist>
+		<Current_Label>Capitol Records</Current_Label>
+		<Artist_Country>United States</Artist_Country>
+		<Career>
+			<Begin>1991</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Grammy Winner</Album_Category>
+		<Producers>
+			<Producer>Beck Hansen</Producer>
+		</Producers>
+		<Mixers_Engineers>
+			<Mixer>Tom Elmhirst</Mixer>
+			<Mixer>David Greenbaum</Mixer>
+			<Mixer>Cole Marsden Greif-Neill</Mixer>
+			<Mixer>Florian Lagatta</Mixer>
+			<Mixer>Robbie Nelson</Mixer>
+			<Mixer>Darrell Thorp</Mixer>
+			<Mixer>Cassidy Turbin</Mixer>
+			<Mixer>Joe Visciano</Mixer>
+			<Master_Engineer>Bob Ludwig</Master_Engineer>
+		</Mixers_Engineers>
+		<Album_Releases>
+			<Album_Release>
+				<Name>Morning Phase</Name>
+				<Format>Digital Media</Format>
+				<Tracks>13</Tracks>
+				<Date>41691</Date>
+				<Label>Fonograf Records</Label>
+				<Barcode>[none]</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Morning Phase</Name>
+				<Format>CD</Format>
+				<Tracks>13</Tracks>
+				<Date>41695</Date>
+				<Country>AU</Country>
+				<Label>Fonograf Records</Label>
+				<CatalogNum>3764975</CatalogNum>
+				<Barcode>602537649754</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Morning Phase</Name>
+				<Format>CD</Format>
+				<Tracks>13</Tracks>
+				<Date>41695</Date>
+				<Country>CA</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<CatalogNum>B001983802</CatalogNum>
+				<Barcode>602537649754</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Morning Phase</Name>
+				<Format>CD</Format>
+				<Tracks>13</Tracks>
+				<Date>41695</Date>
+				<Country>XE</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<CatalogNum>602537649754</CatalogNum>
+				<Barcode>602537649754</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Morning Phase</Name>
+				<Format>12 in Vinyl</Format>
+				<Tracks>13</Tracks>
+				<Date>41695</Date>
+				<Country>US</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<CatalogNum>B001983901</CatalogNum>
+				<Barcode>602537649747</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Morning Phase</Name>
+				<Format>CD</Format>
+				<Tracks>13</Tracks>
+				<Date>41695</Date>
+				<Country>US</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<CatalogNum>B001983802</CatalogNum>
+				<Barcode>602537649754</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Morning Phase</Name>
+				<Format>Digital Media</Format>
+				<Tracks>13</Tracks>
+				<Date>2014</Date>
+				<Country>US</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<Barcode>[none]</Barcode>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15F001" albumref="K315FL15F" type="song">
+				<Title>Cycle</Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>0:40</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F002" albumref="K315FL15F" type="song">
+				<Title>Morning</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>5:19</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F003" albumref="K315FL15F" type="song">
+				<Title>Heart Is a Drum</Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>4:31</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F004" albumref="K315FL15F" type="song">
+				<Title>Say Goodbye</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>3:29</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F005" albumref="K315FL15F" type="song">
+				<Title>Blue Moon</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>4:02</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F006" albumref="K315FL15F" type="song">
+				<Title>Unforgiven</Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>4:34</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F007" albumref="K315FL15F" type="song">
+				<Title>Wave</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>3:40</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F008" albumref="K315FL15F" type="song">
+				<Title>Don't Let It Go</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>3:09</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F009" albumref="K315FL15F" type="song">
+				<Title>Blackbird Chain</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>4:26</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F010" albumref="K315FL15F" type="song">
+				<Title>Phase</Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>1:03</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F011" albumref="K315FL15F" type="song">
+				<Title>Turn Away</Title>
+				<TrackNumber>11</TrackNumber>
+				<Length>3:05</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F012" albumref="K315FL15F" type="song">
+				<Title>Country Down</Title>
+				<TrackNumber>12</TrackNumber>
+				<Length>4:00</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+			<Song SKU="K315FL15F013" albumref="K315FL15F" type="song">
+				<Title>Waking Light</Title>
+				<TrackNumber>13</TrackNumber>
+				<Length>5:02</Length>
+				<Composers>Beck Hansen</Composers>
+			</Song>
+		</Songs>
+	</Album>
+	<Album SKU="K315FL15G" type="Album">
+		<Comment>I never was a huge fan of Beyonce but her song "Single Ladies" Rocks</Comment>
+		<Rating>10</Rating>
+		<Genre>RandB</Genre>
+		<Album_Cover>Beyonce-cover.jpg</Album_Cover>
+		<Album_Name>Beyonce</Album_Name>
+		<Artist>
+			<Artist_Name>Beyonce</Artist_Name>
+		</Artist>
+		<Current_Label>Columbia Records</Current_Label>
+		<Artist_Country>United States</Artist_Country>
+		<Career>
+			<Begin>2001</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Grammy Nominee</Album_Category>
+		<Producers>
+			<Producer>Ammo</Producer>
+			<Producer>Boots</Producer>
+			<Producer>James Fauntleroy</Producer>
+			<Producer>Noel "Detail" Fisher</Producer>
+			<Producer>Jerome Harmon</Producer>
+			<Producer>Hit-Boy</Producer>
+			<Producer>Beyonce Knowles</Producer>
+			<Producer>Terius "The Dream" Nash</Producer>
+			<Producer>Caroline Polachek</Producer>
+			<Producer>Rey Reel</Producer>
+			<Producer>Noah "40" Shebib</Producer>
+			<Producer>Ryan Tedder</Producer>
+			<Producer>Timbaland</Producer>
+			<Producer>Justin Timberlake</Producer>
+			<Producer>Key Wane</Producer>
+			<Producer>Pharrell Williams</Producer>
+			<Producer>Patrick Wimberly</Producer>
+		</Producers>
+		<Mixers_Engineers>
+			<Mixer>Boots</Mixer>
+			<Mixer>Noel Cadastre</Mixer>
+			<Mixer>Noel "Gadget" Campbell</Mixer>
+			<Mixer>Rob Cohen</Mixer>
+			<Mixer>Andrew Coleman</Mixer>
+			<Mixer>Chris Godbey</Mixer>
+			<Mixer>Justin Hergett</Mixer>
+			<Mixer>James Krausse</Mixer>
+			<Mixer>Mike Larson</Mixer>
+			<Mixer>Jonathan Lee</Mixer>
+			<Mixer>Tony Maserati</Mixer>
+			<Mixer>Ann Mincieli</Mixer>
+			<Mixer>Caroline Polachek</Mixer>
+			<Mixer>Andrew Scheps</Mixer>
+			<Mixer>Bart Schoudel</Mixer>
+			<Mixer>Noah "40" Shebib</Mixer>
+			<Mixer>Ryan Tedder</Mixer>
+			<Mixer>Stuart White</Mixer>
+			<Mixer>Jordan "DJ Swivel" Young</Mixer>
+			<Master_Engineer>Tom Coyne</Master_Engineer>
+			<Master_Engineer>James Krausse</Master_Engineer>
+			<Master_Engineer>Aya Merrill</Master_Engineer>
+		</Mixers_Engineers>
+		<Album_Releases>
+			<Album_Release>
+				<Name>BEYONCÉ</Name>
+				<Format>Digital Media</Format>
+				<Tracks>32</Tracks>
+				<Date>41621</Date>
+				<Country>XW</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>Beyoncé</Name>
+				<Format>CD + DVD-Video</Format>
+				<Tracks>14</Tracks>
+				<Date>41628</Date>
+				<Country>XE</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP), Parkwood Entertainment</Label>
+				<CatalogNum>88843032512</CatalogNum>
+				<Barcode>888430325128</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Beyoncé</Name>
+				<Format>CD + DVD-Video</Format>
+				<Tracks>14</Tracks>
+				<Date>41628</Date>
+				<Country>US</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP), Parkwood Entertainment</Label>
+				<CatalogNum>88843032512</CatalogNum>
+				<Barcode>888430325128</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Beyoncé</Name>
+				<Format>CD + DVD-Video</Format>
+				<Tracks>14</Tracks>
+				<Date>41682</Date>
+				<Country>JP</Country>
+				<Label>Sony Records International (Japanese TEXTLESS walking eye imprint)</Label>
+				<CatalogNum>SICP-4090,SICP-4091</CatalogNum>
+				<Barcode>4547366213270</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>BEYONCÉ</Name>
+				<Format>Digital Media</Format>
+				<Tracks>32</Tracks>
+				<Date>41730</Date>
+				<Country>JP</Country>
+				<CatalogNum>SIXX02354B00Z</CatalogNum>
+				<Barcode>4547366215236</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>BEYONCÉ (Audio Only Edition, explicit)</Name>
+				<Format>Digital Media</Format>
+				<Tracks>14</Tracks>
+				<Date>41967</Date>
+				<Country>JP</Country>
+				<CatalogNum>SIXX03191B00Z</CatalogNum>
+				<Barcode>4547366231373</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>BEYONCÉ(Platinum Edition)</Name>
+				<Format>4×Digital Media</Format>
+				<Tracks>14</Tracks>
+				<Date>41967</Date>
+				<Country>US</Country>
+			</Album_Release>
+			<Album_Release>
+				<Name>Beyoncé(platinum edition)</Name>
+				<Format>2×CD + 2×DVD-Video</Format>
+				<Tracks>14</Tracks>
+				<Date>41967</Date>
+				<Country>US</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP), Parkwood Entertainment</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>Beyoncé (More Only)</Name>
+				<Format>Digital Media</Format>
+				<Tracks>16</Tracks>
+				<Date>41967</Date>
+				<Country>XW</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<Barcode>886444955379</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>BEYONCÉ [Platinum Edition]</Name>
+				<Format>Digital Media</Format>
+				<Tracks>48</Tracks>
+				<Date>42025</Date>
+				<Country>JP</Country>
+				<CatalogNum>SIXX03238B00Z</CatalogNum>
+				<Barcode>4547366232189</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>BEYONCÉ [Platinum Edition] (More)</Name>
+				<Format>Digital Media</Format>
+				<Tracks>16</Tracks>
+				<Date>42025</Date>
+				<Country>JP</Country>
+				<CatalogNum>SIXX03239B00Z</CatalogNum>
+				<Barcode>4547366232196</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Beyoncé</Name>
+				<Format>CD + Blu-ray</Format>
+				<Tracks>14</Tracks>
+				<Country>US</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>88843045342</CatalogNum>
+				<Barcode>888430453425</Barcode>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15G001" albumref="K315FL15G" type="song">
+				<Title>Pretty Hurts</Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>4:17</Length>
+				<Composers>Joshua Coleman / Sia Furler / Beyoncé Knowles</Composers>
+			</Song>
+			<Song SKU="K315FL15G002" albumref="K315FL15G" type="song">
+				<Title>Ghost/Haunted</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>6:09</Length>
+				<Composers>Beyoncé Knowles</Composers>
+			</Song>
+			<Song SKU="K315FL15G003" albumref="K315FL15G" type="song">
+				<Title>Drunk in Love</Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>5:23</Length>
+				<Composers>Shawn Carter / Rasool Diaz / Noel "Detail" Fisher / Jerome Harmon / Beyoncé Knowles / Andre Proctor / Brian Soko</Composers>
+			</Song>
+			<Song SKU="K315FL15G004" albumref="K315FL15G" type="song">
+				<Title>Blow</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>5:09</Length>
+				<Composers>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin Timberlake / Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15G005" albumref="K315FL15G" type="song">
+				<Title>No Angel</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>3:48</Length>
+				<Composers>James Fauntleroy / Beyoncé Knowles / Caroline Polachek</Composers>
+			</Song>
+			<Song SKU="K315FL15G006" albumref="K315FL15G" type="song">
+				<Title>Yoncé/Partition</Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>5:19</Length>
+				<Composers>Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin Timberlake / Dwane Weir</Composers>
+			</Song>
+			<Song SKU="K315FL15G007" albumref="K315FL15G" type="song">
+				<Title>Jealous</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>3:04</Length>
+				<Composers>Lyrica Anderson / Rasool Diaz / Noel "Detail" Fisher / Beyoncé Knowles / Andre Proctor / Brian Soko</Composers>
+			</Song>
+			<Song SKU="K315FL15G008" albumref="K315FL15G" type="song">
+				<Title>Rocket</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>6:31</Length>
+				<Composers>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Miguel Jontel Pimentel / Justin Timberlake</Composers>
+			</Song>
+			<Song SKU="K315FL15G009" albumref="K315FL15G" type="song">
+				<Title>Mine</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>6:18</Length>
+				<Composers>Sidney "Omen" Brown / Aubrey "Drake" Graham / Beyoncé Knowles / Noah Shebib / Jordan Kenneth Cooke Ullman / Dwane Weir</Composers>
+			</Song>
+			<Song SKU="K315FL15G010" albumref="K315FL15G" type="song">
+				<Title>XO</Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>3:35</Length>
+				<Composers>Beyoncé Knowles / Terius "The-Dream" Nash / Ryan Tedder</Composers>
+			</Song>
+			<Song SKU="K315FL15G011" albumref="K315FL15G" type="song">
+				<Title>***Flawless</Title>
+				<TrackNumber>11</TrackNumber>
+				<Length>4:10</Length>
+				<Composers>Chauncey Hollis / Beyoncé Knowles / Rashad Muhammad / Terius "The-Dream" Nash / Rey Reel</Composers>
+			</Song>
+			<Song SKU="K315FL15G012" albumref="K315FL15G" type="song">
+				<Title>Superpower</Title>
+				<TrackNumber>12</TrackNumber>
+				<Length>4:36</Length>
+				<Composers>Beyoncé Knowles / Frank Ocean / Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15G013" albumref="K315FL15G" type="song">
+				<Title>Heaven</Title>
+				<TrackNumber>13</TrackNumber>
+				<Length>3:50</Length>
+				<Composers>Beyoncé Knowles</Composers>
+			</Song>
+			<Song SKU="K315FL15G014" albumref="K315FL15G" type="song">
+				<Title>Blue/Grown Woman</Title>
+				<TrackNumber>14</TrackNumber>
+				<Length>4:26</Length>
+				<Composers>Jerome Harmon / Beyoncé Knowles / Garland Mosley / Terius "The-Dream" Nash / D. Pearson / Kelly Sheehan</Composers>
+			</Song>
+		</Songs>
+	</Album>
+	<Album SKU="K315FL15H" type="Album">
+		<Comment>I know a few songs by Ed but wouldn't put him in my favorite artists. This artist definitely has some jams though.</Comment>
+		<Rating>5</Rating>
+		<Genre>Pop</Genre>
+		<Album_Cover>X-Cover.jpg</Album_Cover>
+		<Album_Name>X</Album_Name>
+		<Artist>
+			<Artist_Name>Ed Sheeran</Artist_Name>
+		</Artist>
+		<Current_Label>Atlantic</Current_Label>
+		<Artist_Country>United Kingdom</Artist_Country>
+		<Career>
+			<Begin>2011</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Grammy Nominee</Album_Category>
+		<Producers>
+			<Producer>Jeff Bhasker</Producer>
+			<Producer>Benny Blanco</Producer>
+			<Producer>Jake Gosling</Producer>
+			<Producer>Johnny Mcdaid</Producer>
+			<Producer>Rick Rubin</Producer>
+			<Producer>Pharell Williams</Producer>
+		</Producers>
+		<Mixers_Engineers>
+			<Mixer>Andrew Coleman</Mixer>
+			<Mixer>Jake Gosling</Mixer>
+			<Mixer>Matty Green</Mixer>
+			<Mixer>William Hicks</Mixer>
+			<Mixer>Tyler Same Johnson</Mixer>
+			<Mixer>Jason Lader</Mixer>
+			<Mixer>Johnny McDaid</Mixer>
+			<Mixer>Chris Sclafani</Mixer>
+			<Mixer>Mark Stent</Mixer>
+			<Mixer>Geoff Swan</Mixer>
+			<Master_Engineer>Stuart Hawkes</Master_Engineer>
+		</Mixers_Engineers>
+		<Album_Releases>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>CD</Format>
+				<Tracks>17</Tracks>
+				<Date>41810</Date>
+				<Country>AU</Country>
+			</Album_Release>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>CD</Format>
+				<Tracks>17</Tracks>
+				<Date>41810</Date>
+				<Country>DE</Country>
+			</Album_Release>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>CD</Format>
+				<Tracks>17</Tracks>
+				<Date>41810</Date>
+				<Country>NZ</Country>
+			</Album_Release>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>CD</Format>
+				<Tracks>17</Tracks>
+				<Date>41813</Date>
+				<Country>XW</Country>
+			</Album_Release>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>Digital Media</Format>
+				<Tracks>16</Tracks>
+				<Date>41810</Date>
+				<Country>AU</Country>
+				<Label>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop), Atlantic (Warner Music imprint)</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>x (deluxe edition)</Name>
+				<Format>Digital Media</Format>
+				<Tracks>16</Tracks>
+				<Date>41810</Date>
+				<Country>AT</Country>
+				<Label>Atlantic Records UK</Label>
+				<Barcode>825646285037</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>Digital Media</Format>
+				<Tracks>12</Tracks>
+				<Date>41810</Date>
+				<Country>IT</Country>
+				<Label>Warner Music UK Ltd.</Label>
+				<Barcode>825646285891</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>Digital Media</Format>
+				<Tracks>12</Tracks>
+				<Date>41810</Date>
+				<Country>US</Country>
+				<Label>Atlantic Records UK</Label>
+				<Barcode>825646285891</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>x (deluxe edition)</Name>
+				<Format>Digital Media</Format>
+				<Tracks>16</Tracks>
+				<Date>41810</Date>
+				<Country>US</Country>
+				<Label>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop)</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>x (physical deluxe edition)</Name>
+				<Format>CD</Format>
+				<Tracks>17</Tracks>
+				<Date>41810</Date>
+				<Country>US</Country>
+				<Label>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop)</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>41813</Date>
+				<Country>XE</Country>
+				<Label>Warner Music UK Ltd.</Label>
+				<CatalogNum>825646285907</CatalogNum>
+				<Barcode>825646285907</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>x (deluxe edition)</Name>
+				<Format>CD</Format>
+				<Tracks>17</Tracks>
+				<Date>41813</Date>
+				<Country>GB</Country>
+				<Label>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop)</Label>
+				<CatalogNum>825646285860</CatalogNum>
+				<Barcode>825646285860</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>x</Name>
+				<Format>CD</Format>
+				<Tracks>12</Tracks>
+				<Date>41813</Date>
+				<Country>US</Country>
+				<Label>Atlantic (Warner Music imprint)</Label>
+				<CatalogNum>543295-2</CatalogNum>
+				<Barcode>825646285907</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>x (Deluxe Edition)</Name>
+				<Format>CD</Format>
+				<Tracks>17</Tracks>
+				<Date>2014</Date>
+				<Country>CA</Country>
+				<Label>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop)</Label>
+				<CatalogNum>2-564628</CatalogNum>
+				<Barcode>825646285860</Barcode>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15H001" albumref="K315FL15H" type="song">
+				<Title>One</Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>4:12</Length>
+				<Composers>Ed Sheeran</Composers>
+			</Song>
+			<Song SKU="K315FL15H002" albumref="K315FL15H" type="song">
+				<Title>I'm a Mess</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>4:04</Length>
+				<Composers>Ed Sheeran</Composers>
+			</Song>
+			<Song SKU="K315FL15H003" albumref="K315FL15H" type="song">
+				<Title>Sing</Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>3:55</Length>
+				<Composers>Ed Sheeran / Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15H004" albumref="K315FL15H" type="song">
+				<Title>Don't</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>3:39</Length>
+				<Composers>Benjamin Levin / Ed Sheeran</Composers>
+			</Song>
+			<Song SKU="K315FL15H005" albumref="K315FL15H" type="song">
+				<Title>Nina</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>3:45</Length>
+				<Composers>Johnny McDaid / Ed Sheeran</Composers>
+			</Song>
+			<Song SKU="K315FL15H006" albumref="K315FL15H" type="song">
+				<Title>Photograph</Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>4:18</Length>
+				<Composers>Johnny McDaid / Ed Sheeran</Composers>
+			</Song>
+			<Song SKU="K315FL15H007" albumref="K315FL15H" type="song">
+				<Title>Bloodstream</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>5:00</Length>
+				<Composers>Gary Lightbody / Johnny McDaid / Rudimental / Ed Sheeran</Composers>
+			</Song>
+			<Song SKU="K315FL15H008" albumref="K315FL15H" type="song">
+				<Title>Tenerife Sea</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>4:01</Length>
+				<Composers>Johnny McDaid / Ed Sheeran / Foy Vance</Composers>
+			</Song>
+			<Song SKU="K315FL15H009" albumref="K315FL15H" type="song">
+				<Title>Runaway</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>3:25</Length>
+				<Composers>Ed Sheeran / Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15H010" albumref="K315FL15H" type="song" >
+				<Title>The Man</Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>4:10</Length>
+				<Composers>Ed Sheeran</Composers>
+			</Song>
+			<Song SKU="K315FL15H011" albumref="K315FL15H" type="song">
+				<Title>Thinking Out Loud</Title>
+				<TrackNumber>11</TrackNumber>
+				<Length>4:41</Length>
+				<Composers>Ed Sheeran / Amy Wadge</Composers>
+			</Song>
+			<Song SKU="K315FL15H012" albumref="K315FL15H" type="song">
+				<Title>Afire Love</Title>
+				<TrackNumber>12</TrackNumber>
+				<Length>5:16</Length>
+				<Composers>Johnny McDaid / Ed Sheeran / Foy Vance</Composers>
+			</Song>
+		</Songs>
+	</Album>
+	<Album SKU="K315FL15I" type="Album">
+		<Comment>I have not heard any song other than "Stay with me" from this album but that is a great song</Comment>
+		<Rating>3</Rating>
+		<Genre>Pop</Genre>
+		<Album_Cover>In-the-lonely-hour-cover.jpg</Album_Cover>
+		<Album_Name>In the Lonely Hour</Album_Name>
+		<Artist>
+			<Artist_Name>Sam Smith</Artist_Name>
+		</Artist>
+		<Current_Label>Capitol Records</Current_Label>
+		<Artist_Country>England</Artist_Country>
+		<Career>
+			<Begin>2007</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Grammy Nominee</Album_Category>
+		<Producers>
+			<Producer>Steve Fitzmaurice</Producer>
+			<Producer>Komi</Producer>
+			<Producer>Howard Lawrence</Producer>
+			<Producer>Zane Lowe</Producer>
+			<Producer>Mojam</Producer>
+			<Producer>Jimmy Napes</Producer>
+			<Producer>Naughty Boy</Producer>
+			<Producer>Fraser T. Smith</Producer>
+			<Producer>Two Inch Punch</Producer>
+			<Producer>Eg White</Producer>
+		</Producers>
+		<Mixers_Engineers>
+			<Mixer>Michael Angelo</Mixer>
+			<Mixer>Graham Archer</Mixer>
+			<Mixer>Steve Fitzmaurice</Mixer>
+			<Mixer>Simon Hale</Mixer>
+			<Mixer>Darren Heelis</Mixer>
+			<Mixer>James Murray</Mixer>
+			<Mixer>Jimmy Napes</Mixer>
+			<Mixer>Mustafa Omer</Mixer>
+			<Mixer>Dan Perry</Mixer>
+			<Mixer>Steve Price</Mixer>
+			<Mixer>Eg White</Mixer>
+			<Master_Engineer>Tom Coyne</Master_Engineer>
+			<Master_Engineer>Stuart Hawkes</Master_Engineer>
+		</Mixers_Engineers>
+		<Album_Releases>
+			<Album_Release>
+				<Name>In the Lonely Hour</Name>
+				<Format>Digital Media</Format>
+				<Tracks>15</Tracks>
+				<Date>41782</Date>
+				<Country>NZ</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+			</Album_Release>
+			<Album_Release>
+				<Name>In the Lonely Hour (deluxe edition)</Name>
+				<Format>CD</Format>
+				<Tracks>14</Tracks>
+				<Date>41785</Date>
+				<Country>GB</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<CatalogNum>3769173</CatalogNum>
+				<Barcode>602537691739</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>In the Lonely Hour (Target deluxe edition)</Name>
+				<Format>CD</Format>
+				<Tracks>16</Tracks>
+				<Date>41807</Date>
+				<Country>US</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<CatalogNum>B002057502</CatalogNum>
+				<Barcode>602537799251</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>In the Lonely Hour (Google Play exclusive deluxe edition)</Name>
+				<Format>Digital Media</Format>
+				<Tracks>15</Tracks>
+				<Date>41807</Date>
+				<Country>XW</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<Barcode>[none]</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>In the Lonely Hour</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>2014</Date>
+				<Country>US</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<CatalogNum>B002061102</CatalogNum>
+				<Barcode>602537802371</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>In the Lonely Hour</Name>
+				<Format>CD</Format>
+				<Tracks>21</Tracks>
+				<Date>42025</Date>
+				<Country>JP</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+				<CatalogNum>UICC-10015</CatalogNum>
+				<Barcode>4988005867308</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>In the Lonely Hour</Name>
+				<Format>Digital Media</Format>
+				<Tracks>20</Tracks>
+				<Date>2015-01</Date>
+				<Country>JP</Country>
+				<Label>Capitol Records (imprint of Capitol Records, Inc.)</Label>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15I001" albumref="K315FL15I" type="song">
+				<Title>Money On My Mind</Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>3:13</Length>
+				<Composers>Ben Ash / Sam Smith</Composers>
+			</Song>
+			<Song SKU="K315FL15I002" albumref="K315FL15I" type="song">
+				<Title>Good Thing</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>3:21</Length>
+				<Composers>Sam Smith / Eg White</Composers>
+			</Song>
+			<Song SKU="K315FL15I003" albumref="K315FL15I" type="song">
+				<Title>Stay With Me</Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>2:52</Length>
+				<Composers>James Napier / William Phillips / Sam Smith</Composers>
+			</Song>
+			<Song SKU="K315FL15I004" albumref="K315FL15I" type="song">
+				<Title>Leave Your Lover</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>3:08</Length>
+				<Composers>Simon Aldred / Sam Smith</Composers>
+			</Song>
+			<Song SKU="K315FL15I005" albumref="K315FL15I" type="song">
+				<Title>I'm Not The Only One</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>3:59</Length>
+				<Composers>James Napier / Sam Smith</Composers>
+			</Song>
+			<Song SKU="K315FL15I006" albumref="K315FL15I" type="song">
+				<Title>I've Told You Now</Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>3:30</Length>
+				<Composers>Sam Smith / Eg White</Composers>
+			</Song>
+			<Song SKU="K315FL15I007" albumref="K315FL15I" type="song">
+				<Title>Like I Can</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>2:47</Length>
+				<Composers>Matt Prime / Sam Smith</Composers>
+			</Song>
+			<Song SKU="K315FL15I008" albumref="K315FL15I" type="song">
+				<Title>Life Support</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>2:53</Length>
+				<Composers>Ben Ash / Sam Smith</Composers>
+			</Song>
+			<Song SKU="K315FL15I009" albumref="K315FL15I" type="song">
+				<Title>Not In That Way</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>2:52</Length>
+				<Composers>Fraser T. Smith / Sam Smith</Composers>
+			</Song>
+			<Song SKU="K315FL15I010" albumref="K315FL15I" type="song">
+				<Title>Lay Me Down</Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>4:15</Length>
+				<Composers>James Napier / Elvin Smith / Sam Smith</Composers>
+			</Song>
+		</Songs>
+	</Album>
+	<Album SKU="K315FL15J" type="Album">
+		<Comment>This would not be on my top list of favorite albums but who doesn't love the song "Happy"</Comment>
+		<Rating>4</Rating>
+		<Genre>Pop</Genre>
+		<Album_Cover>Girl-Cover.jpg</Album_Cover>
+		<Album_Name>G I R L</Album_Name>
+		<Artist>
+			<Artist_Name>Pharrell Williams</Artist_Name>
+		</Artist>
+		<Current_Label>Columbia Records</Current_Label>
+		<Artist_Country>United States</Artist_Country>
+		<Career>
+			<Begin>1992</Begin>
+			<End>Present</End>
+		</Career>
+		<Album_Category>Grammy Nominee</Album_Category>
+		<Producers>
+			<Producer>Pharrel Williams</Producer>
+		</Producers>
+		<Mixers_Engineers>
+			<Mixer>Leslie Brathwaite</Mixer>
+			<Mixer>Adrian Breakspear</Mixer>
+			<Mixer>Andrew Coleman</Mixer>
+			<Mixer>Jimmy Douglas</Mixer>
+			<Mixer>Hart Gunther</Mixer>
+			<Mixer>Mick Guzauski</Mixer>
+			<Mixer>Florian Lagatta</Mixer>
+			<Mixer>Mike Larson</Mixer>
+			<Mixer>Stephanie McNally</Mixer>
+			<Mixer>Alan Meyerson</Mixer>
+			<Mixer>Ann Mincieli</Mixer>
+			<Mixer>Kenta Yonesaka</Mixer>
+			<Master_Engineer>Bob Ludwig</Master_Engineer>
+		</Mixers_Engineers>
+		<Album_Releases>
+			<Album_Release>
+				<Name>Girl</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>41701</Date>
+				<Country>XE</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>88843055072</CatalogNum>
+				<Barcode>888430550728</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Girl</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>41701</Date>
+				<Country>MX</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>88843055072</CatalogNum>
+				<Barcode>888430550728</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Girl</Name>
+				<Format>CD</Format>
+				<Tracks>10</Tracks>
+				<Date>41701</Date>
+				<Country>US</Country>
+				<Label>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</Label>
+				<CatalogNum>88843055072</CatalogNum>
+				<Barcode>888430550728</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Girl</Name>
+				<Format>Digital Media</Format>
+				<Tracks>10</Tracks>
+				<Date>41701</Date>
+				<Country>XW</Country>
+				<Label>Back Lot Music</Label>
+				<Barcode>886444495165</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Girl</Name>
+				<Format>CD</Format>
+				<Tracks>11</Tracks>
+				<Date>41759</Date>
+				<Country>JP</Country>
+				<Label>Sony Records International (Japanese TEXTLESS walking eye imprint)</Label>
+				<CatalogNum>SICP-4129</CatalogNum>
+				<Barcode>4547366216660</Barcode>
+			</Album_Release>
+			<Album_Release>
+				<Name>Girl (Deluxe Edition)</Name>
+				<Format>CD</Format>
+				<Tracks>14</Tracks>
+			</Album_Release>
+		</Album_Releases>
+		<Songs>
+			<Song SKU="K315FL15J001" albumref="K315FL15J" type="song">
+				<Title>Marilyn Monroe</Title>
+				<TrackNumber>1</TrackNumber>
+				<Length>5:51</Length>
+				<Composers>Ann Marie Calhoun / Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J002" albumref="K315FL15J" type="song">
+				<Title>Brand New</Title>
+				<TrackNumber>2</TrackNumber>
+				<Length>4:31</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J003" albumref="K315FL15J" type="song">
+				<Title>Hunter</Title>
+				<TrackNumber>3</TrackNumber>
+				<Length>4:00</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J004" albumref="K315FL15J" type="song">
+				<Title>Gush</Title>
+				<TrackNumber>4</TrackNumber>
+				<Length>3:54</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J005" albumref="K315FL15J" type="song">
+				<Title>Happy [From Despicable Me 2]</Title>
+				<TrackNumber>5</TrackNumber>
+				<Length>3:52</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J006" albumref="K315FL15J" type="song">
+				<Title>Come Get It Bae</Title>
+				<TrackNumber>6</TrackNumber>
+				<Length>3:21</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J007" albumref="K315FL15J" type="song">
+				<Title>Gust of Wind</Title>
+				<TrackNumber>7</TrackNumber>
+				<Length>4:45</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J008" albumref="K315FL15J" type="song">
+				<Title>Lost Queen</Title>
+				<TrackNumber>8</TrackNumber>
+				<Length>7:56</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J009" albumref="K315FL15J" type="song">
+				<Title>Who You Are</Title>
+				<TrackNumber>9</TrackNumber>
+				<Length>3:56</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+			<Song SKU="K315FL15J010" albumref="K315FL15J" type="song">
+				<Title>It Girl</Title>
+				<TrackNumber>10</TrackNumber>
+				<Length>4:49</Length>
+				<Composers>Pharrell Williams</Composers>
+			</Song>
+		</Songs>
+	</Album>
+</Favorite_Albums>

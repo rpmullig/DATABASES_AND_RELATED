@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<!-- all images taken from google play -->
+
+<!DOCTYPE inventory [
+	<!ELEMENT inventory (artist+)>
+	<!ELEMENT artist (artistName, artistCountry, groupNames?, careerStart, careerEnd?, album)>
+		<!ELEMENT artistName (#PCDATA)>
+		<!ATTLIST artistName artistType (solo | group) #REQUIRED>
+		<!ELEMENT artistCountry (#PCDATA)>
+		<!ELEMENT groupNames (#PCDATA)>
+		<!ELEMENT careerStart (#PCDATA)>
+		<!ELEMENT careerEnd (#PCDATA)>
+		<!ELEMENT album (albumName, albumCover, producers?, mixers?, masterEngineers?, label, releaseInformation, trackList)>
+			<!ELEMENT albumName (#PCDATA)>
+			<!ATTLIST albumName albumCategory (Grammy_Nominee|Grammy_Winner|Personal_Favorite) #REQUIRED>
+			<!ELEMENT albumCover (#PCDATA)>
+			<!ELEMENT producers (#PCDATA)>
+			<!ELEMENT mixers (#PCDATA)>
+			<!ELEMENT masterEngineers (#PCDATA)>
+			<!ELEMENT label (#PCDATA)>
+			<!ELEMENT releaseInformation (releaseData*)>
+				<!ELEMENT releaseData (releaseDate?, recordLabel?, recordLabelCatalogNumber?, barCodeNumber?, country?, format?)>
+					<!ELEMENT releaseDate (#PCDATA)>
+					<!ELEMENT recordLabel (#PCDATA)>
+					<!ELEMENT recordLabelCatalogNumber (#PCDATA)>
+					<!ELEMENT barCodeNumber (#PCDATA)>
+					<!ELEMENT country (#PCDATA)>
+					<!ELEMENT format (#PCDATA)>
+			<!ELEMENT trackList (song*)>
+				<!ELEMENT song (songName, songLength, composers, songNumber)>
+					<!ELEMENT songName (#PCDATA)>
+					<!ELEMENT songLength (#PCDATA)>
+					<!ELEMENT composers (#PCDATA)>
+					<!ELEMENT songNumber (#PCDATA)>
+	]>
+	
+	
+<inventory>
+	<artist>
+		<artistName artistType="group">Backstreet Boys</artistName>
+		<artistCountry>US</artistCountry>
+		<groupNames>A. J. McLean, Howie Dorough, Nick Carter, Kevin Richardson, and Brian Littrell</groupNames>
+		<careerStart>1993</careerStart>
+		<album>
+			<albumName albumCategory="Personal_Favorite">Millenium</albumName>
+			<albumCover>Album_Images/Millennium.jpg</albumCover>
+			<label>Jive</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>4/28/1999</releaseDate>
+					<recordLabel>Jive</recordLabel>
+				<recordLabelCatalogNumber>AVCZ-95118</recordLabelCatalogNumber>
+				<barCodeNumber>4988064951185</barCodeNumber>
+				<country>JP</country>
+				<format>CD</format>
+			</releaseData>
+				<releaseData>
+					<releaseDate>5/18/1999</releaseDate>
+					<recordLabel>Jive</recordLabel>
+					<recordLabelCatalogNumber>01241-41672-2,D128753</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>5/18/1999</releaseDate>
+					<recordLabel>Jive</recordLabel>
+					<recordLabelCatalogNumber>01241-41672-2</recordLabelCatalogNumber>
+					<barCodeNumber>12414167224</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>5/1/1999</releaseDate>
+					<recordLabel>Jive</recordLabel>
+					<recordLabelCatalogNumber>523572</recordLabelCatalogNumber>
+					<barCodeNumber>9399700066401</barCodeNumber>
+					<country>AU</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/21/1999</releaseDate>
+					<recordLabel>Jive</recordLabel>
+					<recordLabelCatalogNumber>FRCD20589</recordLabelCatalogNumber>
+					<country>SG</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/21/1999</releaseDate>
+					<recordLabel>Jive</recordLabel>
+					<recordLabelCatalogNumber>523222</recordLabelCatalogNumber>
+					<barCodeNumber>5013705232220</barCodeNumber>
+					<country>GB</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>10/18/2000</releaseDate>
+					<recordLabel>Jive</recordLabel>
+					<recordLabelCatalogNumber>ZJCI-10015</recordLabelCatalogNumber>
+					<barCodeNumber>4544180100151</barCodeNumber>
+					<country>JP</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2007</releaseDate>
+					<recordLabel>Jive</recordLabel>
+					<recordLabelCatalogNumber>82876-53560-2,BVCM-37895</recordLabelCatalogNumber>
+					<barCodeNumber>4988017648544</barCodeNumber>
+					<country>JP</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>2/10/2010</releaseDate>
+					<recordLabel>Jive</recordLabel>
+					<recordLabelCatalogNumber>[none]</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>US</country>
+					<format>Digital Media</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>Larger Than Life</songName>
+					<songLength>3:52</songLength>
+					<composers>Brian Littrell / Kristian Lundin / Max Martin</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>I Want It That Way</songName>
+					<songLength>3:33</songLength>
+					<composers>Andreas Carlsson / Max Martin</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Show Me the Meaning of Being Lonely</songName>
+					<songLength>3:54</songLength>
+					<composers>Herbert Crichlow / Max Martin</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>It's Gotta Be You</songName>
+					<songLength>2:55</songLength>
+					<composers>Robert John "Mutt" Lange / Max Martin</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>I Need You Tonight</songName>
+					<songLength>4:25</songLength>
+					<composers>Andrew Fromm</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Don't Want You Back</songName>
+					<songLength>3:25</songLength>
+					<composers>Max Martin</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>Don't Wanna Lose You Now</songName>
+					<songLength>3:54</songLength>
+					<composers>Max Martin</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>The One</songName>
+					<songLength>3:46</songLength>
+					<composers>Brian Littrell / Max Martin</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Back to Your Heart</songName>
+					<songLength>4:21</songLength>
+					<composers>Gary Baker / Jason Blume / Kevin Richardson</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>Spanish Eyes</songName>
+					<songLength>3:53</songLength>
+					<composers>Andrew Fromm / Sandy Linzer</composers>
+					<songNumber>10</songNumber>
+				</song>
+				<song>
+					<songName>No One Else Comes Close</songName>
+					<songLength>3:42</songLength>
+					<composers>Gary Baker / Joe / Wayne Perry</composers>
+					<songNumber>11</songNumber>
+				</song>
+				<song>
+					<songName>The Perfect Fan</songName>
+					<songLength>4:13</songLength>
+					<composers>Brian Littrell</composers>
+					<songNumber>12</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="solo">Phil Collins</artistName>
+		<artistCountry>UK</artistCountry>
+		<careerStart>1976</careerStart>
+		<album>
+			<albumName albumCategory="Personal_Favorite">Face Value</albumName>
+			<albumCover>Album_Images/face_value.jpg</albumCover>
+			<label>Face Value</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>6/3/1988</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>XSD 16029</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>CA</country>
+					<format>12" Vinyl</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/3/1988</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>WE 351,WEA 99 143</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>XE</country>
+					<format>12" Vinyl</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/3/1988</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>2292-54939-2</recordLabelCatalogNumber>
+					<barCodeNumber>22925493927</barCodeNumber>
+					<country>DE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/3/1988</releaseDate>
+					<recordLabel>Virgin</recordLabel>
+					<recordLabelCatalogNumber>V2185</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>GB</country>
+					<format>12" Vinyl</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/3/1988</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>CS 16029</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>US</country>
+					<format>Cassette</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/3/1988</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>SD 16029</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>US</country>
+					<format>12" Vinyl</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/5/1987</releaseDate>
+					<recordLabel>Virgin</recordLabel>
+					<recordLabelCatalogNumber>CDV2185</recordLabelCatalogNumber>
+					<barCodeNumber>77778632528</barCodeNumber>
+					<country>GB</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>7/7/1987</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>16029-2</recordLabelCatalogNumber>
+					<barCodeNumber>75678148026</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/1/1988</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>16029-2</recordLabelCatalogNumber>
+					<barCodeNumber>22925493927</barCodeNumber>
+					<country>DE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/7/1994</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>82520-2</recordLabelCatalogNumber>
+					<barCodeNumber>75678252020</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>7/2/1994</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>AFZ 084</recordLabelCatalogNumber>
+					<barCodeNumber>780014208424</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>7/5/1994</releaseDate>
+					<recordLabel>Atlantic</recordLabel>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>US</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>M216029-2</recordLabelCatalogNumber>
+					<barCodeNumber>22925493927</barCodeNumber>
+					<country>BR</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>CD 16029</recordLabelCatalogNumber>
+					<barCodeNumber>75678148026</barCodeNumber>
+					<country>CA</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>16029-2,299 143</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>XE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabel>Atlantic</recordLabel>
+					<country>US</country>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabel>Atlantic</recordLabel>
+					<recordLabelCatalogNumber>16029-2,299 143</recordLabelCatalogNumber>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>XE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabel>Atlantic</recordLabel>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>In the Air Tonight</songName>
+					<songLength>5:36</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>This Must Be Love</songName>
+					<songLength>3:56</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Behind the Lines</songName>
+					<songLength>3:53</songLength>
+					<composers>Tony Banks / Phil Collins / Mike Rutherford</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>The Roof Is Leaking</songName>
+					<songLength>3:18</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>Droned</songName>
+					<songLength>2:50</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Hand in Hand</songName>
+					<songLength>5:23</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>I Missed Again</songName>
+					<songLength>3:46</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>You Know What I Mean</songName>
+					<songLength>2:33</songLength>
+					<composers>Phil Collins / Mark Mancina</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Thunder and Lightning</songName>
+					<songLength>4:13</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>I'm Not Moving</songName>
+					<songLength>2:35</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>10</songNumber>
+				</song>
+				<song>
+					<songName>If Leaving Me Is Easy</songName>
+					<songLength>4:55</songLength>
+					<composers>Phil Collins</composers>
+					<songNumber>11</songNumber>
+				</song>
+				<song>
+					<songName>Tomorrow Never Knows</songName>
+					<songLength>4:47</songLength>
+					<composers>John Lennon / Paul McCartney</composers>
+					<songNumber>12</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="solo">Ed Sheeren</artistName>
+		<artistCountry>UK</artistCountry>
+		<careerStart>2011</careerStart>
+		<album>
+			<albumName albumCategory="Grammy_Nominee">X</albumName>
+			<albumCover>Album_Images/X.jpg</albumCover>
+			<producers>Jeff Bhasker, Benny Blanco, Jake Gosling, Johnny McDaid, Rick Rubin &amp; Pharrell Williams, </producers>
+			<mixers>Andrew Coleman, Jake Gosling, Matty Green, William Hicks, Tyler Sam Johnson, Jason Lader, Johnny McDaid, Chris Sclafani, Mark Stent, Geoff Swan</mixers>
+			<masterEngineers>Stuart Hawkes</masterEngineers>
+			<label>Atlantic</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<country>AU</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<country>DE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<country>NZ</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/23/2014</releaseDate>
+					<country>XW</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<recordLabel>Asylum Records</recordLabel>
+					<country>AU</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<recordLabel>Atlantic Records UK</recordLabel>
+					<barCodeNumber>825646285037</barCodeNumber>
+					<country>AT</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<barCodeNumber>825646285037</barCodeNumber>
+					<country>DE</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<barCodeNumber>825646285037</barCodeNumber>
+					<country>CH</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<recordLabel>Warner Music UK Ltd.</recordLabel>
+					<barCodeNumber>825646285891</barCodeNumber>
+					<country>IT</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<recordLabel>Atlantic Records UK</recordLabel>
+					<barCodeNumber>825646285891</barCodeNumber>
+					<country>US</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<recordLabel>Asylum Records</recordLabel>
+					<country>US</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/20/2014</releaseDate>
+					<recordLabel>Asylum Records</recordLabel>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/23/2014</releaseDate>
+					<recordLabel>Warner Music UK Ltd. </recordLabel>
+					<recordLabelCatalogNumber>825646285907</recordLabelCatalogNumber>
+					<barCodeNumber>825646285907</barCodeNumber>
+					<country>XE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/23/2014</releaseDate>
+					<recordLabel>Asylum Records</recordLabel>
+					<recordLabelCatalogNumber>825646285860</recordLabelCatalogNumber>
+					<barCodeNumber>825646285860</barCodeNumber>
+					<country>GB</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/23/2014</releaseDate>
+					<recordLabel>Atlantic </recordLabel>
+					<recordLabelCatalogNumber>543295-2</recordLabelCatalogNumber>
+					<barCodeNumber>825646285907</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>One</songName>
+					<songLength>4:12</songLength>
+					<composers>Ed Sheeran</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>I'm a Mess</songName>
+					<songLength>4:04</songLength>
+					<composers>Ed Sheeran</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Sing</songName>
+					<songLength>3:55</songLength>
+					<composers>Ed Sheeran / Pharrell Williams</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>Don't</songName>
+					<songLength>3:39</songLength>
+					<composers>Benjamin Levin / Ed Sheeran</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>Nina</songName>
+					<songLength>3:45</songLength>
+					<composers>Johnny McDaid / Ed Sheeran</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Photograph</songName>
+					<songLength>4:18</songLength>
+					<composers>Johnny McDaid / Ed Sheeran</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>Bloodstream</songName>
+					<songLength>5:00</songLength>
+					<composers>Gary Lightbody / Johnny McDaid / Rudimental / Ed Sheeran</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>Tenerife Sea</songName>
+					<songLength>4:01</songLength>
+					<composers>Johnny McDaid / Ed Sheeran / Foy Vance</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Runaway</songName>
+					<songLength>3:25</songLength>
+					<composers>Ed Sheeran / Pharrell Williams</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>The Man</songName>
+					<songLength>4:10</songLength>
+					<composers>Ed Sheeran</composers>
+					<songNumber>10</songNumber>
+				</song>
+				<song>
+					<songName>Thinking Out Loud</songName>
+					<songLength>4:41</songLength>
+					<composers>Ed Sheeran / Amy Wadge</composers>
+					<songNumber>11</songNumber>
+				</song>
+				<song>
+					<songName>Afire Love</songName>
+					<songLength>5:16</songLength>
+					<composers>Johnny McDaid / Ed Sheeran / Foy Vance</composers>
+					<songNumber>12</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="solo">Taylor Swift</artistName>
+		<artistCountry>US</artistCountry>
+		<careerStart>2006</careerStart>
+		<album>
+			<albumName albumCategory="Personal_Favorite">Speak Now</albumName>
+			<albumCover>Album_Images/Speak_now.jpg</albumCover>
+			<label>Big Machine Records</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>10/25/2010</releaseDate>
+					<recordLabel>Big Machine</recordLabel>
+					<recordLabelCatalogNumber>602527493947</recordLabelCatalogNumber>
+					<barCodeNumber>602527493947</barCodeNumber>
+					<country>GB</country>
+					<format>2×CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>10/25/2010</releaseDate>
+					<recordLabel>Big Machine</recordLabel>
+					<recordLabelCatalogNumber>602527493954</recordLabelCatalogNumber>
+					<barCodeNumber>602527493954</barCodeNumber>
+					<country>GB</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>10/25/2010</releaseDate>
+					<recordLabel>Big Machine</recordLabel>
+					<recordLabelCatalogNumber>BTMSR0300A</recordLabelCatalogNumber>
+					<barCodeNumber>843930003976</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>10/25/2010</releaseDate>
+					<recordLabel>Universal Music Group International</recordLabel>
+					<recordLabelCatalogNumber>BTMSR0300B</recordLabelCatalogNumber>
+					<barCodeNumber>843930003983</barCodeNumber>
+					<country>US</country>
+					<format>2×CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>11/10/2010</releaseDate>
+					<recordLabel>Big Machine</recordLabel>
+					<recordLabelCatalogNumber>UICO-1200</recordLabelCatalogNumber>
+					<barCodeNumber>4988005637925</barCodeNumber>
+					<country>JP</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>11/10/2010</releaseDate>
+					<recordLabel>Big Machine</recordLabel>
+					<recordLabelCatalogNumber>UICO-1201,UICO-1202</recordLabelCatalogNumber>
+					<barCodeNumber>4988005637932</barCodeNumber>
+					<country>JP</country>
+					<format>CD + Enhanced CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>7/2/2010</releaseDate>
+					<recordLabel>Big Machine</recordLabel>
+					<barCodeNumber>602527540245</barCodeNumber>
+					<country>XE</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>1/17/2012</releaseDate>
+					<recordLabel>Big Machine</recordLabel>
+					<recordLabelCatalogNumber>BMRTS0350A</recordLabelCatalogNumber>
+					<barCodeNumber>843930006038</barCodeNumber>
+					<country>US</country>
+					<format>2×CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabel>Big Machine</recordLabel>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>Mine</songName>
+					<songLength>3:51</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>Sparks Fly</songName>
+					<songLength>4:22</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Back to December</songName>
+					<songLength>4:55</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>Speak Now</songName>
+					<songLength>4:03</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>Dear John</songName>
+					<songLength>6:45</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Mean</songName>
+					<songLength>3:58</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>The Story of Us</songName>
+					<songLength>4:27</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>Never Grow Up</songName>
+					<songLength>4:52</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Enchanted</songName>
+					<songLength>5:53</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>Better Than Revenge</songName>
+					<songLength>3:40</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>10</songNumber>
+				</song>
+				<song>
+					<songName>Innocent</songName>
+					<songLength>5:03</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>11</songNumber>
+				</song>
+				<song>
+					<songName>Haunted</songName>
+					<songLength>4:05</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>12</songNumber>
+				</song>
+				<song>
+					<songName>Last Kiss</songName>
+					<songLength>6:09</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>13</songNumber>
+				</song>
+				<song>
+					<songName>Long Live</songName>
+					<songLength>5:17</songLength>
+					<composers>Taylor Swift</composers>
+					<songNumber>14</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="solo">Beck Hansen</artistName>
+		<artistCountry>US</artistCountry>
+		<careerStart>1993</careerStart>
+		<album>
+			<albumName albumCategory="Grammy_Winner">Morning Phase</albumName>
+			<albumCover>Album_Images/Morning_Phase.jpg</albumCover>
+			<producers>Beck Hansen</producers>
+			<mixers>Tom Elmhirst, David Greenbaum, Cole Marsden Greif-Neill, Florian Lagatta, Robbie Nelson, Darrell Thorp, Cassidy Turbin, Joe Visciano</mixers>
+			<masterEngineers>Bob Ludwig</masterEngineers>
+			<label>Capitol Records</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>7/6/2014</releaseDate>
+					<recordLabel>Asylum Records</recordLabel>
+					<recordLabelCatalogNumber>2-564628</recordLabelCatalogNumber>
+					<barCodeNumber>825646285860</barCodeNumber>
+					<country>CA</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>2/21/2014</releaseDate>
+					<recordLabel>Fonograf Records</recordLabel>
+					<barCodeNumber>[none]</barCodeNumber>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>2/25/2014</releaseDate>
+					<recordLabel>Fonograf Records</recordLabel>
+					<recordLabelCatalogNumber>3764975</recordLabelCatalogNumber>
+					<barCodeNumber>602537649754</barCodeNumber>
+					<country>AU</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>2/25/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<recordLabelCatalogNumber>B001983802</recordLabelCatalogNumber>
+					<barCodeNumber>602537649754</barCodeNumber>
+					<country>CA</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>2/25/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<recordLabelCatalogNumber>602537649754</recordLabelCatalogNumber>
+					<barCodeNumber>602537649754</barCodeNumber>
+					<country>XE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>2/25/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<recordLabelCatalogNumber>B001983901</recordLabelCatalogNumber>
+					<barCodeNumber>602537649747</barCodeNumber>
+					<country>US</country>
+					<format>12" Vinyl</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>2/25/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<recordLabelCatalogNumber>B001983802</recordLabelCatalogNumber>
+					<barCodeNumber>602537649754</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>7/6/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>US</country>
+					<format>Digital Media</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>Cycle</songName>
+					<songLength>0:40</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>Morning</songName>
+					<songLength>5:19</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Heart Is a Drum</songName>
+					<songLength>4:31</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>Say Goodbye</songName>
+					<songLength>3:29</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>Blue Moon</songName>
+					<songLength>4:02</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Unforgiven</songName>
+					<songLength>4:34</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>Wave</songName>
+					<songLength>3:40</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>Don't Let It Go</songName>
+					<songLength>3:09</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Blackbird Chain</songName>
+					<songLength>4:26</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>Phase</songName>
+					<songLength>1:03</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>10</songNumber>
+				</song>
+				<song>
+					<songName>Turn Away</songName>
+					<songLength>3:05</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>11</songNumber>
+				</song>
+				<song>
+					<songName>Country Down</songName>
+					<songLength>4:00</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>12</songNumber>
+				</song>
+				<song>
+					<songName>Waking Light</songName>
+					<songLength>5:02</songLength>
+					<composers>Beck Hansen</composers>
+					<songNumber>13</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="solo">Beyonce</artistName>
+		<artistCountry>US</artistCountry>
+		<careerStart>2002</careerStart>
+		<album>
+			<albumName albumCategory="Grammy_Nominee">Beyonce'</albumName>
+			<albumCover>Album_Images/Beyonce%27.jpg</albumCover>
+			<producers>Ammo, Boots, James Fauntleroy, Noel "Detail" Fisher, Jerome Harmon, HitBoy, Beyoncé Knowles, Terius "The Dream" Nash, Caroline Polachek, Rey Reel, Noah 40 Shebib, Ryan Tedder, Timbaland, Justin Timberlake, Key Wane, Pharrell Williams, Patrick Wimberly</producers>
+			<mixers>Boots, Noel Cadastre, Noel Gadget Campbell, Rob Cohen, Andrew Coleman, Chris Godbey, Justin Hergett, James Krausse, Mike Larson, Jonathan Lee, Tony Maserati, Ann Mincieli, Caroline Polachek, Andrew Scheps, Bart Schoudel, Noah 40 Shebib, Ryan Tedder, Stuart White, Jordan DJ Swivel Young</mixers>
+			<masterEngineers>Tom Coyne, James Krausse, Aya Merrill</masterEngineers>
+			<label>Columbia Records</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>12/13/2013</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<country>XW</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>12/20/2013</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<barCodeNumber>888430325128</barCodeNumber>
+					<country>XE</country>
+					<format>CD + DVD-Video</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>12/20/2013</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>88843032512</recordLabelCatalogNumber>
+					<barCodeNumber>888430325128</barCodeNumber>
+					<country>US</country>
+					<format>CD + DVD-Video</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>2/12/2014</releaseDate>
+					<recordLabel>Sony</recordLabel>
+					<recordLabelCatalogNumber>88843032512</recordLabelCatalogNumber>
+					<barCodeNumber>4547366213270</barCodeNumber>
+					<country>JP</country>
+					<format>CD + DVD-Video</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>4/1/2014</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>SICP-4090,SICP-4091</recordLabelCatalogNumber>
+					<barCodeNumber>4547366215236</barCodeNumber>
+					<country>JP</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>11/24/2014</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>SIXX02354B00Z</recordLabelCatalogNumber>
+					<barCodeNumber>4547366231373</barCodeNumber>
+					<country>JP</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>11/24/2014</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>SIXX03191B00Z</recordLabelCatalogNumber>
+					<country>US</country>
+					<format>4×Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>11/24/2014</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<country>US</country>
+					<format>2×CD + 2×DVD-Video</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>11/24/2014</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<barCodeNumber>886444955379</barCodeNumber>
+					<country>XW</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>1/21/2015</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<barCodeNumber>4547366232189</barCodeNumber>
+					<country>JP</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>1/21/2015</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>SIXX03238B00Z</recordLabelCatalogNumber>
+					<barCodeNumber>4547366232196</barCodeNumber>
+					<country>JP</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>SIXX03239B00Z</recordLabelCatalogNumber>
+					<barCodeNumber>888430453425</barCodeNumber>
+					<country>US</country>
+					<format>CD + Blu-ray</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<recordLabelCatalogNumber>88843045342</recordLabelCatalogNumber>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>Pretty Hurts</songName>
+					<songLength>4:17</songLength>
+					<composers>Joshua Coleman / Sia Furler / Beyoncé Knowles</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>Ghost/Haunted</songName>
+					<songLength>6:09</songLength>
+					<composers>Beyoncé Knowles</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Drunk in Love</songName>
+					<songLength>5:23</songLength>
+					<composers>Shawn Carter / Rasool Diaz / Noel "Detail" Fisher / Jerome Harmon / Beyoncé Knowles / Andre Proctor / Brian Soko</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>Blow</songName>
+					<songLength>5:09</songLength>
+					<composers>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin Timberlake / Pharrell Williams</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>No Angel</songName>
+					<songLength>3:48</songLength>
+					<composers>James Fauntleroy / Beyoncé Knowles / Caroline Polachek</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Yoncé/Partition</songName>
+					<songLength>5:19</songLength>
+					<composers>Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin Timberlake / Dwane Weir</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>Jealous</songName>
+					<songLength>3:04</songLength>
+					<composers>Lyrica Anderson / Rasool Diaz / Noel "Detail" Fisher / Beyoncé Knowles / Andre Proctor / Brian Soko</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>Rocket</songName>
+					<songLength>6:31</songLength>
+					<composers>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Miguel Jontel Pimentel / Justin Timberlake</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Mine</songName>
+					<songLength>6:18</songLength>
+					<composers>Sidney "Omen" Brown / Aubrey "Drake" Graham / Beyoncé Knowles / Noah Shebib / Jordan Kenneth Cooke Ullman / Dwane Weir</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>XO</songName>
+					<songLength>3:35</songLength>
+					<composers>Beyoncé Knowles / Terius "The-Dream" Nash / Ryan Tedder</composers>
+					<songNumber>10</songNumber>
+				</song>
+				<song>
+					<songName>***Flawless</songName>
+					<songLength>4:10</songLength>
+					<composers>Chauncey Hollis / Beyoncé Knowles / Rashad Muhammad / Terius "The-Dream" Nash / Rey Reel</composers>
+					<songNumber>11</songNumber>
+				</song>
+				<song>
+					<songName>Superpower</songName>
+					<songLength>4:36</songLength>
+					<composers>Beyoncé Knowles / Frank Ocean / Pharrell Williams</composers>
+					<songNumber>12</songNumber>
+				</song>
+				<song>
+					<songName>Heaven</songName>
+					<songLength>3:50</songLength>
+					<composers>Beyoncé Knowles</composers>
+					<songNumber>13</songNumber>
+				</song>
+				<song>
+					<songName>Blue/Grown Woman</songName>
+					<songLength>4:26</songLength>
+					<composers>Jerome Harmon / Beyoncé Knowles / Garland Mosley / Terius "The-Dream" Nash / D. Pearson / Kelly Sheehan</composers>
+					<songNumber>14</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="solo">Sam Smith</artistName>
+		<artistCountry>UK</artistCountry>
+		<careerStart>2012</careerStart>
+		<album>
+			<albumName albumCategory="Grammy_Nominee">In the Lonely Hour</albumName>
+			<albumCover>Album_Images/In_The_Lonely_Hour.jpg</albumCover>
+			<producers>Steve Fitzmaurice, Komi, Howard Lawrence, Zane Lowe, Mojam, Jimmy Napes, Naughty Boy, Fraser T. Smith, Two Inch Punch, Eg White</producers>
+			<mixers>Michael Angelo, Graham Archer, Steve Fitzmaurice, Simon Hale, Darren Heelis, James Murray, Jimmy Napes, Mustafa Omer, Dan Parry, Steve Price, Eg White</mixers>
+			<masterEngineers>Tom Coyne, Stuart Hawkes</masterEngineers>
+			<label>Capitol Records</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>5/23/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<country>NZ</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>5/26/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<recordLabelCatalogNumber>3769173</recordLabelCatalogNumber>
+					<barCodeNumber>602537691739</barCodeNumber>
+					<country>GB</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/17/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<country>US</country>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/17/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<recordLabelCatalogNumber>B002057502</recordLabelCatalogNumber>
+					<barCodeNumber>602537799251</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/17/2014</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<barCodeNumber>[none]</barCodeNumber>
+					<country>XW</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>7/6/2015</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<recordLabelCatalogNumber>B002061102</recordLabelCatalogNumber>
+					<barCodeNumber>602537802371</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>1/21/2015</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<recordLabelCatalogNumber>UICC-10015</recordLabelCatalogNumber>
+					<barCodeNumber>4988005867308</barCodeNumber>
+					<country>JP</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>1/1/2015</releaseDate>
+					<recordLabel>Capital Records</recordLabel>
+					<country>JP</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate/>
+					<barCodeNumber>602547260734</barCodeNumber>
+					<format>CD</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>Money On My Mind</songName>
+					<songLength>3:13</songLength>
+					<composers>Ben Ash / Sam Smith</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>Good Thing</songName>
+					<songLength>3:21</songLength>
+					<composers>Sam Smith / Eg White</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Stay With Me</songName>
+					<songLength>2:52</songLength>
+					<composers>James Napier / William Phillips / Sam Smith</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>Leave Your Lover</songName>
+					<songLength>3:08</songLength>
+					<composers>Simon Aldred / Sam Smith</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>I'm Not The Only One</songName>
+					<songLength>3:59</songLength>
+					<composers>James Napier / Sam Smith</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>I've Told You Now</songName>
+					<songLength>3:30</songLength>
+					<composers>Sam Smith / Eg White</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>Like I Can</songName>
+					<songLength>2:47</songLength>
+					<composers>Matt Prime / Sam Smith</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>Life Support</songName>
+					<songLength>2:53</songLength>
+					<composers>Ben Ash / Sam Smith</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Not In That Way</songName>
+					<songLength>2:52</songLength>
+					<composers>Fraser T. Smith / Sam Smith</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>Lay Me Down</songName>
+					<songLength>4:15</songLength>
+					<composers>James Napier / Elvin Smith / Sam Smith</composers>
+					<songNumber>10</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="solo">Pharrell Williams</artistName>
+		<artistCountry>US</artistCountry>
+		<careerStart>2006</careerStart>
+		<album>
+			<albumName albumCategory="Grammy_Nominee">Girl</albumName>
+			<albumCover>Album_Images/Girl.jpg</albumCover>
+			<producers>Pharrell Williams</producers>
+			<mixers>Leslie Brathwaite, Adrian Breakspear, Andrew Coleman, Jimmy Douglas, Hart Gunther, Mick Guzauski, Florian Lagatta, Mike Larson, Stephanie McNally, Alan Meyerson, Ann Mincieli, Kenta Yonesaka</mixers>
+			<masterEngineers>Tom Coyne, Stuart Hawkes</masterEngineers>
+			<label>Columbia Records</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>3/3/2014</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>88843055072</recordLabelCatalogNumber>
+					<barCodeNumber>888430550728</barCodeNumber>
+					<country>XE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>3/3/2014</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>88843055072</recordLabelCatalogNumber>
+					<barCodeNumber>888430550728</barCodeNumber>
+					<country>MX</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>3/3/2014</releaseDate>
+					<recordLabel>Columbia</recordLabel>
+					<recordLabelCatalogNumber>88843055072</recordLabelCatalogNumber>
+					<barCodeNumber>888430550728</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>3/3/2014</releaseDate>
+					<recordLabel>Back Lot Music</recordLabel>
+					<barCodeNumber>886444495165</barCodeNumber>
+					<country>XW</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>4/30/2014</releaseDate>
+					<recordLabel>Sony Records International</recordLabel>
+					<barCodeNumber>4547366216660</barCodeNumber>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>4/18/2014</releaseDate>
+					<recordLabel>[no label]</recordLabel>
+					<country>JP</country>
+					<format>2×12" Vinyl</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>Marilyn Monroe</songName>
+					<songLength>5:51</songLength>
+					<composers>Ann Marie Calhoun / Pharrell Williams</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>Brand New</songName>
+					<songLength>4:31</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Hunter</songName>
+					<songLength>4:00</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>Gush</songName>
+					<songLength>3:54</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>Happy [From Despicable Me 2]</songName>
+					<songLength>3:52</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Come Get It Bae</songName>
+					<songLength>3:21</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>Gust of Wind</songName>
+					<songLength>4:45</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>Lost Queen</songName>
+					<songLength>7:56</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Who You Are</songName>
+					<songLength>3:56</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>It Girl</songName>
+					<songLength>4:49</songLength>
+					<composers>Pharrell Williams</composers>
+					<songNumber>10</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="solo">Bruno Mars</artistName>
+		<artistCountry>US</artistCountry>
+		<careerStart>2009</careerStart>
+		<album>
+			<albumName albumCategory="Personal_Favorite">Doo-Wops &amp; Hooligans</albumName>
+			<albumCover>Album_Images/Doo-Wop%20%26%20Hooligans.jpg</albumCover>
+			<label>Elektra</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>10/4/2010</releaseDate>
+					<recordLabel>Elektra</recordLabel>
+					<recordLabelCatalogNumber>2-525393</recordLabelCatalogNumber>
+					<barCodeNumber>75678912153</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>10/5/2010</releaseDate>
+					<recordLabel>Elektra</recordLabel>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>10/5/2010</releaseDate>
+					<recordLabel>Elektra</recordLabel>
+					<barCodeNumber>75679956484</barCodeNumber>
+					<country>XW</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>7/2/2010</releaseDate>
+					<recordLabel>Elektra</recordLabel>
+					<recordLabelCatalogNumber>7567883304</recordLabelCatalogNumber>
+					<country>XE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>1/14/2011</releaseDate>
+					<recordLabel>Elektra</recordLabel>
+					<recordLabelCatalogNumber>7567883325</recordLabelCatalogNumber>
+					<barCodeNumber>75678833250</barCodeNumber>
+					<country>DE</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>1/17/2011</releaseDate>
+					<recordLabel>Elektra</recordLabel>
+					<recordLabelCatalogNumber>7567883325</recordLabelCatalogNumber>
+					<barCodeNumber>7567883325</barCodeNumber>
+					<country>GB</country>
+					<format>CD</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>Grenade</songName>
+					<songLength>3:42</songLength>
+					<composers>Brody Brown / Claude Kelly / Philip Lawrence / Ari Levine / Bruno Mars / Andrew Wyatt</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>Just the Way You Are</songName>
+					<songLength>3:40</songLength>
+					<composers>Khari Cain / Philip Lawrence / Ari Levine / Bruno Mars / Khalil Walton</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Our First Time</songName>
+					<songLength>4:03</songLength>
+					<composers>Philip Lawrence / Ari Levine / Bruno Mars /Dwayne "Supa Dups" Chin Quee</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>Runaway Baby</songName>
+					<songLength>2:28</songLength>
+					<composers>Brody Brown / Philip Lawrence / Ari Levine / Bruno Mars</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>The Lazy Song</songName>
+					<songLength>3:15</songLength>
+					<composers>Philip Lawrence / Ari Levine / Bruno Mars</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Marry You</songName>
+					<songLength>3:50</songLength>
+					<composers>Philip Lawrence / Ari Levine / Bruno Mars</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>Talking to the Moon</songName>
+					<songLength>3:37</songLength>
+					<composers>Jeff Bhasker / Philip Lawrence / Ari Levine / Bruno Mars / Albert Winkler</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>Liquor Store Blues</songName>
+					<songLength>3:49</songLength>
+					<composers>Mitchum Chin / Philip Lawrence / Ari Levine /Damian "Junior Gong" Marley / Bruno Mars /Thomas Pentz / Dwayne "Supa Dups" Chin Quee</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Count on Me</songName>
+					<songLength>3:17</songLength>
+					<composers>Philip Lawrence / Ari Levine / Bruno Mars</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>The Other Side</songName>
+					<songLength>3:47</songLength>
+					<composers>Brody Brown / Bobby Ray Simmons Jr. / Philip Lawrence / Ari Levine / Bruno Mars</composers>
+					<songNumber>10</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+	<artist>
+		<artistName artistType="group">Walk The Moon</artistName>
+		<artistCountry>US</artistCountry>
+		<groupNames>Nicholas Petricca, Kevin Ray, Sean Waugaman, and Eli Maiman</groupNames>
+		<careerStart>2008</careerStart>
+		<album>
+			<albumName albumCategory="Personal_Favorite">Walk the Moon</albumName>
+			<albumCover>Album_Images/Walk_The_moon.jpg</albumCover>
+			<label>RCA</label>
+			<releaseInformation>
+				<releaseData>
+					<releaseDate>6/15/2012</releaseDate>
+					<recordLabel>RCA</recordLabel>
+					<country>US</country>
+					<format>Digital Media</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>6/19/2012</releaseDate>
+					<recordLabel>RCA</recordLabel>
+					<recordLabelCatalogNumber>88691‒96782‒2</recordLabelCatalogNumber>
+					<barCodeNumber>886919678222</barCodeNumber>
+					<country>US</country>
+					<format>CD</format>
+				</releaseData>
+				<releaseData>
+					<releaseDate>5/10/2013</releaseDate>
+					<recordLabel>RCA</recordLabel>
+					<recordLabelCatalogNumber>88883732712</recordLabelCatalogNumber>
+					<barCodeNumber>8888373271</barCodeNumber>
+					<country>AU</country>
+					<format>CD</format>
+				</releaseData>
+			</releaseInformation>
+			<trackList>
+				<song>
+					<songName>Quesadilla</songName>
+					<songLength>3:15</songLength>
+					<composers>Nicholas Petricca</composers>
+					<songNumber>1</songNumber>
+				</song>
+				<song>
+					<songName>Lisa Baby</songName>
+					<songLength>3:52</songLength>
+					<composers>Nicholas Petricca</composers>
+					<songNumber>2</songNumber>
+				</song>
+				<song>
+					<songName>Next in Line</songName>
+					<songLength>3:59</songLength>
+					<composers>Eli Maiman / Nicholas Petricca / Kevin Ray / Sean Waugaman</composers>
+					<songNumber>3</songNumber>
+				</song>
+				<song>
+					<songName>Anna Sun</songName>
+					<songLength>5:21</songLength>
+					<composers>Nicholas Petricca</composers>
+					<songNumber>4</songNumber>
+				</song>
+				<song>
+					<songName>Tightrope</songName>
+					<songLength>3:30</songLength>
+					<composers>Eli Maiman / Nicholas Petricca / Kevin Ray / Sean Waugaman</composers>
+					<songNumber>5</songNumber>
+				</song>
+				<song>
+					<songName>Jenny</songName>
+					<songLength>4:05</songLength>
+					<composers>Nicholas Petricca</composers>
+					<songNumber>6</songNumber>
+				</song>
+				<song>
+					<songName>Shiver Shiver</songName>
+					<songLength>3:52</songLength>
+					<composers>Eli Maiman / Nicholas Petricca / Kevin Ray / Sean Waugaman</composers>
+					<songNumber>7</songNumber>
+				</song>
+				<song>
+					<songName>Lions</songName>
+					<songLength>0:35</songLength>
+					<composers>Eli Maiman / Nicholas Petricca</composers>
+					<songNumber>8</songNumber>
+				</song>
+				<song>
+					<songName>Iscariot</songName>
+					<songLength>5:23</songLength>
+					<composers>Nicholas Petricca</composers>
+					<songNumber>9</songNumber>
+				</song>
+				<song>
+					<songName>Fixin'</songName>
+					<songLength>4:22</songLength>
+					<composers>Eli Maiman / Nicholas Petricca / Kevin Ray / Sean Waugaman</composers>
+					<songNumber>10</songNumber>
+				</song>
+				<song>
+					<songName>I Can Lift a Car</songName>
+					<songLength>4:48</songLength>
+					<composers>Nicholas Petricca</composers>
+					<songNumber>11</songNumber>
+				</song>
+			</trackList>
+		</album>
+	</artist>
+</inventory>

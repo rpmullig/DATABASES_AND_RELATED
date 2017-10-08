@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<INVENTORY xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../Turnin/rpmullig_AmazonInventory6.xsd">
+   <BOOK>
+        <TITLE>Huckleberry Finn</TITLE>
+        <SUBTITLE>Mark Twain Series</SUBTITLE>
+	<AUTHOR>Mark Twain</AUTHOR>
+        <COAUTHOR>none</COAUTHOR>
+        <QUANTITY>298</QUANTITY>
+        <PRICE>5.30</PRICE>
+   </BOOK>
+   <BOOK>
+        <TITLE>The Talisman</TITLE>
+        <AUTHOR>Stephen King</AUTHOR>
+        <COAUTHOR>Peter Straub</COAUTHOR>
+	<COAUTHOR>Stephen King</COAUTHOR>
+        <QUANTITY>1008</QUANTITY>
+        <PRICE>8:40</PRICE>
+   </BOOK>
+   <BOOK>
+        <TITLE>First to Die</TITLE>
+        <AUTHOR>James Patterson</AUTHOR>
+        <QUANTITY>198</QUANTITY>
+        <PRICE>6:10</PRICE>
+   </BOOK>
+   <BOOK>
+        <TITLE>Christine</TITLE>
+	<SUBTITLE>Stephen King Collection</SUBTITLE>
+        <AUTHOR>Stephen King</AUTHOR>
+        <QUANTITY>502</QUANTITY>
+        <PRICE>5:00</PRICE>
+   </BOOK>
+</INVENTORY>

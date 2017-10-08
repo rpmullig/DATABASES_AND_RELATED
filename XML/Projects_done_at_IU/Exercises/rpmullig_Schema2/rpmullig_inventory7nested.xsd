@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="INVENTORY">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="BOOK" minOccurs="0" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="TITLE" type="xsd:string" minOccurs="0" maxOccurs="3"/>
+                            <xsd:element name="AUTHOR" type="xsd:string" minOccurs="0"
+                                maxOccurs="10"/>
+                            <xsd:element name="FORMAT">
+                                <xsd:simpleType>
+                                    <xsd:restriction base="xsd:string">
+                                        <xsd:enumeration value="Hardcover"/>
+                                        <xsd:enumeration value="Softcover"/>
+                                        <xsd:enumeration value="eBook"/>
+                                    </xsd:restriction>
+                                </xsd:simpleType>
+                            </xsd:element>
+                            <xsd:element name="YEAR" type="xsd:positiveInteger"/>
+                            <xsd:element name="PRICE">
+                                <xsd:simpleType>
+                                    <xsd:restriction base="xsd:decimal">
+                                        <xsd:minExclusive value="1"/>
+                                        <xsd:maxExclusive value="5000"/>
+                                    </xsd:restriction>
+                                </xsd:simpleType>
+                            </xsd:element>
+                        </xsd:sequence>
+                        <xsd:attribute name="Instock" type="xsd:string"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

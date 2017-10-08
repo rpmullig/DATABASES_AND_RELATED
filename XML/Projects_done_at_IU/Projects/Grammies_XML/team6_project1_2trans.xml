@@ -1,0 +1,1858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MUSIC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="team6_project1.xsd">
+   <ARTIST>
+      <ARTISTNAME>Beck</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1990s</CAREERSTART>
+      <CAREEREND>2010s</CAREEREND>
+      <GENRE>Pop/Rock, Electronic</GENRE>
+      <ALBUM sku="hw26-K315FL15A">
+         <RATING>7</RATING>
+         <COMMENT>I like the design of the Album</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Winner" type="album">Morning Phase</ALBUMNAME>
+         <ALBUMCOVER>Morning_Phase.jpg</ALBUMCOVER>
+         <IMAGESOURCE>https://en.wikipedia.org/wiki/Morning_Phase</IMAGESOURCE>
+         <PRODUCERS>Beck Hansen</PRODUCERS>
+         <MIXERS>Tom Elmhirst, David Greenbaum, Cole Marsden Greif-Neill, Florian Lagatta, Robbie Nelson, Darrell Thorp, Cassidy Turbin &amp; Joe Visciano</MIXERS>
+         <MASTERENGINEERS>Bob Ludwig</MASTERENGINEERS>
+         <LABEL>Capitol Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>02/21/2014</RELEASEDATE>
+               <RECORDLABEL>Fonograf Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/25/2014</RELEASEDATE>
+               <RECORDLABEL>Fonograf Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3764975</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/25/2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983802</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/25/2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>602537649754</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/25/2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983901</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649747</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/25/2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001983802</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537649754</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>07/06/1905</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A001" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Cycle</SONGNAME>
+               <SONGLENGTH>0:40</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A002" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Morning</SONGNAME>
+               <SONGLENGTH>5:19</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A003" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Heart Is a Drum</SONGNAME>
+               <SONGLENGTH>4:31</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A004" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Say Goodbye</SONGNAME>
+               <SONGLENGTH>3:29</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A005" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Blue Moon</SONGNAME>
+               <SONGLENGTH>4:02</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A006" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Unforgiven</SONGNAME>
+               <SONGLENGTH>4:34</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A007" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Wave</SONGNAME>
+               <SONGLENGTH>3:40</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A008" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Don't Let It Go</SONGNAME>
+               <SONGLENGTH>3:09</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A009" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Blackbird Chain</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A010" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Phase</SONGNAME>
+               <SONGLENGTH>1:03</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A011" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Turn Away</SONGNAME>
+               <SONGLENGTH>3:05</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A012" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Country Down</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A013" albumref="hw26-K315FL15A" type="song">
+               <SONGNAME>Waking Light</SONGNAME>
+               <SONGLENGTH>5:02</SONGLENGTH>
+               <COMPOSERS>Beck Hansen</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Beyoncé</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1990s</CAREERSTART>
+      <CAREEREND>2010s</CAREEREND>
+      <GENRE>R&amp;B</GENRE>
+      <ALBUM sku="hw26-K315FL15B">
+         <RATING>8</RATING>
+         <COMMENT>Powerful singer</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">Beyoncé</ALBUMNAME>
+         <ALBUMCOVER>Beyoncé.jpg</ALBUMCOVER>
+         <IMAGESOURCE>https://en.wikipedia.org/wiki/Beyonc%C3%A9_(album)</IMAGESOURCE>
+         <PRODUCERS>Ammo, Boots, James Fauntleroy, Noel "Detail" Fisher, Jerome Harmon, Hit-Boy, Beyoncé Knowles, Terius "The Dream" Nash, Caroline Polachek, Rey Reel, Noah "40" Shebib, Ryan Tedder, Timbaland, Justin Timberlake, Key Wane, Pharrell Williams &amp; Patrick Wimberly</PRODUCERS>
+         <MIXERS>Boots, Noel Cadastre, Noel "Gadget" Campbell, Rob Cohen, Andrew Coleman, Chris Godbey, Justin Hergett, James Krausse, Mike Larson, Jonathan Lee, Tony Maserati, Ann Mincieli, Caroline Polachek, Andrew Scheps, Bart Schoudel, Noah "40" Shebib, Ryan Tedder, Stuart White &amp; Jordan "DJ Swivel" Young</MIXERS>
+         <MASTERENGINEERS>Tom Coyne, James Krausse &amp; Aya Merrill</MASTERENGINEERS>
+         <LABEL>Columbia Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>12/13/2013</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>12/20/2013</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP), Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843032512</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430325128</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>12/20/2013</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP), Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843032512</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430325128</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/12/2014</RELEASEDATE>
+               <RECORDLABEL>Sony Records International (Japanese TEXTLESS walking eye imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-4090, SICP-4091</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366213270</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>04/01/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX02354B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366215236</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/24/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03191B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366231373</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/24/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/24/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP), Parkwood Entertainment</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD + DVD-Video</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/24/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886444955379</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/21/2015</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03238B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366232189</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/21/2015</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER>SIXX03239B00Z</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366232196</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843045342</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430453425</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD + Blu-ray</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A014" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Pretty Hurts</SONGNAME>
+               <SONGLENGTH>4:17</SONGLENGTH>
+               <COMPOSERS>Joshua Coleman / Sia Furler / Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A015" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Ghost/Haunted</SONGNAME>
+               <SONGLENGTH>6:09</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A016" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Drunk in Love</SONGNAME>
+               <SONGLENGTH>5:23</SONGLENGTH>
+               <COMPOSERS>Shawn Carter / Rasool Diaz / Noel "Detail" Fisher / Jerome Harmon / Beyoncé Knowles / Andre Proctor / Brian Soko</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A017" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Blow</SONGNAME>
+               <SONGLENGTH>5:09</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin Timberlake / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A018" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>No Angel</SONGNAME>
+               <SONGLENGTH>3:48</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Beyoncé Knowles / Caroline Polachek</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A019" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Yoncé/Partition</SONGNAME>
+               <SONGLENGTH>5:19</SONGLENGTH>
+               <COMPOSERS>Jerome Harmon / Beyoncé Knowles / Terius "The-Dream" Nash / Justin Timberlake / Dwane Weir</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A020" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Jealous</SONGNAME>
+               <SONGLENGTH>3:04</SONGLENGTH>
+               <COMPOSERS>Lyrica Anderson / Rasool Diaz / Noel "Detail" Fisher / Beyoncé Knowles / Andre Proctor / Brian Soko</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A021" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Rocket</SONGNAME>
+               <SONGLENGTH>6:31</SONGLENGTH>
+               <COMPOSERS>James Fauntleroy / Jerome Harmon / Beyoncé Knowles / Miguel Jontel Pimentel / Justin Timberlake</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A022" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Mine</SONGNAME>
+               <SONGLENGTH>6:18</SONGLENGTH>
+               <COMPOSERS>Sidney "Omen" Brown / Aubrey "Drake" Graham / Beyoncé Knowles / Noah Shebib / Jordan Kenneth Cooke Ullman / Dwane Weir</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A023" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>XO</SONGNAME>
+               <SONGLENGTH>3:35</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Terius "The-Dream" Nash / Ryan Tedder</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A024" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>***Flawless</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Chauncey Hollis / Beyoncé Knowles / Rashad Muhammad / Terius "The-Dream" Nash / Rey Reel</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A025" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Superpower</SONGNAME>
+               <SONGLENGTH>4:36</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles / Frank Ocean / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A026" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Heaven</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Beyoncé Knowles</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A027" albumref="hw26-K315FL15B" type="song">
+               <SONGNAME>Blue/Grown Woman</SONGNAME>
+               <SONGLENGTH>4:26</SONGLENGTH>
+               <COMPOSERS>Jerome Harmon / Beyoncé Knowles / Garland Mosley / Terius "The-Dream" Nash / D. Pearson / Kelly Sheehan</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Ed Sheeran</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>England</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2000s</CAREERSTART>
+      <CAREEREND>2010s</CAREEREND>
+      <GENRE>Pop/Rock</GENRE>
+      <ALBUM sku="hw26-K315FL15C">
+         <RATING>7</RATING>
+         <COMMENT>I don't like the cover of the album</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">X</ALBUMNAME>
+         <ALBUMCOVER>X.jpg</ALBUMCOVER>
+         <IMAGESOURCE>https://en.wikipedia.org/wiki/X_(Ed_Sheeran_album)</IMAGESOURCE>
+         <PRODUCERS>Jeff Bhasker, Benny Blanco, Jake Gosling, Johnny McDaid, Rick Rubin &amp; Pharrell Williams</PRODUCERS>
+         <MIXERS>Andrew Coleman, Jake Gosling, Matty Green, William Hicks, Tyler Sam Johnson, Jason Lader, Johnny McDaid, Chris Sclafani, Mark Stent &amp; Geoff Swan</MIXERS>
+         <MASTERENGINEERS>Stuart Hawkes</MASTERENGINEERS>
+         <LABEL>Atlantic</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>NZ</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/23/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop), Atlantic (Warner Music imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL>Atlantic Records UK</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285037</BARCODENUMBER>
+               <COUNTRY>AT</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>CH</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL>Warner Music UK Ltd. (don't use this as a release label!)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285891</BARCODENUMBER>
+               <COUNTRY>IT</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL>Atlantic Records UK</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>825646285891</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/23/2014</RELEASEDATE>
+               <RECORDLABEL>Warner Music UK Ltd. (don't use this as a release label!)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>825646285907</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285907</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/23/2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>825646285860</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285860</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/23/2014</RELEASEDATE>
+               <RECORDLABEL>Atlantic (Warner Music imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>543295-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285907</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014</RELEASEDATE>
+               <RECORDLABEL>Asylum Records (US Warner Bros subsidiary, was rock/folk now mostly hip-hop)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2-564628</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>825646285860</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A028" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>One</SONGNAME>
+               <SONGLENGTH>4:12</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A029" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>I'm a Mess</SONGNAME>
+               <SONGLENGTH>4:04</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A030" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Sing</SONGNAME>
+               <SONGLENGTH>3:55</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A031" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Don't</SONGNAME>
+               <SONGLENGTH>3:39</SONGLENGTH>
+               <COMPOSERS>Benjamin Levin / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A032" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Nina</SONGNAME>
+               <SONGLENGTH>3:45</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A033" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Photograph</SONGNAME>
+               <SONGLENGTH>4:18</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A034" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Bloodstream</SONGNAME>
+               <SONGLENGTH>5:00</SONGLENGTH>
+               <COMPOSERS>Gary Lightbody / Johnny McDaid / Rudimental / Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A035" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Tenerife Sea</SONGNAME>
+               <SONGLENGTH>4:01</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran / Foy Vance</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A036" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Runaway</SONGNAME>
+               <SONGLENGTH>3:25</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A037" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>The Man</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A038" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Thinking Out Loud</SONGNAME>
+               <SONGLENGTH>4:41</SONGLENGTH>
+               <COMPOSERS>Ed Sheeran / Amy Wadge</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A039" albumref="hw26-K315FL15C" type="song">
+               <SONGNAME>Afire Love</SONGNAME>
+               <SONGLENGTH>5:16</SONGLENGTH>
+               <COMPOSERS>Johnny McDaid / Ed Sheeran / Foy Vance</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Sam Smith</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>England</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2010s</CAREERSTART>
+      <CAREEREND/>
+      <GENRE>Pop/Rock</GENRE>
+      <ALBUM sku="hw26-K315FL15D">
+         <RATING>10</RATING>
+         <COMMENT>Favorite male singer</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="album">In The Lonely Hour</ALBUMNAME>
+         <ALBUMCOVER>In_The_Lonely_Hour.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.billboard.com/articles/review/6121544/sam-smith-in-the-lonely-hour-track-by-track-album-review.In_The_Lonely_Hour</IMAGESOURCE>
+         <PRODUCERS>Steve Fitzmaurice, Komi, Howard Lawrence, Zane Lowe, Mojam, Jimmy Napes, Naughty Boy, Fraser T. Smith, Two Inch Punch &amp; Eg White</PRODUCERS>
+         <MIXERS>Michael Angelo, Graham Archer, Steve Fitzmaurice, Simon Hale, Darren Heelis, James Murray, Jimmy Napes, Mustafa Omer, Dan Parry, Steve Price &amp; Eg White</MIXERS>
+         <MASTERENGINEERS>Tom Coyne &amp; Stuart Hawkes</MASTERENGINEERS>
+         <LABEL>Capitol Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>05/23/2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>NZ</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>05/26/2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3769173</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537691739</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/17/2014</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/17/2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B002057502</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537799251</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/17/2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2014</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B002061102</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537802371</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/21/2015</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICC-10015</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005867308</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/2015</RELEASEDATE>
+               <RECORDLABEL>Capitol Records (imprint of Capitol Records, Inc.)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE/>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>602547260734</BARCODENUMBER>
+               <COUNTRY/>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A040" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>Money On My Mind</SONGNAME>
+               <SONGLENGTH>3:13</SONGLENGTH>
+               <COMPOSERS>Ben Ash / Sam Smith</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A041" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>Good Thing</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Sam Smith / Eg White</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A042" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>Stay With Me</SONGNAME>
+               <SONGLENGTH>2:52</SONGLENGTH>
+               <COMPOSERS>James Napier / William Phillips / Sam Smith</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A043" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>Leave Your Lover</SONGNAME>
+               <SONGLENGTH>3:08</SONGLENGTH>
+               <COMPOSERS>Simon Aldred / Sam Smith</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A044" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>I'm Not The Only One</SONGNAME>
+               <SONGLENGTH>3:59</SONGLENGTH>
+               <COMPOSERS>James Napier / Sam Smith</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A045" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>I've Told You Now</SONGNAME>
+               <SONGLENGTH>3:30</SONGLENGTH>
+               <COMPOSERS>Sam Smith / Eg White</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A046" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>Like I Can</SONGNAME>
+               <SONGLENGTH>2:47</SONGLENGTH>
+               <COMPOSERS>Matt Prime / Sam Smith</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A047" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>Life Support</SONGNAME>
+               <SONGLENGTH>2:53</SONGLENGTH>
+               <COMPOSERS>Ben Ash / Sam Smith</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A048" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>Not In That Way</SONGNAME>
+               <SONGLENGTH>2:52</SONGLENGTH>
+               <COMPOSERS>Fraser T. Smith / Sam Smith</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A049" albumref="hw26-K315FL15D" type="song">
+               <SONGNAME>Lay Me Down</SONGNAME>
+               <SONGLENGTH>4:15</SONGLENGTH>
+               <COMPOSERS>James Napier / Elvin Smith / Sam Smith</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Pharrell Williams</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1990s</CAREERSTART>
+      <CAREEREND>2010s</CAREEREND>
+      <GENRE>R&amp;B</GENRE>
+      <ALBUM sku="hw26-K315FL15E">
+         <RATING>5</RATING>
+         <COMMENT>I like the cover of the Album</COMMENT>
+         <ALBUMNAME albumCategory="Grammy_Nominee" type="song">Girl</ALBUMNAME>
+         <ALBUMCOVER>Girl.jpg</ALBUMCOVER>
+         <IMAGESOURCE>https://en.wikipedia.org/wiki/Girl_(Pharrell_Williams_album)</IMAGESOURCE>
+         <PRODUCERS>Pharrell Williams</PRODUCERS>
+         <MIXERS>US</MIXERS>
+         <MASTERENGINEERS>Bob Ludwig</MASTERENGINEERS>
+         <LABEL>Columbia Records</LABEL>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>03/03/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>03/03/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>MX</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>03/03/2014</RELEASEDATE>
+               <RECORDLABEL>Columbia (imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88843055072</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>888430550728</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>03/03/2014</RELEASEDATE>
+               <RECORDLABEL>Back Lot Music</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886444495165</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>04/30/2014</RELEASEDATE>
+               <RECORDLABEL>Sony Records International (Japanese TEXTLESS walking eye imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>SICP-4129</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4547366216660</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>04/18/2014</RELEASEDATE>
+               <RECORDLABEL>[no label] (Special purpose label - white labels, self-published releases and other “no label” releases)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>PHARRELLGIRL001</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>Vinyl</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A050" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Marilyn Monroe</SONGNAME>
+               <SONGLENGTH>5:51</SONGLENGTH>
+               <COMPOSERS>Ann Marie Calhoun / Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A051" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Brand New</SONGNAME>
+               <SONGLENGTH>4:31</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A052" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Hunter</SONGNAME>
+               <SONGLENGTH>4:00</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A053" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Gush</SONGNAME>
+               <SONGLENGTH>3:54</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A054" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Happy [From Despicable Me 2]</SONGNAME>
+               <SONGLENGTH>3:52</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A055" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Come Get It Bae</SONGNAME>
+               <SONGLENGTH>3:21</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A056" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Gust of Wind</SONGNAME>
+               <SONGLENGTH>4:45</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A057" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Lost Queen</SONGNAME>
+               <SONGLENGTH>7:56</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A058" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>Who You Are</SONGNAME>
+               <SONGLENGTH>3:56</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A059" albumref="hw26-K315FL15E" type="song">
+               <SONGNAME>It Girl</SONGNAME>
+               <SONGLENGTH>4:49</SONGLENGTH>
+               <COMPOSERS>Pharrell Williams</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Adele</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>England</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2000s</CAREERSTART>
+      <CAREEREND>2010s</CAREEREND>
+      <GENRE>Pop/Rock,R&amp;B</GENRE>
+      <ALBUM sku="hw26-K315FL15F">
+         <RATING>10</RATING>
+         <COMMENT>I like all songs in this album</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">21</ALBUMNAME>
+         <ALBUMCOVER>21.jpg</ALBUMCOVER>
+         <IMAGESOURCE>https://en.wikipedia.org/wiki/21_(Adele_album)</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>01/19/2011</RELEASEDATE>
+               <RECORDLABEL>Hostess Entertainment Unlimited., XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>BGJ-10107</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4582214506968</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/20/2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>XLCD 520 E</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>634904152024</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/21/2011</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/21/2011</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>NL</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/21/2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/24/2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>XLCD 520</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>634904052027</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/24/2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>XLLP520</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>634904052010</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/24/2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>XLDL520</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/22/2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88697 44699 2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>886974469926</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/22/2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88697827342</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>886978273420</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>02/22/2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>XLCD 520</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>634904052027</BARCODENUMBER>
+               <COUNTRY>SG</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011</RELEASEDATE>
+               <RECORDLABEL>Just Music (South Africa)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>CDJUST434</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>6009143460638</BARCODENUMBER>
+               <COUNTRY>ZA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011</RELEASEDATE>
+               <RECORDLABEL>XL Recordings</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>CDJUST439</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>6009143461239</BARCODENUMBER>
+               <COUNTRY>ZA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2011</RELEASEDATE>
+               <RECORDLABEL>High Note Records (Taiwan)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>HN826CD</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4712765166926</BARCODENUMBER>
+               <COUNTRY>TW</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>03/07/2013</RELEASEDATE>
+               <RECORDLABEL>Beggars Group</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>BCXLCD520</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>9787798993646</BARCODENUMBER>
+               <COUNTRY>CN</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A060" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>Rolling in the Deep</SONGNAME>
+               <SONGLENGTH>3:48</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Paul Epworth</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A061" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>Rumour Has It</SONGNAME>
+               <SONGLENGTH>3:43</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Ryan Tedder</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A062" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>Turning Tables</SONGNAME>
+               <SONGLENGTH>4:10</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Ryan Tedder</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A063" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>Don't You Remember?</SONGNAME>
+               <SONGLENGTH>4:03</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Dan Wilson</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A064" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>Set Fire to the Rain</SONGNAME>
+               <SONGLENGTH>4:01</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Fraser T. Smith</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A065" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>He Won't Go</SONGNAME>
+               <SONGLENGTH>4:37</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Paul Epworth</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A066" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>Take It All</SONGNAME>
+               <SONGLENGTH>3:48</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Francis White</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A067" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>I'll Be Waiting</SONGNAME>
+               <SONGLENGTH>4:01</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Paul Epworth</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A068" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>One and Only</SONGNAME>
+               <SONGLENGTH>5:48</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Greg Wells / Dan Wilson</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A069" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>Lovesong</SONGNAME>
+               <SONGLENGTH>5:16</SONGLENGTH>
+               <COMPOSERS>Simon Gallup / Roger O'Donnell / Robert Smith / Porl Thompson / Laurence Tolhurst / Boris Williams</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A070" albumref="hw26-K315FL15F" type="song">
+               <SONGNAME>Someone Like You</SONGNAME>
+               <SONGLENGTH>4:45</SONGLENGTH>
+               <COMPOSERS>Adele Adkins / Dan Wilson</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Maroon 5</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES>Adam Levine, James Valentine, Jesse Carmichael, Matt Flynn, Mickey Madden, PJ Morton, Ryan Dusick </GROUPNAMES>
+      <CAREERSTART>1990s</CAREERSTART>
+      <CAREEREND>2010s</CAREEREND>
+      <GENRE>Pop/Rock</GENRE>
+      <ALBUM sku="hw26-K315FL15G">
+         <RATING>10</RATING>
+         <COMMENT>My favorite band's best album</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Overexposed</ALBUMNAME>
+         <ALBUMCOVER>Overexposed.jpg</ALBUMCOVER>
+         <IMAGESOURCE>http://www.amazon.com/Overexposed-Deluxe-Edition-Maroon-5/dp/B007V508CC</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>06/20/2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>UICA-1062</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4988005715654</BARCODENUMBER>
+               <COUNTRY>JP</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/25/2012</RELEASEDATE>
+               <RECORDLABEL>Polydor (worldwide imprint, see annotation)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3704278</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537042784</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/25/2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/26/2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>602537038510</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/26/2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>602537042791</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537042791</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/26/2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B0016896-02</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537038510</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/26/2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/26/2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/14/2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>DS30190/370 427-9</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>8808678250947</BARCODENUMBER>
+               <COUNTRY>KR</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>3709776</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537097760</BARCODENUMBER>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B001689702</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537038787</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>602537042784</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537042784</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>602537063710</BARCODENUMBER>
+               <COUNTRY>MY</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B0017005-02</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537067022</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2012</RELEASEDATE>
+               <RECORDLABEL>A&amp;M/Octone Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>B0017129-02</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602537083800</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A071" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>One More Night</SONGNAME>
+               <SONGLENGTH>3:39</SONGLENGTH>
+               <COMPOSERS>Savan Kotecha / Adam Levine / Max Martin / Shellback</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A072" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Payphone</SONGNAME>
+               <SONGLENGTH>3:51</SONGLENGTH>
+               <COMPOSERS>Benjamin Levin / Adam Levine / Ammar Malik / Dan Omelio / Shellback / Cameron Thomaz</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A073" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Daylight</SONGNAME>
+               <SONGLENGTH>3:45</SONGLENGTH>
+               <COMPOSERS>Adam Levine / Mason Levy / Max Martin</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A074" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Lucky Strike</SONGNAME>
+               <SONGLENGTH>3:05</SONGLENGTH>
+               <COMPOSERS>Adam Levine / Ryan Tedder / Noel Zancanella</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A075" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>The Man Who Never Lied</SONGNAME>
+               <SONGLENGTH>3:25</SONGLENGTH>
+               <COMPOSERS>Adam Levine / Marius Moba / Brian West</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A076" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Love Somebody</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Adam Levine / Nathaniel Motte / Ryan Tedder / Noel Zancanella</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A077" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Ladykiller</SONGNAME>
+               <SONGLENGTH>2:44</SONGLENGTH>
+               <COMPOSERS>Adam Levine / Mickey Madden / James Valentine</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A078" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Fortune Teller</SONGNAME>
+               <SONGLENGTH>3:23</SONGLENGTH>
+               <COMPOSERS>Adam Levine / Mickey Madden / James Valentine</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A079" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Sad</SONGNAME>
+               <SONGLENGTH>3:14</SONGLENGTH>
+               <COMPOSERS>Adam Levine / James Valentine</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A080" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Tickets</SONGNAME>
+               <SONGLENGTH>3:29</SONGLENGTH>
+               <COMPOSERS>Adam Levine / Mickey Madden / James Valentine</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A081" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Doin’ Dirt</SONGNAME>
+               <SONGLENGTH>3:31</SONGLENGTH>
+               <COMPOSERS>Adam Levine / Shellback</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A082" albumref="hw26-K315FL15G" type="song">
+               <SONGNAME>Beautiful Goodbye</SONGNAME>
+               <SONGLENGTH>4:15</SONGLENGTH>
+               <COMPOSERS>Benjamin Levin / Adam Levine / Ammar Malik</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Bruno Mars</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2000s</CAREERSTART>
+      <CAREEREND>2010s</CAREEREND>
+      <GENRE>Pop/Rock,R&amp;B,Rap</GENRE>
+      <ALBUM sku="hw26-K315FL15H">
+         <RATING>7</RATING>
+         <COMMENT>Lazy song is awesome</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">Doo-Wops &amp;Hooligans</ALBUMNAME>
+         <ALBUMCOVER>Doo-Wops_%26_Hooligans.Doo-Wops_&amp;_Hooligans.jpg</ALBUMCOVER>
+         <IMAGESOURCE>https://en.wikipedia.org/wiki</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>10/04/2010</RELEASEDATE>
+               <RECORDLABEL>Elektra (1950–1989, revived 2009–06-01; read annotations before use)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2-525393</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>75678912153</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>10/05/2010</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>10/05/2010</RELEASEDATE>
+               <RECORDLABEL>Elektra (1950–1989, revived 2009–06-01; read annotations before use)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>75679956484</BARCODENUMBER>
+               <COUNTRY>XW</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2010</RELEASEDATE>
+               <RECORDLABEL>Elektra (1950–1989, revived 2009–06-01; read annotations before use)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>7567883304</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER/>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/14/2011</RELEASEDATE>
+               <RECORDLABEL>Elektra Musician, Atlantic (Warner Music imprint)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>7567883325</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>75678833250</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>01/17/2011</RELEASEDATE>
+               <RECORDLABEL>Elektra (1950–1989, revived 2009–06-01; read annotations before use)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>7567883325</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>75678833250</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A083" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>Grenade</SONGNAME>
+               <SONGLENGTH>3:42</SONGLENGTH>
+               <COMPOSERS>Brody Brown / Claude Kelly / Philip Lawrence / Ari Levine / Bruno Mars / Andrew Wyatt</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A084" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>Just the Way You Are</SONGNAME>
+               <SONGLENGTH>3:40</SONGLENGTH>
+               <COMPOSERS>Khari Cain / Philip Lawrence / Ari Levine / Bruno Mars / Khalil Walton</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A085" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>Our First Time</SONGNAME>
+               <SONGLENGTH>4:03</SONGLENGTH>
+               <COMPOSERS>Philip Lawrence / Ari Levine / Bruno Mars / Dwayne "Supa Dups" Chin Quee</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A086" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>Runaway Baby</SONGNAME>
+               <SONGLENGTH>2:28</SONGLENGTH>
+               <COMPOSERS>Brody Brown / Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A087" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>The Lazy Song</SONGNAME>
+               <SONGLENGTH>3:15</SONGLENGTH>
+               <COMPOSERS>Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A088" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>Marry You</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A089" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>Talking to the Moon</SONGNAME>
+               <SONGLENGTH>3:37</SONGLENGTH>
+               <COMPOSERS>Jeff Bhasker / Philip Lawrence / Ari Levine / Bruno Mars / Albert Winkler</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A090" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>Liquor Store Blues</SONGNAME>
+               <SONGLENGTH>3:49</SONGLENGTH>
+               <COMPOSERS>Mitchum Chin / Philip Lawrence / Ari Levine / Damian "Junior Gong" Marley / Bruno Mars / Thomas Pentz / Dwayne "Supa Dups" Chin Quee</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A091" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>Count on Me</SONGNAME>
+               <SONGLENGTH>3:17</SONGLENGTH>
+               <COMPOSERS>Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A092" albumref="hw26-K315FL15H" type="song">
+               <SONGNAME>The Other Side</SONGNAME>
+               <SONGLENGTH>3:47</SONGLENGTH>
+               <COMPOSERS>Brody Brown / Bobby Ray Simmons Jr. / Philip Lawrence / Ari Levine / Bruno Mars</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>Arcade Fire</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>Canada</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>2000s</CAREERSTART>
+      <CAREEREND>2010s</CAREEREND>
+      <GENRE>Pop/Rock</GENRE>
+      <ALBUM sku="hw26-K315FL15I">
+         <RATING>5</RATING>
+         <COMMENT>I love the design of the Album</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">The Suburbs</ALBUMNAME>
+         <ALBUMCOVER>Arcade_Fire_-_The_Suburbs.jpg</ALBUMCOVER>
+         <IMAGESOURCE>https://en.wikipedia.org/wiki/The_Suburbs_(album)</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>07/03/2010</RELEASEDATE>
+               <RECORDLABEL>City Slang</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2742629/A</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4250506800093</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>07/30/2010</RELEASEDATE>
+               <RECORDLABEL>City Slang</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2742629/H</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4250506800093</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>07/30/2010</RELEASEDATE>
+               <RECORDLABEL>City Slang</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2743427</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>4250506800109</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/02/2010</RELEASEDATE>
+               <RECORDLABEL>City Slang</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2742629/B</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602527426297</BARCODENUMBER>
+               <COUNTRY>FR</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/02/2010</RELEASEDATE>
+               <RECORDLABEL>Mercury Records (Universal Music Group)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2742629/A</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602527426297</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/02/2010</RELEASEDATE>
+               <RECORDLABEL>City Slang</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2743427</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602527434278</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/03/2010</RELEASEDATE>
+               <RECORDLABEL>Merge Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>MRG385</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>673855038520</BARCODENUMBER>
+               <COUNTRY>CA</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/03/2010</RELEASEDATE>
+               <RECORDLABEL>Merge Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>MRG385</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>673855038513</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Vinyl</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/03/2010</RELEASEDATE>
+               <RECORDLABEL>Merge Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>MRG385</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>673855038520</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>2010</RELEASEDATE>
+               <RECORDLABEL>Universal Music (plain logo: "Universal Music")</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2742629/F</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602527426297</BARCODENUMBER>
+               <COUNTRY>NL</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>06/27/2011</RELEASEDATE>
+               <RECORDLABEL>Mercury Records (Universal Music Group)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>2770134</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>602527701349</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/02/2011</RELEASEDATE>
+               <RECORDLABEL>Merge Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>MRG420</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>673855042022</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>08/02/2011</RELEASEDATE>
+               <RECORDLABEL>Merge Records</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A093" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>The Suburbs</SONGNAME>
+               <SONGLENGTH>5:15</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A094" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Ready to Start</SONGNAME>
+               <SONGLENGTH>4:15</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A095" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Modern Man</SONGNAME>
+               <SONGLENGTH>4:39</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A096" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Rococo</SONGNAME>
+               <SONGLENGTH>3:56</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A097" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Empty Room</SONGNAME>
+               <SONGLENGTH>2:51</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A098" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>City with No Children</SONGNAME>
+               <SONGLENGTH>3:11</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A099" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Half Light I</SONGNAME>
+               <SONGLENGTH>4:13</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A100" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Half Light II (No Celebration)</SONGNAME>
+               <SONGLENGTH>4:27</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A101" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Suburban War</SONGNAME>
+               <SONGLENGTH>4:45</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A102" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Month of May</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A103" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Wasted Hours</SONGNAME>
+               <SONGLENGTH>3:20</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A104" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Deep Blue</SONGNAME>
+               <SONGLENGTH>4:28</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A105" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>We Used to Wait</SONGNAME>
+               <SONGLENGTH>5:01</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A106" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Sprawl I (Flatland)</SONGNAME>
+               <SONGLENGTH>2:54</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>14</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A107" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>Sprawl II (Mountains Beyond Mountains)</SONGNAME>
+               <SONGLENGTH>5:25</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>15</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A108" albumref="hw26-K315FL15I" type="song">
+               <SONGNAME>The Suburbs [Continued]</SONGNAME>
+               <SONGLENGTH>1:27</SONGLENGTH>
+               <COMPOSERS>Arcade Fire</COMPOSERS>
+               <SONGNUMBER>16</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+   <ARTIST>
+      <ARTISTNAME>P!nk</ARTISTNAME>
+      <ARTISTTYPE>Person</ARTISTTYPE>
+      <ARTISTCOUNTRY>US</ARTISTCOUNTRY>
+      <GROUPNAMES/>
+      <CAREERSTART>1990s</CAREERSTART>
+      <CAREEREND>2000s</CAREEREND>
+      <GENRE>Pop/Rock,R&amp;B, Electronic</GENRE>
+      <ALBUM sku="hw26-K315FL15J">
+         <RATING>8</RATING>
+         <COMMENT>I love pink, especially song named try</COMMENT>
+         <ALBUMNAME albumCategory="Personal_Favorite" type="album">The Truth About Love</ALBUMNAME>
+         <ALBUMCOVER>The_Truth_About_Love.jpg</ALBUMCOVER>
+         <IMAGESOURCE>https://en.wikipedia.org/wiki/The_Truth_About_Love_(Pink_album)</IMAGESOURCE>
+         <PRODUCERS/>
+         <MIXERS/>
+         <MASTERENGINEERS/>
+         <LABEL/>
+         <RELEASEINFORMATION>
+            <RELEASEDATA>
+               <RELEASEDATE>09/14/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>886443581128</BARCODENUMBER>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/14/2012</RELEASEDATE>
+               <RECORDLABEL/>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER/>
+               <COUNTRY>BR</COUNTRY>
+               <FORMAT/>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/14/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88725463372</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>887254665724</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/14/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>887254706120</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/17/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88725463372</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>887254633723</BARCODENUMBER>
+               <COUNTRY>GB</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/18/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88725-46657-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>887254665724</BARCODENUMBER>
+               <COUNTRY>AU</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/18/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88725452422</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>887254524229</BARCODENUMBER>
+               <COUNTRY>XE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/18/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/18/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>[none]</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>Digital Media</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>09/18/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER>88725-45245-2</RECORDLABELCATALOGNUMBER>
+               <BARCODENUMBER>887254524526</BARCODENUMBER>
+               <COUNTRY>US</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+            <RELEASEDATA>
+               <RELEASEDATE>11/30/2012</RELEASEDATE>
+               <RECORDLABEL>RCA (RCA Records: simple ‘RCA’ or 'RCA' with lightning bolt in circle)</RECORDLABEL>
+               <RECORDLABELCATALOGNUMBER/>
+               <BARCODENUMBER>887654230423</BARCODENUMBER>
+               <COUNTRY>DE</COUNTRY>
+               <FORMAT>CD</FORMAT>
+            </RELEASEDATA>
+         </RELEASEINFORMATION>
+         <TRACKLIST>
+            <SONG sku="hw26-K315FL15A109" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Are We All We Are</SONGNAME>
+               <SONGLENGTH>3:37</SONGLENGTH>
+               <COMPOSERS>Emile Haynie / John Hill / P!nk / Butch Walker</COMPOSERS>
+               <SONGNUMBER>1</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A110" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Blow Me (One Last Kiss)</SONGNAME>
+               <SONGLENGTH>4:16</SONGLENGTH>
+               <COMPOSERS>Greg Kurstin / P!nk</COMPOSERS>
+               <SONGNUMBER>2</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A111" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Try</SONGNAME>
+               <SONGLENGTH>4:07</SONGLENGTH>
+               <COMPOSERS>Busbee / Ben West</COMPOSERS>
+               <SONGNUMBER>3</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A112" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Just Give Me a Reason</SONGNAME>
+               <SONGLENGTH>4:02</SONGLENGTH>
+               <COMPOSERS>Jeff Bhasker / P!nk / Nate Ruess</COMPOSERS>
+               <SONGNUMBER>4</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A113" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>True Love</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Lily Rose Cooper / Greg Kurstin / P!nk</COMPOSERS>
+               <SONGNUMBER>5</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A114" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>How Come You're Not Here</SONGNAME>
+               <SONGLENGTH>3:12</SONGLENGTH>
+               <COMPOSERS>Greg Kurstin / P!nk</COMPOSERS>
+               <SONGNUMBER>6</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A115" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Slut Like You</SONGNAME>
+               <SONGLENGTH>3:41</SONGLENGTH>
+               <COMPOSERS>Max Martin / P!nk / Shellback</COMPOSERS>
+               <SONGNUMBER>7</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A116" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>The Truth About Love</SONGNAME>
+               <SONGLENGTH>3:50</SONGLENGTH>
+               <COMPOSERS>Billy Mann / P!nk / David Schuler</COMPOSERS>
+               <SONGNUMBER>8</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A117" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Beam Me Up</SONGNAME>
+               <SONGLENGTH>4:27</SONGLENGTH>
+               <COMPOSERS>Billy Mann / P!nk</COMPOSERS>
+               <SONGNUMBER>9</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A118" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Walk of Shame</SONGNAME>
+               <SONGLENGTH>2:43</SONGLENGTH>
+               <COMPOSERS>Greg Kurstin / P!nk</COMPOSERS>
+               <SONGNUMBER>10</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A119" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Here Comes the Weekend</SONGNAME>
+               <SONGLENGTH>4:25</SONGLENGTH>
+               <COMPOSERS>Erik Alcock / Pranam Injeti / Marshall Mathers / P!nk / Khalil Abdul Rahman / Liz Rodrigues</COMPOSERS>
+               <SONGNUMBER>11</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A120" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>Where Did the Beat Go?</SONGNAME>
+               <SONGLENGTH>4:18</SONGLENGTH>
+               <COMPOSERS>Steve Daly / Jon Keep / Billy Mann / P!nk</COMPOSERS>
+               <SONGNUMBER>12</SONGNUMBER>
+            </SONG>
+            <SONG sku="hw26-K315FL15A121" albumref="hw26-K315FL15J" type="song">
+               <SONGNAME>The Great Escape</SONGNAME>
+               <SONGLENGTH>4:24</SONGLENGTH>
+               <COMPOSERS>P!nk / Dan Wilson</COMPOSERS>
+               <SONGNUMBER>13</SONGNUMBER>
+            </SONG>
+         </TRACKLIST>
+      </ALBUM>
+   </ARTIST>
+</MUSIC>

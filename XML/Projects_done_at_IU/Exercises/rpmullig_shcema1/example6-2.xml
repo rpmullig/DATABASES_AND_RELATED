@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <cd>
+        <title>Ten</title>
+        <artist>Pearl Jam</artist>
+        <format>MP3</format>
+        <year>2012-01-27</year>
+        <price>8.99</price>
+    </cd>
+</inventory>
