@@ -74,8 +74,6 @@ COMMIT;
 
 
 
-
-
  /*Part A*/
 CREATE VIEW CUSTOMER_VIEW AS
 
